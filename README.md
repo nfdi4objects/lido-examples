@@ -22,3 +22,5 @@ git clone --recursive https://github.com/nfdi4objects/lido-examples.git
 
 Running `make` will validate all `.xml` examples against the XML Schema.
 
+To convert LIDO to RDF (experimental) run `make rdf` or `./convert.sh`.
+
