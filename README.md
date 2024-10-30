@@ -6,7 +6,9 @@ LIDO to CIDOC-CRM in particular.
 
 ## Examples
 
-- `LIDO-Example_FMobj00154983-LaPrimavera.xml` and `LIDO-Example_FMobj20344012-Fontana_del_Moro.xml` example records from LIDO homepage
+- `LIDO-Example_FMobj00154983-LaPrimavera.xml` and `LIDO-Example_FMobj20344012-Fontana_del_Moro.xml` LIDO 1.0 example records from LIDO homepage
+- `LIDO-v1.1-Example_FMobj00154983-LaPrimavera.xml` and `LIDO-v1.1-Example_FMobj20344012-Fontana_del_Moro.xml` LIDO 1.1 example records from LIDO homepage
+- `LIDO-Example_FMobj00154983-LaPrimavera.xml` and `LIDO-Example_FMobj20344012-Fontana_del_Moro.xml` LIDO 1.0 example records from LIDO homepage
 - `minimaldatensatz.xml` example from [Minimaldatensatz-Empfehlung für Museen und Sammlungen (v1.0.1)](https://wiki.deutsche-digitale-bibliothek.de/pages/viewpage.action?pageId=120422678) 
 - `kenom_oai_chunk20.xml` sample records from KENOM
 
