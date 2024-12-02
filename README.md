@@ -1,8 +1,6 @@
 # LIDO Examples
 
-This repositories contains examples of LIDO XML files to be converted to graphs in NFDI4Objects.
-The examples act as unit test for existing conversions and for discussion proper mapping of
-LIDO to CIDOC-CRM in particular.
+This repositories contains examples of [LIDO](http://www.lido-schema.org/) XML files for analysis of data quality issues and conversion of LIDO into other formats.
 
 ## Examples
 
@@ -22,7 +20,11 @@ git clone --recursive https://github.com/nfdi4objects/lido-examples.git
 
 ## Usage
 
+### Validation
+
 Running `make` will validate all `.xml` examples against the XML Schema.
+
+### Conversion
 
 To convert LIDO to RDF (experimental) run `make rdf` or `./convert.sh`.
 
