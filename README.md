@@ -22,7 +22,7 @@ git clone --recursive https://github.com/nfdi4objects/lido-examples.git
 
 ### Validation
 
-Running `make` will validate all `.xml` examples against the XML Schema.
+Running `make` will validate all `.xml` examples against the XML Schema (LIDO 1.1).
 
 ### Conversion
 
