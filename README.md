@@ -18,6 +18,12 @@ Clone with git submodules to also get LIDO XML Schemas from [a repository of its
 git clone --recursive https://github.com/nfdi4objects/lido-examples.git
 ~~~
 
+If the repository has already been cloned without `--recursive`, call in the woring directory:
+
+~~~sh
+git submodule update --init
+~~~
+
 ## Usage
 
 ### Validation
