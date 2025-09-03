@@ -1,0 +1,307 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xalan="http://xml.apache.org/xalan">
+	<lido:lido>
+		<lido:lidoRecID lido:type="local" lido:source="https://brandenburg.museum-digital.de/institution/4">DE-MUS-825210/78541</lido:lidoRecID>
+		<lido:category/>
+		<lido:descriptiveMetadata xml:lang="de">
+			<lido:objectClassificationWrap>
+				<lido:objectWorkTypeWrap>
+					<lido:objectWorkType>
+						<lido:conceptID lido:type="uri" lido:source="gnd">https://d-nb.info/gnd/4168515-5</lido:conceptID>
+						<lido:conceptID lido:type="uri" lido:source="wikidata">https://www.wikidata.org/wiki/Q27924600</lido:conceptID>
+						<lido:conceptID lido:type="uri" lido:source="Wikipedia">https://de.wikipedia.org/wiki/Magistrat_(Deutschland)</lido:conceptID>
+						<lido:conceptID lido:type="uri" lido:source="md:term">https://term.museum-digital.de/md-de/tag/1488</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no">Magistrat</lido:term>
+						<lido:term lido:addedSearchTerm="no" xml:lang="de">Magistrat</lido:term>
+						<lido:term lido:addedSearchTerm="no" xml:lang="ru">магистрат</lido:term>
+					</lido:objectWorkType>
+				</lido:objectWorkTypeWrap>
+				<lido:classificationWrap>
+					<lido:classification lido:type="Sammlung">
+						<lido:conceptID lido:type="collection_id" lido:source="local">3665</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no" xml:lang="de">Magistratsakten Aktenverzeichnis I Staatliches/Allgemeines</lido:term>
+					</lido:classification>
+				</lido:classificationWrap>
+			</lido:objectClassificationWrap>
+			<lido:objectIdentificationWrap>
+				<lido:titleWrap>
+					<lido:titleSet>
+						<lido:appellationValue lido:pref="preferred">Akte I 11</lido:appellationValue>
+					</lido:titleSet>
+				</lido:titleWrap>
+				<lido:repositoryWrap>
+					<lido:repositorySet lido:type="current">
+						<lido:repositoryName>
+							<lido:legalBodyID lido:type="isil">DE-MUS-825210</lido:legalBodyID>
+							<lido:legalBodyName>
+								<lido:appellationValue>Binnenschifffahrts-Museum Oderberg</lido:appellationValue>
+							</lido:legalBodyName>
+							<lido:legalBodyWeblink>https://www.bs-museum-oderberg.de/</lido:legalBodyWeblink>
+						</lido:repositoryName>
+						<lido:workID lido:type="inventory number">V 1356 S</lido:workID>
+						<lido:repositoryLocation>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Oderberg</lido:appellationValue>
+							</lido:namePlaceSet>
+							<lido:gml>
+								<gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+									<gml:pos>52.86333084 14.04625893</gml:pos>
+								</gml:Point>
+							</lido:gml>
+						</lido:repositoryLocation>
+					</lido:repositorySet>
+				</lido:repositoryWrap>
+				<lido:objectDescriptionWrap>
+					<lido:objectDescriptionSet>
+						<lido:descriptiveNoteValue>Die Akte des Magistrats von Oderberg enthält eine Bescheinigung über die Versicherung von Gebäuden bei der Städte-Feuer-Societät der Kur- und Neumark, der Nieder-Lausitz und der Aemter Senftenberg und Finsterwalde für den Fischer Otto Bowitz. Es wird bescheinigt, dass die in Oderberg gelegenen Gebäude, Berliner Str. 16 (Querstall und Wohnhaus), "bei der vorgenannten Societät gegen alle Feuers-Gefahr versichert sind."</lido:descriptiveNoteValue>
+						<lido:sourceDescriptiveNote>Binnenschifffahrts-Museum Oderberg</lido:sourceDescriptiveNote>
+					</lido:objectDescriptionSet>
+				</lido:objectDescriptionWrap>
+				<lido:objectMeasurementsWrap>
+					<lido:objectMeasurementsSet>
+						<lido:displayObjectMeasurements>L38,5xB24 cm</lido:displayObjectMeasurements>
+						<lido:objectMeasurements/>
+					</lido:objectMeasurementsSet>
+				</lido:objectMeasurementsWrap>
+			</lido:objectIdentificationWrap>
+			<lido:eventWrap>
+				<lido:eventSet>
+					<lido:displayEvent>Verfasst</lido:displayEvent>
+					<lido:event>
+						<lido:eventID lido:type="local">128882</lido:eventID>
+						<lido:eventType>
+							<lido:conceptID lido:type="uri">https://event-types.museum-digital.org/7</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">Verfasst</lido:term>
+						</lido:eventType>
+						<lido:eventName>
+							<lido:appellationValue/>
+						</lido:eventName>
+						<lido:eventDate>
+							<lido:displayDate>10.03.1869</lido:displayDate>
+							<lido:displayDate xml:lang="ar">١٠/٠٣/١٨٦٩</lido:displayDate>
+							<lido:displayDate xml:lang="de">10.03.1869</lido:displayDate>
+							<lido:displayDate xml:lang="en">March 10, 1869</lido:displayDate>
+							<lido:displayDate xml:lang="es">10/03/1869</lido:displayDate>
+							<lido:displayDate xml:lang="fa">۳۰/۰۵/۲۴۹۰</lido:displayDate>
+							<lido:displayDate xml:lang="fr">10/03/1869</lido:displayDate>
+							<lido:displayDate xml:lang="hu">1869. március 10.</lido:displayDate>
+							<lido:displayDate xml:lang="id">10 Maret 1869</lido:displayDate>
+							<lido:displayDate xml:lang="it">10/03/1869</lido:displayDate>
+							<lido:displayDate xml:lang="ja">1869年03月10日</lido:displayDate>
+							<lido:displayDate xml:lang="ka">10.03.1869</lido:displayDate>
+							<lido:displayDate xml:lang="ko">1869년 03월 10일</lido:displayDate>
+							<lido:displayDate xml:lang="pl">10.03.1869</lido:displayDate>
+							<lido:displayDate xml:lang="pt">10.03.1869</lido:displayDate>
+							<lido:displayDate xml:lang="ro">10.03.1869</lido:displayDate>
+							<lido:displayDate xml:lang="ru">10.03.1869</lido:displayDate>
+							<lido:displayDate xml:lang="ta">10-03-1869</lido:displayDate>
+							<lido:displayDate xml:lang="tl">1869-03-10</lido:displayDate>
+							<lido:displayDate xml:lang="tr">10.03.1869</lido:displayDate>
+							<lido:displayDate xml:lang="uk">10.03.1869</lido:displayDate>
+							<lido:displayDate xml:lang="zh">1869年03月10日</lido:displayDate>
+							<lido:date>
+								<lido:earliestDate>1869</lido:earliestDate>
+								<lido:latestDate>1869</lido:latestDate>
+							</lido:date>
+						</lido:eventDate>
+					</lido:event>
+				</lido:eventSet>
+				<lido:eventSet>
+					<lido:event>
+						<lido:eventType>
+							<lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+							<lido:term>Event (non-specified)</lido:term>
+						</lido:eventType>
+						<lido:eventMaterialsTech>
+							<lido:displayMaterialsTech>Papier</lido:displayMaterialsTech>
+						</lido:eventMaterialsTech>
+					</lido:event>
+				</lido:eventSet>
+			</lido:eventWrap>
+			<lido:objectRelationWrap>
+				<lido:subjectWrap>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="uri" lido:source="aat">http://vocab.getty.edu/aat/300025608</lido:conceptID>
+								<lido:conceptID lido:type="uri" lido:source="gnd">https://d-nb.info/gnd/4140853-6</lido:conceptID>
+								<lido:conceptID lido:type="uri" lido:source="iconclass">http://iconclass.org/rkd/43C128/</lido:conceptID>
+								<lido:conceptID lido:type="uri" lido:source="lcsh">http://id.loc.gov/authorities/subjects/sh85048686</lido:conceptID>
+								<lido:conceptID lido:type="uri" lido:source="wikidata">https://www.wikidata.org/wiki/Q331432</lido:conceptID>
+								<lido:conceptID lido:type="uri" lido:source="Wikipedia">https://de.wikipedia.org/wiki/Fischer_(Beruf)</lido:conceptID>
+								<lido:conceptID lido:type="uri" lido:source="md:term">https://term.museum-digital.de/md-de/tag/5920</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no">Fischer</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="ar">صياد سمك</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="bn">জেলে</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="cs">Rybář</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="da">Fisker</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Fischer</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="en">Fisher</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="es">Pescador</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="fa">ماهی‌گیر</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="fi">Kalastaja</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="fr">Pêcheur</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="he">דייג</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="hi">मछुआरा</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="id">Nelayan</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="it">Pescatore</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="ja">漁師</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="ko">어부</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="nl">Visser</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="pl">Rybak</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="pt">Pescador</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="ro">Pescar</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="ru">рыбак</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="sw">Wavuvi</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="ta">தமிழ் மீனவர்கள்</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="tl">Mangingisda</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="uk">рибалка</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="ur">ماہی گیر</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="vi">ngư dân</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="zh">漁夫</lido:term>
+							</lido:subjectConcept>
+						</lido:subject>
+					</lido:subjectSet>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="uri" lido:source="wikidata">https://www.wikidata.org/wiki/Q1203907</lido:conceptID>
+								<lido:conceptID lido:type="uri" lido:source="Wikipedia">https://de.wikipedia.org/wiki/Deutsche_Schrift</lido:conceptID>
+								<lido:conceptID lido:type="uri" lido:source="md:term">https://term.museum-digital.de/md-de/tag/12625</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no">Deutsche Schrift</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="cs">Novogotické písmo</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Deutsche Schrift</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="en">Deutsche Schrift</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="ru">Немецкая письменность</lido:term>
+							</lido:subjectConcept>
+						</lido:subject>
+					</lido:subjectSet>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="uri" lido:source="aat">https://vocab.getty.edu/page/aat/300027527</lido:conceptID>
+								<lido:conceptID lido:type="uri" lido:source="wikidata">https://www.wikidata.org/wiki/Q977871</lido:conceptID>
+								<lido:conceptID lido:type="uri" lido:source="Wikipedia">https://de.wikipedia.org/wiki/Versicherungsschein</lido:conceptID>
+								<lido:conceptID lido:type="uri" lido:source="md:term">https://term.museum-digital.de/md-de/tag/120049</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no">Versicherungsschein</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="ar">بوليصة التأمين</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="cs">Pojistka</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="da">Forsikringspolice</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Versicherungsschein</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="en">Insurance policy</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="es">Póliza de seguro</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="he">פוליסה</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="hi">बीमा पॉलिसी</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="id">Polis asuransi</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="it">Polizza</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="ko">보험계약</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="nl">Verzekeringspolis</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="pl">Polisa</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="pt">Apólice</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="ru">страховой полис</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="ta">காப்பீட்டு ஆவணம்</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="tr">Poliçe (sigorta)</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="uk">страховий сертифікат</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="vi">Hợp đồng bảo hiểm</lido:term>
+								<lido:term lido:addedSearchTerm="no" xml:lang="zh">保险合同</lido:term>
+							</lido:subjectConcept>
+						</lido:subject>
+					</lido:subjectSet>
+				</lido:subjectWrap>
+				<lido:relatedWorksWrap/>
+			</lido:objectRelationWrap>
+		</lido:descriptiveMetadata>
+		<lido:administrativeMetadata xml:lang="de">
+			<lido:rightsWorkWrap>
+				<lido:rightsWorkSet>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Binnenschifffahrts-Museum Oderberg</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsWorkSet>
+			</lido:rightsWorkWrap>
+			<lido:recordWrap>
+				<lido:recordID lido:type="museum-digital">78541</lido:recordID>
+				<lido:recordType>
+					<lido:term lido:addedSearchTerm="no">item</lido:term>
+				</lido:recordType>
+				<lido:recordSource lido:type="dataProvider">
+					<lido:legalBodyName>
+						<lido:appellationValue>museum-digital</lido:appellationValue>
+					</lido:legalBodyName>
+					<lido:legalBodyWeblink>https://brandenburg.museum-digital.de/</lido:legalBodyWeblink>
+				</lido:recordSource>
+				<lido:recordSource>
+					<lido:legalBodyID lido:type="isil">DE-MUS-825210</lido:legalBodyID>
+					<lido:legalBodyName>
+						<lido:appellationValue>Binnenschifffahrts-Museum Oderberg</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:recordSource>
+				<lido:recordRights>
+					<lido:rightsType>
+						<lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no">CC0 1.0 Universell</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:type="isil">DE-MUS-825210</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Binnenschifffahrts-Museum Oderberg</lido:appellationValue>
+						</lido:legalBodyName>
+						<lido:legalBodyWeblink>https://www.bs-museum-oderberg.de/</lido:legalBodyWeblink>
+					</lido:rightsHolder>
+				</lido:recordRights>
+				<lido:recordInfoSet>
+					<lido:recordInfoLink>https://brandenburg.museum-digital.de/object/78541</lido:recordInfoLink>
+					<lido:recordMetadataDate>2024-03-25 10:30:00</lido:recordMetadataDate>
+				</lido:recordInfoSet>
+			</lido:recordWrap>
+			<lido:resourceWrap>
+				<lido:resourceSet lido:sortorder="1">
+					<lido:resourceID lido:type="local" lido:source="image">109857</lido:resourceID>
+					<lido:resourceRepresentation lido:type="masterfile">
+						<lido:linkResource lido:formatResource="image/tiff">I11.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceRepresentation lido:type="image_thumb">
+						<lido:linkResource lido:formatResource="image/jpeg">https://brandenburg.museum-digital.de/data/brandenburg/images/4/78541-v_1356_s/akte_i_11/100h_akte-i-11-78541-965304.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceRepresentation lido:type="image_preview">
+						<lido:linkResource lido:formatResource="image/jpeg">https://brandenburg.museum-digital.de/data/brandenburg/images/4/78541-v_1356_s/akte_i_11/200w_akte-i-11-78541-965304.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceRepresentation lido:type="image_master">
+						<lido:linkResource lido:formatResource="image/jpeg">https://brandenburg.museum-digital.de/data/brandenburg/images/4/78541-v_1356_s/akte_i_11/akte-i-11-78541-965304.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:resourceRelType>
+						<lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+					</lido:resourceRelType>
+					<lido:resourceDescription>Akte I 11</lido:resourceDescription>
+					<lido:resourceSource lido:type="owner">
+						<lido:legalBodyName>
+							<lido:appellationValue>Binnenschifffahrts-Museum Oderberg</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:resourceSource>
+					<lido:resourceSource lido:type="creator">
+						<lido:legalBodyName>
+							<lido:appellationValue>Scan: Binnenschifffahrts-Museum Oderberg</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:resourceSource>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">CC BY-NC-SA</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Binnenschifffahrts-Museum Oderberg</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Scan: Binnenschifffahrts-Museum Oderberg</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+			</lido:resourceWrap>
+		</lido:administrativeMetadata>
+	</lido:lido>
+</lido:lidoWrap>

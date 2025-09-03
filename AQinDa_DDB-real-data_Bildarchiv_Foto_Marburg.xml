@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:source="Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg" lido:type="http://terminology.lido-schema.org/lido00100">DE-Mb112/lido/obj/20270079</lido:lidoRecID>
+	<lido:category>
+		<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object
+</lido:conceptID>
+		<lido:term xml:lang="en">Man-Made Object</lido:term>
+	</lido:category>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType>
+					<lido:conceptID lido:source="http://vocab.getty.edu/aat" lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300005768</lido:conceptID>
+					<lido:conceptID lido:source="http://d-nb.info/gnd" lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4040795-0</lido:conceptID>
+					<lido:term>Museum</lido:term>
+					<lido:term lido:addedSearchTerm="yes">Bildungsbau</lido:term>
+					<lido:term lido:addedSearchTerm="yes">Bauwerk</lido:term>
+					<lido:term lido:addedSearchTerm="yes">Profanbau öffentlich</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="europeana:type">
+					<lido:term>IMAGE</lido:term>
+				</lido:classification>
+				<lido:classification lido:type="Objektklassifikation">
+					<lido:conceptID lido:source="http://vocab.getty.edu/aat" lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300263552</lido:conceptID>
+					<lido:conceptID lido:source="http://d-nb.info/gnd" lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4002851-3</lido:conceptID>
+					<lido:term>Architektur</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap><lido:titleSet><lido:appellationValue lido:pref="preferred">Kunsthistorisches Museum und Naturhistorisches Museum</lido:appellationValue></lido:titleSet>
+				</lido:titleWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+					<lido:repositoryLocation>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Wien, Burgring 5; 7</lido:appellationValue>
+						</lido:namePlaceSet>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:source="http://terminology.lido-schema.org/eventType" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+						<lido:term>Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+								<lido:actorID lido:source="http://vocab.getty.edu/ulan" lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/ulan/500031906</lido:actorID>
+								<lido:actorID lido:source="http://d-nb.info/gnd" lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/118613154</lido:actorID>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Semper, Gottfried</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:nationalityActor>
+									<lido:term>Deutschland</lido:term>
+								</lido:nationalityActor>
+								<lido:vitalDatesActor>
+									<lido:earliestDate lido:type="birthDate">1803-11-29</lido:earliestDate>
+									<lido:latestDate lido:type="deathDate">1879-05-15</lido:latestDate>
+								</lido:vitalDatesActor>
+								<lido:genderActor>männlich</lido:genderActor>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Entwerfer</lido:term>
+							</lido:roleActor>
+						</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventActor>
+						<lido:actorInRole>
+							<lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+								<lido:actorID lido:source="http://vocab.getty.edu/ulan" lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/ulan/500020365</lido:actorID>
+								<lido:actorID lido:source="http://d-nb.info/gnd" lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/116511729</lido:actorID>
+								<lido:actorID lido:source="http://d-nb.info/gnd" lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/118546597</lido:actorID>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Hasenauer, Carl von (Freiherr)</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="alternate">Hasenauer, Karl (Freiherr)</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="alternate">Hasenauer, Karl von</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="alternate">Hasenauer, Carl von</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="alternate">Hasenauer, K.</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="alternate">Hasenauer, Karl</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="alternate">Hasenauer, Carl</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="alternate">Hasenauer, Matthias Carl Borromäus von</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="alternate">Hasenauer, Carl</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="alternate">Hasenauer, Matthias Carl Borromäus</lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:nationalityActor>
+									<lido:term>Österreich</lido:term>
+								</lido:nationalityActor>
+								<lido:vitalDatesActor>
+									<lido:earliestDate lido:type="birthDate">1833-07-20</lido:earliestDate>
+									<lido:latestDate lido:type="deathDate">1894-01-04</lido:latestDate>
+								</lido:vitalDatesActor>
+								<lido:genderActor>männlich</lido:genderActor>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Entwerfer</lido:term>
+							</lido:roleActor>
+						</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:displayDate>1872-1881</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>1872</lido:earliestDate>
+							<lido:latestDate>1881</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:recordWrap>
+			<lido:recordID lido:source="Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg" lido:type="http://terminology.lido-schema.org/lido00100">obj20270079</lido:recordID>
+			<lido:recordType>
+				<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+				<lido:term>Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource lido:type="europeana:dataProvider">
+				<lido:legalBodyName>
+					<lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+				</lido:legalBodyName>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:term>CC0 1.0 Public Domain Dedication</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyName>
+						<lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink>http://www.bildindex.de/document/obj20270079</lido:recordInfoLink>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet>
+				<lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">931.286</lido:resourceID>
+				<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+					<lido:linkResource>http://www.bildindex.de/bilder/d/fm931286</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>Digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceDescription lido:type="Beschreibung">Luftaufnahme von Nordosten</lido:resourceDescription>
+				<lido:resourceDateTaken>
+					<lido:displayDate>1944</lido:displayDate>
+				</lido:resourceDateTaken>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="URI">
+http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/
+</lido:conceptID>
+						<lido:term lido:pref="preferred">
+http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/
+</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="http://terminology.lido-schema.org/lido00099">
+http://ld.zdb-services.de/resource/organisations/DE-Mb112
+</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+			<lido:resourceSet>
+				<lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">931.287</lido:resourceID>
+				<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+					<lido:linkResource>http://www.bildindex.de/bilder/d/fm931287</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>Digitales Bild</lido:term>
+				</lido:resourceType>
+				<lido:resourceDescription lido:type="Beschreibung">Luftaufnahme von Nordosten</lido:resourceDescription>
+				<lido:resourceDateTaken>
+					<lido:displayDate>1944</lido:displayDate>
+				</lido:resourceDateTaken>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="URI">
+http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/
+</lido:conceptID>
+						<lido:term lido:pref="preferred">
+http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/
+</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="http://terminology.lido-schema.org/lido00099">
+http://ld.zdb-services.de/resource/organisations/DE-Mb112
+</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+			<lido:resourceSet>
+				<lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.200.991</lido:resourceID>
+				<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+					<lido:linkResource>http://www.bildindex.de/bilder/d/oe00189b05</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+				</lido:resourceType>
+				<lido:resourceDateTaken>
+					<lido:displayDate>um 1939/1940?</lido:displayDate>
+				</lido:resourceDateTaken>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="URI">
+http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/
+</lido:conceptID>
+						<lido:term lido:pref="preferred">
+http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/
+</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="http://terminology.lido-schema.org/lido00099">
+http://ld.zdb-services.de/resource/organisations/DE-Mb112
+</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+			<lido:resourceSet>
+				<lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.089.431</lido:resourceID>
+				<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+					<lido:linkResource>http://www.bildindex.de/bilder/d/oe00189b08</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+				</lido:resourceType>
+				<lido:resourceDateTaken>
+					<lido:displayDate>um 1895/1920?</lido:displayDate>
+				</lido:resourceDateTaken>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="URI">
+http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/
+</lido:conceptID>
+						<lido:term lido:pref="preferred">
+http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/
+</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="http://terminology.lido-schema.org/lido00099">
+http://ld.zdb-services.de/resource/organisations/DE-Mb112
+</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+			<lido:resourceSet>
+				<lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">1.200.990</lido:resourceID>
+				<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+					<lido:linkResource>http://www.bildindex.de/bilder/d/oe00189b09</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+				</lido:resourceType>
+				<lido:resourceDateTaken>
+					<lido:displayDate>um 1939/1940?</lido:displayDate>
+				</lido:resourceDateTaken>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="URI">
+http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/
+</lido:conceptID>
+						<lido:term lido:pref="preferred">
+http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/
+</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="http://terminology.lido-schema.org/lido00099">
+http://ld.zdb-services.de/resource/organisations/DE-Mb112
+</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+			<lido:resourceSet>
+				<lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">LA 579/12</lido:resourceID>
+				<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+					<lido:linkResource>http://www.bildindex.de/bilder/d/oe00189b10</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>Digitales Bild (retrodigitalisiert)</lido:term>
+				</lido:resourceType>
+				<lido:resourceDateTaken>
+					<lido:displayDate>um 1937/1940?</lido:displayDate>
+				</lido:resourceDateTaken>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="URI">
+http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/
+</lido:conceptID>
+						<lido:term lido:pref="preferred">
+http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/
+</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="http://terminology.lido-schema.org/lido00099">
+http://ld.zdb-services.de/resource/organisations/DE-Mb112
+</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Bildarchiv Foto Marburg</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>

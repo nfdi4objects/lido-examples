@@ -1,0 +1,309 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<lido:lidoWrap xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org"
+    xmlns:xalan="http://xml.apache.org/xalan">
+    <lido:lido>
+        <lido:lidoRecID lido:type="local" lido:source="ISIL (ISO 15511)/Obj.ID"
+            >DE-MUS-815614/872000</lido:lidoRecID>
+        <lido:objectPublishedID lido:type="uri" lido:source="SMB identifier"
+            >https://id.smb.museum/object/872000</lido:objectPublishedID>
+        <lido:category>
+            <lido:conceptID lido:type="URI" lido:source="RIA:Objekttyp"
+                >http://www.cidoc-crm.org/cidoc-crm/E22</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no" xml:lang="de">Künstlicher Gegenstand</lido:term>
+            <lido:term lido:addedSearchTerm="no" xml:lang="en">Human-Made Object</lido:term>
+        </lido:category>
+        <lido:descriptiveMetadata xml:lang="de">
+            <lido:objectClassificationWrap>
+                <lido:objectWorkTypeWrap>
+                    <lido:objectWorkType>
+                        <lido:conceptID lido:type="local" lido:source="RIA:Sachbegriff"
+                            >4288871</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no" xml:lang="de">Figur</lido:term>
+                    </lido:objectWorkType>
+                </lido:objectWorkTypeWrap>
+                <lido:classificationWrap>
+                    <lido:classification lido:type="Sachgruppe">
+                        <lido:term lido:addedSearchTerm="no" xml:lang="de">Figur</lido:term>
+                    </lido:classification>
+                    <lido:classification lido:type="Sammlung">
+                        <lido:conceptID lido:type="local">1632944</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no" xml:lang="de">Skulpturensammlung (SKS)</lido:term>
+                    </lido:classification>
+                </lido:classificationWrap>
+            </lido:objectClassificationWrap>
+            <lido:objectIdentificationWrap>
+                <lido:titleWrap>
+                    <lido:titleSet lido:type="Titel">
+                        <lido:appellationValue xml:lang="de">Kniender Engel</lido:appellationValue>
+                    </lido:titleSet>
+                </lido:titleWrap>
+                <lido:repositoryWrap>
+                    <lido:repositorySet lido:type="current">
+                        <lido:repositoryName>
+                            <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)"
+                                >DE-MUS-815614</lido:legalBodyID>
+                            <lido:legalBodyName>
+                                <lido:appellationValue>Skulpturensammlung und Museum für
+                                    Byzantinische Kunst, Staatliche Museen zu
+                                    Berlin</lido:appellationValue>
+                            </lido:legalBodyName>
+                            <lido:legalBodyWeblink>https://www.smb.museum/sbm</lido:legalBodyWeblink>
+                        </lido:repositoryName>
+                        <lido:workID lido:type="Inventory number">2943</lido:workID>
+                        <lido:repositoryLocation>
+                            <lido:placeID lido:type="URI" lido:source="http://vocab.getty.edu/tgn/"
+                                >http://vocab.getty.edu/tgn/7003712</lido:placeID>
+                            <lido:placeID lido:type="URI" lido:source="http://sws.geonames.org/"
+                                >http://sws.geonames.org/2950159</lido:placeID>
+                            <lido:namePlaceSet>
+                                <lido:appellationValue>Berlin</lido:appellationValue>
+                            </lido:namePlaceSet>
+                        </lido:repositoryLocation>
+                    </lido:repositorySet>
+                </lido:repositoryWrap>
+                <lido:objectDescriptionWrap>
+                    <lido:objectDescriptionSet lido:type="Objektbeschreibung">
+                        <lido:descriptiveNoteValue xml:lang="de"
+                            lido:encodinganalog="Online Beschreibung">Die flügellose kniende
+                            Engelsfigur ist im Mai 1945 an ihrem Auslagerungsort durch
+                            Feuereinwirkung stark beschädigt worden. Ihre Hände waren betend vor der
+                            Brust zusammengelegt. Die Skulptur gehörte, zusammen mit ihrem heute in
+                            der Sakristei von Santi Giovanni e Paolo in Venedig aufbewahrten
+                            Gegenstück, ursprünglich zu einem Altar in der 1812 zerstörten Kirche
+                            Santa Maria dei Servi in Venedig. Stilistisch, aber auch in der
+                            Beseelung des Steins, erinnert das hochrangige Bildwerk vor allem an die
+                            Kunst Antonio Rizzos, des Onkels Giambattista Bregnos. Außerdem lassen
+                            sich auch Bezüge zu der klassizistischen Kunst von Pietro Lombardo und
+                            dessen Söhnen Antonio und Tullio herstellen.</lido:descriptiveNoteValue>
+                    </lido:objectDescriptionSet>
+                </lido:objectDescriptionWrap>
+                <lido:objectMeasurementsWrap>
+                    <lido:objectMeasurementsSet>
+                        <lido:displayObjectMeasurements xml:lang="de">Breite: 54
+                            cm</lido:displayObjectMeasurements>
+                        <lido:displayObjectMeasurements xml:lang="en">54
+                            cm</lido:displayObjectMeasurements>
+                        <lido:objectMeasurements>
+                            <lido:measurementsSet>
+                                <lido:measurementType xml:lang="de">Breite</lido:measurementType>
+                                <lido:measurementUnit xml:lang="de">cm</lido:measurementUnit>
+                                <lido:measurementValue xml:lang="de">54</lido:measurementValue>
+                            </lido:measurementsSet>
+                        </lido:objectMeasurements>
+                    </lido:objectMeasurementsSet>
+                    <lido:objectMeasurementsSet>
+                        <lido:displayObjectMeasurements xml:lang="de">Höhe: 80
+                            cm</lido:displayObjectMeasurements>
+                        <lido:displayObjectMeasurements xml:lang="en">80
+                            cm</lido:displayObjectMeasurements>
+                        <lido:objectMeasurements>
+                            <lido:measurementsSet>
+                                <lido:measurementType xml:lang="de">Höhe</lido:measurementType>
+                                <lido:measurementUnit xml:lang="de">cm</lido:measurementUnit>
+                                <lido:measurementValue xml:lang="de">80</lido:measurementValue>
+                            </lido:measurementsSet>
+                        </lido:objectMeasurements>
+                    </lido:objectMeasurementsSet>
+                    <lido:objectMeasurementsSet>
+                        <lido:displayObjectMeasurements xml:lang="de">Tiefe: 30
+                            cm</lido:displayObjectMeasurements>
+                        <lido:displayObjectMeasurements xml:lang="en">30
+                            cm</lido:displayObjectMeasurements>
+                        <lido:objectMeasurements>
+                            <lido:measurementsSet>
+                                <lido:measurementType xml:lang="de">Tiefe</lido:measurementType>
+                                <lido:measurementUnit xml:lang="de">cm</lido:measurementUnit>
+                                <lido:measurementValue xml:lang="de">30</lido:measurementValue>
+                            </lido:measurementsSet>
+                        </lido:objectMeasurements>
+                    </lido:objectMeasurementsSet>
+                    <lido:objectMeasurementsSet>
+                        <lido:displayObjectMeasurements xml:lang="de">Gewicht: 81,8
+                            kg</lido:displayObjectMeasurements>
+                        <lido:displayObjectMeasurements xml:lang="en">81.8
+                            kg</lido:displayObjectMeasurements>
+                        <lido:objectMeasurements>
+                            <lido:measurementsSet>
+                                <lido:measurementType xml:lang="de">Gewicht</lido:measurementType>
+                                <lido:measurementUnit xml:lang="de">kg</lido:measurementUnit>
+                                <lido:measurementValue xml:lang="de">81.8</lido:measurementValue>
+                            </lido:measurementsSet>
+                        </lido:objectMeasurements>
+                    </lido:objectMeasurementsSet>
+                </lido:objectMeasurementsWrap>
+            </lido:objectIdentificationWrap>
+            <lido:eventWrap>
+                <lido:eventSet>
+                    <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
+                    <lido:event>
+                        <lido:eventType>
+                            <lido:conceptID lido:type="URI" lido:source="LIDO-Terminologie"
+                                >http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                            <lido:term lido:addedSearchTerm="no" xml:lang="de"
+                                >Herstellung</lido:term>
+                            <lido:term lido:addedSearchTerm="no" xml:lang="en"
+                                >Production</lido:term>
+                        </lido:eventType>
+                        <lido:eventActor>
+                            <lido:displayActorInRole>Giambattista di Alberto Bregno (1467/1477?),
+                                Bildhauer*in</lido:displayActorInRole>
+                            <lido:actorInRole>
+                                <lido:actor lido:type="Person">
+                                    <lido:actorID lido:type="local" lido:source="RIA/SMB"
+                                        >205418</lido:actorID>
+                                    <lido:actorID lido:type="URI" lido:source="ULAN"
+                                        >http://vocab.getty.edu/page/ulan/500042460</lido:actorID>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue lido:pref="preferred">Giambattista di
+                                            Alberto Bregno</lido:appellationValue>
+                                    </lido:nameActorSet>
+                                    <lido:genderActor xml:lang="de">männlich</lido:genderActor>
+                                </lido:actor>
+                                <lido:roleActor>
+                                    <lido:term lido:addedSearchTerm="no" xml:lang="de"
+                                        >Bildhauer*in</lido:term>
+                                </lido:roleActor>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                        <lido:eventPlace>
+                            <lido:displayPlace xml:lang="de">Venedig</lido:displayPlace>
+                            <lido:place>
+                                <lido:placeID lido:type="DetailsTxt"/>
+                                <lido:namePlaceSet>
+                                    <lido:appellationValue xml:lang="de"
+                                        >Venedig</lido:appellationValue>
+                                </lido:namePlaceSet>
+                            </lido:place>
+                        </lido:eventPlace>
+                        <lido:eventMaterialsTech>
+                            <lido:displayMaterialsTech xml:lang="de"
+                                >Marmor</lido:displayMaterialsTech>
+                            <lido:materialsTech>
+                                <lido:termMaterialsTech lido:type="material">
+                                    <lido:conceptID lido:type="local"
+                                        >MaterialVoc-4292615</lido:conceptID>
+                                    <lido:term lido:addedSearchTerm="no" xml:lang="de"
+                                        >Marmor</lido:term>
+                                </lido:termMaterialsTech>
+                            </lido:materialsTech>
+                        </lido:eventMaterialsTech>
+                    </lido:event>
+                </lido:eventSet>
+            </lido:eventWrap>
+            <lido:objectRelationWrap>
+                <lido:subjectWrap>
+                    <lido:subjectSet>
+                        <lido:displaySubject xml:lang="de">Engel</lido:displaySubject>
+                        <lido:subject>
+                            <lido:subjectConcept>
+                                <lido:conceptID lido:type="URL" lido:source="iconclass"/>
+                                <lido:term lido:addedSearchTerm="no" xml:lang="de"/>
+                            </lido:subjectConcept>
+                        </lido:subject>
+                    </lido:subjectSet>
+                </lido:subjectWrap>
+                <lido:relatedWorksWrap/>
+            </lido:objectRelationWrap>
+        </lido:descriptiveMetadata>
+        <lido:administrativeMetadata xml:lang="de">
+            <lido:rightsWorkWrap>
+                <lido:rightsWorkSet>
+                    <lido:rightsHolder>
+                        <lido:legalBodyID lido:type="concept-ID" lido:source="ISIL (ISO 15511)"
+                            >DE-MUS-815614</lido:legalBodyID>
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Skulpturensammlung und Museum für Byzantinische
+                                Kunst, Staatliche Museen zu Berlin</lido:appellationValue>
+                        </lido:legalBodyName>
+                        <lido:legalBodyWeblink>https://www.smb.museum/sbm</lido:legalBodyWeblink>
+                    </lido:rightsHolder>
+                </lido:rightsWorkSet>
+            </lido:rightsWorkWrap>
+            <lido:recordWrap>
+                <lido:recordID lido:type="local" lido:source="ISIL/Obj.ID"
+                    >DE-MUS-815614/872000</lido:recordID>
+                <lido:recordType>
+                    <lido:conceptID lido:type="URI" lido:source="LIDO-Terminologie"
+                        >http://terminology.lido-schema.org/lido00141</lido:conceptID>
+                    <lido:term lido:addedSearchTerm="no" xml:lang="de">Einzelobjekt</lido:term>
+                </lido:recordType>
+                <lido:recordSource lido:type="Institution">
+                    <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)"
+                        >DE-MUS-815614</lido:legalBodyID>
+                    <lido:legalBodyName>
+                        <lido:appellationValue>Skulpturensammlung und Museum für Byzantinische
+                            Kunst, Staatliche Museen zu Berlin</lido:appellationValue>
+                    </lido:legalBodyName>
+                    <lido:legalBodyWeblink>https://www.smb.museum/sbm</lido:legalBodyWeblink>
+                </lido:recordSource>
+                <lido:recordRights>
+                    <lido:rightsType>
+                        <lido:conceptID lido:type="URI" lido:source="CC"
+                            >https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no" xml:lang="en">CC BY-SA 4.0</lido:term>
+                    </lido:rightsType>
+                    <lido:rightsHolder>
+                        <lido:legalBodyID lido:type="URI" lido:source="ISIL (ISO 15511)"
+                            >DE-MUS-815614</lido:legalBodyID>
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Skulpturensammlung und Museum für Byzantinische
+                                Kunst, Staatliche Museen zu Berlin</lido:appellationValue>
+                        </lido:legalBodyName>
+                        <lido:legalBodyWeblink>https://www.smb.museum/sbm</lido:legalBodyWeblink>
+                    </lido:rightsHolder>
+                </lido:recordRights>
+                <lido:recordInfoSet>
+                    <lido:recordInfoLink lido:formatResource="html"
+                        >https://id.smb.museum/object/872000</lido:recordInfoLink>
+                </lido:recordInfoSet>
+            </lido:recordWrap>
+            <lido:resourceWrap>
+                <lido:resourceSet lido:sortorder="0">
+                    <lido:resourceID lido:type="local" lido:source="SMB/ObjID/AssetID"
+                        lido:label="Bild">DE-MUS-815614/872000/3371759</lido:resourceID>
+                    <lido:resourceRepresentation
+                        lido:type="http://terminology.lido-schema.org/lido00464">
+                        <lido:linkResource lido:formatResource="image/jpeg"
+                            >https://id.smb.museum/digital-asset/3371759</lido:linkResource>
+                    </lido:resourceRepresentation>
+                    <lido:resourceType>
+                        <lido:term lido:addedSearchTerm="no" xml:lang="EN">image</lido:term>
+                    </lido:resourceType>
+                    <lido:resourceRelType>
+                        <lido:term lido:addedSearchTerm="no" xml:lang="de">Hauptansicht</lido:term>
+                    </lido:resourceRelType>
+                    <lido:resourceDescription>Seitenansicht (rechts)</lido:resourceDescription>
+                    <lido:resourceDateTaken>
+                        <lido:displayDate>2006</lido:displayDate>
+                    </lido:resourceDateTaken>
+                    <lido:resourceSource lido:type="Fotograf">
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Jörg P. Anders</lido:appellationValue>
+                        </lido:legalBodyName>
+                    </lido:resourceSource>
+                    <lido:rightsResource>
+                        <lido:rightsType>
+                            <lido:conceptID lido:type="URI" lido:source="CC"
+                                >https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+                            <lido:term lido:addedSearchTerm="no"
+                                >Attribution-ShareAlike 4.0 International (CC BY-SA
+                                4.0)</lido:term>
+                        </lido:rightsType>
+                        <lido:rightsHolder>
+                            <lido:legalBodyID lido:type="concept-ID" lido:source="ISIL (ISO 15511)"
+                                >DE-MUS-815614</lido:legalBodyID>
+                            <lido:legalBodyName>
+                                <lido:appellationValue>Skulpturensammlung und Museum für
+                                    Byzantinische Kunst, Staatliche Museen zu
+                                    Berlin</lido:appellationValue>
+                            </lido:legalBodyName>
+                            <lido:legalBodyWeblink>https://www.smb.museum/sbm</lido:legalBodyWeblink>
+                        </lido:rightsHolder>
+                        <lido:creditLine>Staatliche Museen zu Berlin, Skulpturensammlung und Museum
+                            für Byzantinische Kunst / Jörg P. Anders</lido:creditLine>
+                    </lido:rightsResource>
+                </lido:resourceSet>
+            </lido:resourceWrap>
+        </lido:administrativeMetadata>
+    </lido:lido>
+</lido:lidoWrap>

@@ -1,0 +1,718 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<lido:lidoWrap xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org" xmlns:xalan="http://xml.apache.org/xalan">
+	<lido:lido>
+		<lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="local">DE-MUS-097410_715977</lido:lidoRecID>
+		<lido:objectPublishedID lido:type="uri">http://digital.deutsches-museum.de/item/1993-522</lido:objectPublishedID>
+		<lido:category>
+			<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/E22_Man-Made_Object</lido:conceptID>
+			<lido:term lido:addedSearchTerm="no">Man-Made Object</lido:term>
+		</lido:category>
+		<lido:descriptiveMetadata xml:lang="de">
+			<lido:objectClassificationWrap>
+				<lido:objectWorkTypeWrap>
+					<lido:objectWorkType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/aat/300423195</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no" xml:lang="eng">cipher machine</lido:term>
+					</lido:objectWorkType>
+				</lido:objectWorkTypeWrap>
+				<lido:classificationWrap>
+					<lido:classification lido:type="dm:fasy"/>
+				</lido:classificationWrap>
+			</lido:objectClassificationWrap>
+			<lido:objectIdentificationWrap>
+				<lido:titleWrap>
+					<lido:titleSet>
+						<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Chiffriermaschine Enigma I</lido:appellationValue>
+					</lido:titleSet>
+				</lido:titleWrap>
+				<lido:inscriptionsWrap>
+					<lido:inscriptions>
+						<lido:inscriptionTranscription>[Schild mit Gebrauchsanleitung] [...]/ ; 2) (Stempel:) RNW 1939</lido:inscriptionTranscription>
+						<lido:inscriptionDescription lido:type="type">
+							<lido:descriptiveNoteValue>-</lido:descriptiveNoteValue>
+						</lido:inscriptionDescription>
+					</lido:inscriptions>
+					<lido:inscriptions>
+						<lido:inscriptionTranscription>[Eingebautes Zahlenrad 1] III / A 13947</lido:inscriptionTranscription>
+						<lido:inscriptionDescription lido:type="type">
+							<lido:descriptiveNoteValue>-</lido:descriptiveNoteValue>
+						</lido:inscriptionDescription>
+					</lido:inscriptions>
+					<lido:inscriptions>
+						<lido:inscriptionTranscription>[Eingebautes Zahlenrad 2] II / A 10218</lido:inscriptionTranscription>
+						<lido:inscriptionDescription lido:type="type">
+							<lido:descriptiveNoteValue>-</lido:descriptiveNoteValue>
+						</lido:inscriptionDescription>
+					</lido:inscriptions>
+					<lido:inscriptions>
+						<lido:inscriptionTranscription>[Eingebautes Zahlenrad 3] V / A 7692</lido:inscriptionTranscription>
+						<lido:inscriptionDescription lido:type="type">
+							<lido:descriptiveNoteValue>-</lido:descriptiveNoteValue>
+						</lido:inscriptionDescription>
+					</lido:inscriptions>
+					<lido:inscriptions>
+						<lido:inscriptionTranscription>[Deckelinnenseite] Enigma / Chiffriermaschinen AG / Berlin W 35 / Steglitzerstr. 2 / A 2178 K</lido:inscriptionTranscription>
+						<lido:inscriptionDescription lido:type="type">
+							<lido:descriptiveNoteValue>-</lido:descriptiveNoteValue>
+						</lido:inscriptionDescription>
+						<lido:inscriptionDescription lido:type="extent">
+							<lido:descriptiveNoteValue>Hersteller</lido:descriptiveNoteValue>
+						</lido:inscriptionDescription>
+					</lido:inscriptions>
+				</lido:inscriptionsWrap>
+				<lido:repositoryWrap>
+					<lido:repositorySet lido:type="current">
+						<lido:repositoryName>
+							<lido:legalBodyID lido:type="id" lido:source="isil">DE-MUS-097410</lido:legalBodyID>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+							<lido:legalBodyWeblink>www.deutsches-museum.de</lido:legalBodyWeblink>
+						</lido:repositoryName>
+						<lido:workID lido:type="inventory number">1993-522</lido:workID>
+					</lido:repositorySet>
+				</lido:repositoryWrap>
+				<lido:objectDescriptionWrap>
+					<lido:objectDescriptionSet lido:type="context">
+						<lido:descriptiveNoteValue>Die elektromechanische Rotor-Chiffriermaschine Enigma I mit 3 Walzen wurde bereits ab den frühen 1930er Jahren von der deutschen Reichswehr zur Verschlüsselung von Funksprüchen verwendet; mit einem erweiterten Walzensatz (5 Walzen) wurde die Enigma I während des Zweiten Weltkriegs von Heer und Luftwaffe der deutschen Wehrmacht genutzt.</lido:descriptiveNoteValue>
+					</lido:objectDescriptionSet>
+				</lido:objectDescriptionWrap>
+				<lido:objectMeasurementsWrap>
+					<lido:objectMeasurementsSet>
+						<lido:displayObjectMeasurements>152 x 279 x 338 mm</lido:displayObjectMeasurements>
+						<lido:objectMeasurements>
+							<lido:extentMeasurements>Objektmaß (H x B x L/T)</lido:extentMeasurements>
+						</lido:objectMeasurements>
+					</lido:objectMeasurementsSet>
+					<lido:objectMeasurementsSet>
+						<lido:displayObjectMeasurements>10,95 kg</lido:displayObjectMeasurements>
+						<lido:objectMeasurements>
+							<lido:extentMeasurements>Masse</lido:extentMeasurements>
+						</lido:objectMeasurements>
+					</lido:objectMeasurementsSet>
+				</lido:objectMeasurementsWrap>
+			</lido:objectIdentificationWrap>
+			<lido:eventWrap>
+				<lido:eventSet>
+					<lido:event>
+						<lido:eventType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/E12_Production</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">Production</lido:term>
+						</lido:eventType>
+						<lido:eventName>
+							<lido:appellationValue xml:lang="de">Baujahr</lido:appellationValue>
+						</lido:eventName>
+						<lido:eventActor>
+							<lido:actorInRole>
+								<lido:actor lido:type="corporation">
+									<lido:actorID lido:type="id" lido:source="gnd">3048171-5</lido:actorID>
+									<lido:actorID lido:type="id" lido:source="local">21046</lido:actorID>
+									<lido:nameActorSet>
+										<lido:appellationValue>Chiffriermaschinen AG</lido:appellationValue>
+									</lido:nameActorSet>
+								</lido:actor>
+								<lido:roleActor>
+									<lido:term lido:addedSearchTerm="no">Hersteller</lido:term>
+								</lido:roleActor>
+							</lido:actorInRole>
+						</lido:eventActor>
+						<lido:eventActor>
+							<lido:actorInRole>
+								<lido:actor lido:type="person">
+									<lido:actorID lido:type="id" lido:source="gnd">127822089</lido:actorID>
+									<lido:actorID lido:type="id" lido:source="local">13863</lido:actorID>
+									<lido:nameActorSet>
+										<lido:appellationValue>Scherbius, Arthur</lido:appellationValue>
+									</lido:nameActorSet>
+								</lido:actor>
+								<lido:roleActor>
+									<lido:term lido:addedSearchTerm="no">Erfinder/in</lido:term>
+								</lido:roleActor>
+							</lido:actorInRole>
+						</lido:eventActor>
+						<lido:eventActor>
+							<lido:actorInRole>
+								<lido:actor lido:type="person">
+									<lido:actorID lido:type="id" lido:source="local">25230</lido:actorID>
+									<lido:nameActorSet>
+										<lido:appellationValue>Korn, Willi</lido:appellationValue>
+									</lido:nameActorSet>
+								</lido:actor>
+								<lido:roleActor>
+									<lido:term lido:addedSearchTerm="no">Erfinder/in</lido:term>
+								</lido:roleActor>
+							</lido:actorInRole>
+						</lido:eventActor>
+						<lido:eventDate>
+							<lido:displayDate>1939</lido:displayDate>
+							<lido:date>
+								<lido:earliestDate>1939</lido:earliestDate>
+								<lido:latestDate>1939</lido:latestDate>
+							</lido:date>
+						</lido:eventDate>
+						<lido:eventMaterialsTech>
+							<lido:materialsTech>
+								<lido:termMaterialsTech>
+									<lido:conceptID lido:type="uri" lido:source="local"/>
+									<lido:term lido:addedSearchTerm="no">Metall</lido:term>
+								</lido:termMaterialsTech>
+								<lido:extentMaterialsTech/>
+							</lido:materialsTech>
+						</lido:eventMaterialsTech>
+						<lido:eventMaterialsTech>
+							<lido:materialsTech>
+								<lido:termMaterialsTech>
+									<lido:conceptID lido:type="uri" lido:source="local"/>
+									<lido:term lido:addedSearchTerm="no">Kunststoff</lido:term>
+								</lido:termMaterialsTech>
+								<lido:extentMaterialsTech/>
+							</lido:materialsTech>
+						</lido:eventMaterialsTech>
+						<lido:eventMaterialsTech>
+							<lido:materialsTech>
+								<lido:termMaterialsTech>
+									<lido:conceptID lido:type="uri" lido:source="local"/>
+									<lido:term lido:addedSearchTerm="no">Textil</lido:term>
+								</lido:termMaterialsTech>
+								<lido:extentMaterialsTech>GewebeKabelisolierungen</lido:extentMaterialsTech>
+							</lido:materialsTech>
+						</lido:eventMaterialsTech>
+						<lido:eventMaterialsTech>
+							<lido:materialsTech>
+								<lido:termMaterialsTech>
+									<lido:conceptID lido:type="uri" lido:source="local"/>
+									<lido:term lido:addedSearchTerm="no">Eiche</lido:term>
+								</lido:termMaterialsTech>
+								<lido:extentMaterialsTech>Kasten</lido:extentMaterialsTech>
+							</lido:materialsTech>
+						</lido:eventMaterialsTech>
+						<lido:eventMaterialsTech>
+							<lido:materialsTech>
+								<lido:termMaterialsTech>
+									<lido:conceptID lido:type="uri" lido:source="local"/>
+									<lido:term lido:addedSearchTerm="no">Glas</lido:term>
+								</lido:termMaterialsTech>
+								<lido:extentMaterialsTech>Glühlampen</lido:extentMaterialsTech>
+							</lido:materialsTech>
+						</lido:eventMaterialsTech>
+					</lido:event>
+				</lido:eventSet>
+			</lido:eventWrap>
+			<lido:objectRelationWrap>
+				<lido:subjectWrap>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="uri" lido:source="local">https://digital.deutsches-museum.de/id/lokey/Meisterwerke</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no">Meisterwerke</lido:term>
+							</lido:subjectConcept>
+						</lido:subject>
+					</lido:subjectSet>
+				</lido:subjectWrap>
+				<lido:relatedWorksWrap>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:displayObject>Online-Präsentation der 3D-Digitalisierung historischer Chiffriermaschinen unter Verwendung computertomographischer Verfahren</lido:displayObject>
+							<lido:object>
+								<lido:objectWebResource>https://digital.deutsches-museum.de/de/projekte/3d-cipher/</lido:objectWebResource>
+							</lido:object>
+						</lido:relatedWork>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">https://digital.deutsches-museum.de/item/1993-522Z4</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="local">825367</lido:objectID>
+								<lido:objectID lido:type="inventory number" lido:source="local">1993-522Z4</lido:objectID>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P46_is_composed_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is composed of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">https://digital.deutsches-museum.de/item/1993-522Z1</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="local">752462</lido:objectID>
+								<lido:objectID lido:type="inventory number" lido:source="local">1993-522Z1</lido:objectID>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P46_is_composed_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is composed of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">https://digital.deutsches-museum.de/item/1993-522Z2</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="local">752463</lido:objectID>
+								<lido:objectID lido:type="inventory number" lido:source="local">1993-522Z2</lido:objectID>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P46_is_composed_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is composed of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">https://digital.deutsches-museum.de/item/1993-522Z3</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="local">752464</lido:objectID>
+								<lido:objectID lido:type="inventory number" lido:source="local">1993-522Z3</lido:objectID>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P46_is_composed_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is composed of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&amp;docid=DE000000416219A</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="dpma">DRP 416219</lido:objectID>
+								<lido:objectNote lido:type="patent">Gewerkschaft Securitas (Berlin), Chiffrierapparat., 1918 (DRP 416219)</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P129i_is_subject_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is subject of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&amp;docid=DE000000378238A</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="dpma">DRP 378238</lido:objectID>
+								<lido:objectNote lido:type="patent">Scherbius, Arthur Dr. (Berlin), Chiffrier-oder Dechiffriermaschine., 1921 (DRP 378238)</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P129i_is_subject_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is subject of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&amp;docid=DE000000541702A</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="dpma">DRP 541702</lido:objectID>
+								<lido:objectNote lido:type="patent">Chiffriermaschinen Akt.-Ges. (Anmelder); Scherbius, Arthur Dr; Korn, Willi (Erfinder), Einrichtung für elektrische Chiffriermaschinen., 1929 (DRP 541702)</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P129i_is_subject_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is subject of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&amp;docid=DE000000460457A</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="dpma">DRP 460457</lido:objectID>
+								<lido:objectNote lido:type="patent">Chiffriermaschinen Akt.-Ges- (Anmelder); Korn, Willi (Erfinder), Chiffriervorrichtung zur Verwendung bei Chiffriermaschinen, 1926 (DRP 460457)</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P129i_is_subject_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is subject of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">http://gateway-bayern.de/BV023423033</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="bvb">BV023423033</lido:objectID>
+								<lido:objectNote lido:type="citation">Petzold, Hartmut: Die Rotor-Chiffriermaschine Enigma der deutschen Wehrmacht. In: Deutsches Museum (Hrsg.): Meisterwerke aus dem Deutschen Museum. Band II. München 1999, S. 44-47.</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P129i_is_subject_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is subject of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">http://gateway-bayern.de/BV013325349</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="bvb">BV013325349</lido:objectID>
+								<lido:objectNote lido:type="citation">Bauer, Friedrich L.: Entzifferte Geheimnisse. Methoden und Maximen der Kryptologie. Berlin u.a. 2000.</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P129i_is_subject_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is subject of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">http://gateway-bayern.de/BV011510122</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="bvb">BV011510122</lido:objectID>
+								<lido:objectNote lido:type="citation">Kippenhahn, Rudolf: Verschlüsselte Botschaften. Geheimschrift, Enigma und Chipkarte. Reinbek bei Hamburg 1997.</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P129i_is_subject_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is subject of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">http://gateway-bayern.de/BV004576001</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="bvb">BV004576001</lido:objectID>
+								<lido:objectNote lido:type="citation">Kahn, David: Seizing the enigma. The race to break the German U-boat codes, 1939 - 1943. Boston 1991.</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P129i_is_subject_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is subject of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">http://gateway-bayern.de/BV011340253</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="bvb">BV011340253</lido:objectID>
+								<lido:objectNote lido:type="citation">Kahn, David: The codebreakers. The story of secret writing. New York 1996.</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P129i_is_subject_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is subject of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource lido:pref="preferred">https://depatisnet.dpma.de/DepatisNet/depatisnet?action=pdf&amp;docid=DE000000452194A</lido:objectWebResource>
+								<lido:objectID lido:type="id" lido:source="dpma">DRP 452194</lido:objectID>
+								<lido:objectNote lido:type="patent">Chiffriermaschinen Akt.-Ges. (Anmelder); Korn, Willi (Erfinder), Elektrische Vorrichtung zum Chiffrieren und Dechiffrieren., 1926 (DRP 452194)</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="uri" lido:source="cidoc-crm">http://erlangen-crm.org/current/P129i_is_subject_of</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">is subject of</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+				</lido:relatedWorksWrap>
+			</lido:objectRelationWrap>
+		</lido:descriptiveMetadata>
+		<lido:administrativeMetadata xml:lang="de">
+			<lido:recordWrap>
+				<lido:recordID lido:type="local">715977</lido:recordID>
+				<lido:recordType>
+					<lido:term lido:addedSearchTerm="no">item</lido:term>
+				</lido:recordType>
+				<lido:recordSource>
+					<lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="isil">DE-MUS-097410</lido:legalBodyID>
+					<lido:legalBodyName>
+						<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+					</lido:legalBodyName>
+					<lido:legalBodyWeblink>www.deutsches-museum.de</lido:legalBodyWeblink>
+				</lido:recordSource>
+				<lido:recordRights>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/zero/1.0/deed.de</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no">CC0 1.0 Universell (CC0 1.0) Public Domain Dedication</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:recordRights>
+				<lido:recordInfoSet>
+					<lido:recordInfoLink>https://digital.deutsches-museum.de/item/1993-522/</lido:recordInfoLink>
+				</lido:recordInfoSet>
+			</lido:recordWrap>
+			<lido:resourceWrap>
+				<lido:resourceSet lido:sortorder="1">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:pref="preferred" lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_%23_001/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="2">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_20140922_003_D5_ND_CF/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum / Christian Ferstl, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="3">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_20140922_004_D5_ND_CF/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum / Christian Ferstl, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="4">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_20140922_005_D5_ND_CF/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum / Christian Ferstl, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="5">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_20140922_006_D5_ND_CF/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum / Christian Ferstl, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="6">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_20140922_007_D5_ND_CF/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum / Christian Ferstl, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="7">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_20170308_001_SAMOA_ED_GFriedinger/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum / Gerhard Friedinger, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="8">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_20170308_002_SAMOA_ED_GFriedinger/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum / Gerhard Friedinger, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="9">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_20170308_003_SAMOA_ED_GFriedinger/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum / Gerhard Friedinger, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="10">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_20170308_004_SAMOA_ED_GFriedinger/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum / Gerhard Friedinger, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="11">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_20140922_008_D5_ND_CF/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum / Christian Ferstl, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="12">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_20140922_001_D5_ND_CF/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum / Christian Ferstl, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="13">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_20140922_002_D5_ND_CF/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum / Christian Ferstl, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="14">
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/iiif">https://media.deutsches-museum.de/id/1993-522_20220520_001_Fotoatelier_ND_CIlling/full/max/0/default.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="deu">Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Museum</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine>Deutsches Museum / Christian Illing, CC BY-SA 4.0</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+			</lido:resourceWrap>
+		</lido:administrativeMetadata>
+	</lido:lido>
+</lido:lidoWrap>

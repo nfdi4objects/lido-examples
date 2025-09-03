@@ -1,0 +1,275 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml"
+    xmlns:schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/feature.xsd"
+    xmlns:xalan="http://xml.apache.org/xalan"
+    xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+    <lido:lido>
+        <lido:lidoRecID lido:type="local" lido:source="https://brandenburg.museum-digital.de/index.php?t=institution&amp;instnr=31">DE-MUS-824915/43734</lido:lidoRecID>
+        <lido:category/>
+        <lido:descriptiveMetadata xml:lang="de">
+            <lido:objectClassificationWrap>
+                <lido:objectWorkTypeWrap>
+                    <lido:objectWorkType>
+                        <lido:conceptID lido:type="uri" lido:source="gnd">http://d-nb.info/gnd/4045895-7</lido:conceptID>
+                        <lido:conceptID lido:type="uri" lido:source="grobsystematik">https://term.museum-digital.de/grobsystematik/tag/3385</lido:conceptID>
+                        <lido:conceptID lido:type="uri" lido:source="aat">http://vocab.getty.edu/aat/300054225</lido:conceptID>
+                        <lido:conceptID lido:type="uri" lido:source="lcsh">http://id.loc.gov/authorities/subjects/sh00006943</lido:conceptID>
+                        <lido:conceptID lido:type="uri" lido:source="md:term">https://term.museum-digital.de/md-de/tag/132</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografie</lido:term>
+                    </lido:objectWorkType>
+                </lido:objectWorkTypeWrap>
+                <lido:classificationWrap>
+                    <lido:classification lido:type="Sammlung">
+                        <lido:conceptID lido:type="collection_id" lido:source="local">270</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no" xml:lang="de">Fotografenmeisterin Ursula Raschke</lido:term>
+                    </lido:classification>
+                </lido:classificationWrap>
+            </lido:objectClassificationWrap>
+            <lido:objectIdentificationWrap>
+                <lido:titleWrap>
+                    <lido:titleSet>
+                        <lido:appellationValue lido:pref="preferred">Fotografie der Fuhrunternehmer Krüger und Sohn</lido:appellationValue>
+                    </lido:titleSet>
+                </lido:titleWrap>
+                <lido:repositoryWrap>
+                    <lido:repositorySet lido:type="current">
+                        <lido:repositoryName>
+                            <lido:legalBodyID lido:type="isil">DE-MUS-824915/10261</lido:legalBodyID>
+                            <lido:legalBodyName>
+                                <lido:appellationValue>Heimatmuseum Müllrose im Haus des Gastes</lido:appellationValue>
+                            </lido:legalBodyName>
+                            <lido:legalBodyWeblink>https://www.muellrose.de/kultur-in-muellrose</lido:legalBodyWeblink>
+                        </lido:repositoryName>
+                        <lido:workID lido:type="inventory number">V Z 1358-2323-33</lido:workID>
+                        <lido:repositoryLocation>
+                            <lido:namePlaceSet>
+                                <lido:appellationValue>Müllrose</lido:appellationValue>
+                            </lido:namePlaceSet>
+                            <lido:gml>
+                                <gml:Point xmlns:gml="http://www.opengis.net/gml"
+                                    srsName="EPSG:4326">
+                                    <gml:pos>52.2465477 14.41400528</gml:pos>
+                                </gml:Point>
+                            </lido:gml>
+                        </lido:repositoryLocation>
+                    </lido:repositorySet>
+                </lido:repositoryWrap>
+                <lido:objectDescriptionWrap>
+                    <lido:objectDescriptionSet>
+                        <lido:descriptiveNoteValue>Vor einem LKW des Fuhrunternehmens Krüger &amp; Sohn posiert Wolfgang Krüger (links) mit Mitarbeitern und seinem Sohn Torsten (zweiter von rechts). Dies ist eine der wenigen Aufnahmen von Ursula Raschke auf Kleinbildfilm.</lido:descriptiveNoteValue>
+                        <lido:sourceDescriptiveNote>Heimatmuseum Müllrose im Haus des Gastes</lido:sourceDescriptiveNote>
+                    </lido:objectDescriptionSet>
+                </lido:objectDescriptionWrap>
+                <lido:objectMeasurementsWrap>
+                    <lido:objectMeasurementsSet>
+                        <lido:displayObjectMeasurements>2.4 x 3,6 cm</lido:displayObjectMeasurements>
+                        <lido:objectMeasurements/>
+                    </lido:objectMeasurementsSet>
+                </lido:objectMeasurementsWrap>
+            </lido:objectIdentificationWrap>
+            <lido:eventWrap>
+                <lido:eventSet>
+                    <lido:displayEvent>Aufnahme</lido:displayEvent>
+                    <lido:event>
+                        <lido:eventID lido:type="local">45777</lido:eventID>
+                        <lido:eventType>
+                            <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/10</lido:conceptID>
+                            <lido:term lido:addedSearchTerm="no">Aufgenommen</lido:term>
+                        </lido:eventType>
+                        <lido:eventName>
+                            <lido:appellationValue/>
+                        </lido:eventName>
+                        <lido:eventActor>
+                            <lido:actorInRole>
+                                <lido:actor>
+                                    <lido:actorID lido:type="uri" lido:source="gnd">https://d-nb.info/gnd/1232842486</lido:actorID>
+                                    <lido:nameActorSet>
+                                        <lido:appellationValue>Raschke, Ursula</lido:appellationValue>
+                                        <lido:appellationValue xml:lang="de">Ursula Raschke</lido:appellationValue>
+                                    </lido:nameActorSet>
+                                    <lido:vitalDatesActor>
+                                        <lido:earliestDate>1919</lido:earliestDate>
+                                        <lido:latestDate>1996</lido:latestDate>
+                                    </lido:vitalDatesActor>
+                                </lido:actor>
+                            </lido:actorInRole>
+                        </lido:eventActor>
+                        <lido:eventDate>
+                            <lido:displayDate>1971-1981 (wahrscheinlich)</lido:displayDate>
+                            <lido:date>
+                                <lido:earliestDate>1971</lido:earliestDate>
+                                <lido:latestDate>1981</lido:latestDate>
+                            </lido:date>
+                        </lido:eventDate>
+                        <lido:eventPlace>
+                            <lido:displayPlace>Müllrose</lido:displayPlace>
+                            <lido:displayPlace xml:lang="ar">مولروزه</lido:displayPlace>
+                            <lido:displayPlace xml:lang="cs">Müllrose</lido:displayPlace>
+                            <lido:displayPlace xml:lang="da">Müllrose</lido:displayPlace>
+                            <lido:displayPlace xml:lang="de">Müllrose</lido:displayPlace>
+                            <lido:displayPlace xml:lang="en">Müllrose</lido:displayPlace>
+                            <lido:displayPlace xml:lang="es">Müllrose</lido:displayPlace>
+                            <lido:displayPlace xml:lang="fa">مولروزه</lido:displayPlace>
+                            <lido:displayPlace xml:lang="fr">Müllrose</lido:displayPlace>
+                            <lido:displayPlace xml:lang="hu">Müllrose</lido:displayPlace>
+                            <lido:displayPlace xml:lang="it">Müllrose</lido:displayPlace>
+                            <lido:displayPlace xml:lang="ja">ミュルローゼ</lido:displayPlace>
+                            <lido:displayPlace xml:lang="nl">Müllrose</lido:displayPlace>
+                            <lido:displayPlace xml:lang="pl">Müllrose</lido:displayPlace>
+                            <lido:displayPlace xml:lang="ro">Müllrose</lido:displayPlace>
+                            <lido:displayPlace xml:lang="ru">Мюлльрозе</lido:displayPlace>
+                            <lido:displayPlace xml:lang="sv">Müllrose</lido:displayPlace>
+                            <lido:displayPlace xml:lang="zh">米尔罗瑟</lido:displayPlace>
+                            <lido:place>
+                                <lido:placeID lido:type="uri" lido:source="geonames">https://sws.geonames.org/6550635</lido:placeID>
+                                <lido:placeID lido:type="uri" lido:source="TGN">http://vocab.getty.edu/tgn/1037253</lido:placeID>
+                                <lido:placeID lido:type="uri" lido:source="gnd">https://d-nb.info/gnd/4271908-2</lido:placeID>
+                                <lido:placeID lido:type="uri" lido:source="wikidata">https://www.wikidata.org/wiki/Q638607</lido:placeID>
+                                <lido:placeID lido:type="uri" lido:source="md:term">https://term.museum-digital.de/md-de/place/12012</lido:placeID>
+                                <lido:namePlaceSet>
+                                    <lido:appellationValue>Müllrose</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="ar">مولروزه</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="cs">Müllrose</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="da">Müllrose</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="de">Müllrose</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="en">Müllrose</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="es">Müllrose</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="fa">مولروزه</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="fr">Müllrose</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="hu">Müllrose</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="it">Müllrose</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="ja">ミュルローゼ</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="nl">Müllrose</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="pl">Müllrose</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="ro">Müllrose</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="ru">Мюлльрозе</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="sv">Müllrose</lido:appellationValue>
+                                    <lido:appellationValue xml:lang="zh">米尔罗瑟</lido:appellationValue>
+                                </lido:namePlaceSet>
+                                <lido:gml>
+                                    <gml:Point xmlns:gml="http://www.opengis.net/gml"
+                                        srsName="EPSG:4326">
+                                        <gml:pos>52.25 14.416666984558</gml:pos>
+                                    </gml:Point>
+                                </lido:gml>
+                            </lido:place>
+                        </lido:eventPlace>
+                    </lido:event>
+                </lido:eventSet>
+                <lido:eventSet>
+                    <lido:event>
+                        <lido:eventType>
+                            <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                            <lido:term>Event (non-specified)</lido:term>
+                        </lido:eventType>
+                        <lido:eventMaterialsTech>
+                            <lido:displayMaterialsTech>SW Negativfilm</lido:displayMaterialsTech>
+                            <lido:materialsTech>
+                                <lido:termMaterialsTech lido:type="material">
+                                    <lido:term lido:addedSearchTerm="no">SW Negativfilm</lido:term>
+                                </lido:termMaterialsTech>
+                            </lido:materialsTech>
+                        </lido:eventMaterialsTech>
+                    </lido:event>
+                </lido:eventSet>
+            </lido:eventWrap>
+            <lido:objectRelationWrap>
+                <lido:subjectWrap/>
+                <lido:relatedWorksWrap/>
+            </lido:objectRelationWrap>
+        </lido:descriptiveMetadata>
+        <lido:administrativeMetadata xml:lang="de">
+            <lido:rightsWorkWrap>
+                <lido:rightsWorkSet>
+                    <lido:rightsHolder>
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Heimatmuseum Müllrose im Haus des Gastes</lido:appellationValue>
+                        </lido:legalBodyName>
+                    </lido:rightsHolder>
+                </lido:rightsWorkSet>
+            </lido:rightsWorkWrap>
+            <lido:recordWrap>
+                <lido:recordID lido:type="museum-digital">43734</lido:recordID>
+                <lido:recordType>
+                    <lido:term lido:addedSearchTerm="no">item</lido:term>
+                </lido:recordType>
+                <lido:recordSource lido:type="dataProvider">
+                    <lido:legalBodyName>
+                        <lido:appellationValue>museum-digital</lido:appellationValue>
+                    </lido:legalBodyName>
+                    <lido:legalBodyWeblink>https://brandenburg.museum-digital.de/</lido:legalBodyWeblink>
+                </lido:recordSource>
+                <lido:recordSource>
+                    <lido:legalBodyID lido:type="isil">DE-MUS-824915/10261</lido:legalBodyID>
+                    <lido:legalBodyName>
+                        <lido:appellationValue>Heimatmuseum Müllrose im Haus des Gastes</lido:appellationValue>
+                    </lido:legalBodyName>
+                </lido:recordSource>
+                <lido:recordRights>
+                    <lido:rightsType>
+                        <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no">CC BY-NC-SA</lido:term>
+                    </lido:rightsType>
+                    <lido:rightsHolder>
+                        <lido:legalBodyID lido:type="isil">DE-MUS-824915/10261</lido:legalBodyID>
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Heimatmuseum Müllrose im Haus des Gastes</lido:appellationValue>
+                        </lido:legalBodyName>
+                        <lido:legalBodyWeblink>https://www.muellrose.de/kultur-in-muellrose</lido:legalBodyWeblink>
+                    </lido:rightsHolder>
+                </lido:recordRights>
+                <lido:recordInfoSet>
+                    <lido:recordInfoLink>https://brandenburg.museum-digital.de/index.php?t=objekt&amp;oges=43734</lido:recordInfoLink>
+                    <lido:recordMetadataDate>2022-05-11 15:50:43</lido:recordMetadataDate>
+                </lido:recordInfoSet>
+            </lido:recordWrap>
+            <lido:resourceWrap>
+                <lido:resourceSet lido:sortorder="1">
+                    <lido:resourceID lido:type="local" lido:source="image">58643</lido:resourceID>
+                    <lido:resourceRepresentation lido:type="masterfile">
+                        <lido:linkResource lido:formatResource="image/tiff"/>
+                    </lido:resourceRepresentation>
+                    <lido:resourceRepresentation lido:type="image_thumb">
+                        <lido:linkResource lido:formatResource="image/jpeg">https://brandenburg.museum-digital.de/data/brandenburg/images/202007/100h_fotografie-der-fuhrunternehmer-krueger-und-sohn-43734-2.jpg</lido:linkResource>
+                    </lido:resourceRepresentation>
+                    <lido:resourceRepresentation lido:type="image_preview">
+                        <lido:linkResource lido:formatResource="image/jpeg">https://brandenburg.museum-digital.de/data/brandenburg/images/202007/200w_fotografie-der-fuhrunternehmer-krueger-und-sohn-43734-2.jpg</lido:linkResource>
+                    </lido:resourceRepresentation>
+                    <lido:resourceRepresentation
+                        lido:type="http://terminology.lido-schema.org/lido00464">
+                        <lido:linkResource lido:formatResource="image/jpeg">https://brandenburg.museum-digital.de/data/brandenburg/images/202007/fotografie-der-fuhrunternehmer-krueger-und-sohn-43734-2.jpg</lido:linkResource>
+                    </lido:resourceRepresentation>
+                    <lido:resourceType>
+                        <lido:term lido:addedSearchTerm="no">image</lido:term>
+                    </lido:resourceType>
+                    <lido:resourceRelType>
+                        <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+                    </lido:resourceRelType>
+                    <lido:resourceDescription/>
+                    <lido:resourceSource lido:type="owner">
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Müllroser Heimatmuseum im Haus des Gastes</lido:appellationValue>
+                        </lido:legalBodyName>
+                    </lido:resourceSource>
+                    <lido:resourceSource lido:type="creator">
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Ursula Raschke</lido:appellationValue>
+                        </lido:legalBodyName>
+                    </lido:resourceSource>
+                    <lido:rightsResource>
+                        <lido:rightsType>
+                            <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+                            <lido:term lido:addedSearchTerm="no">CC BY-NC-SA</lido:term>
+                        </lido:rightsType>
+                        <lido:rightsHolder>
+                            <lido:legalBodyName>
+                                <lido:appellationValue>Müllroser Heimatmuseum im Haus des Gastes</lido:appellationValue>
+                            </lido:legalBodyName>
+                        </lido:rightsHolder>
+                    </lido:rightsResource>
+                </lido:resourceSet>
+            </lido:resourceWrap>
+        </lido:administrativeMetadata>
+    </lido:lido>
+</lido:lidoWrap>

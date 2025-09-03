@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml"
+            xmlns:lido="http://www.lido-schema.org"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+   <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">DE-MUS-283918/30922</lido:lidoRecID>
+   <lido:category>
+      <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.cidoc-crm.org/crm-concepts/#E22</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+   </lido:category>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType><lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4040629-5</lido:conceptID><lido:term lido:addedSearchTerm="no" xml:lang="de">Münze</lido:term></lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Objektgattung">
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4172175-5</lido:conceptID>
+               <lido:term>Münzen, Medaillen, Geldscheine</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet lido:sortorder="1">
+               <lido:appellationValue xml:lang="de">Sterbetaler 1695 (Memorialmünze für Christian Ludwig)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-MUS-283918</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Museum Schloss Herzberg</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.herzberg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="Inventarnummer">MSH_NUM_00119_SMF</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://sws.geonames.org/2905496/</lido:placeID>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Herzberg am Harz</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point>
+                        <gml:pos>51.65546 10.33938</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                   <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>                <lido:term xml:lang="en">Production</lido:term>
+                  <lido:term xml:lang="de">Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1695</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1695</lido:earliestDate>
+                     <lido:latestDate>1695</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech xml:lang="de">Silber</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/material">
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://uri.gbv.de/terminology/kuniweb_material/311890bd-1593-40e5-8455-eadb7f935644</lido:conceptID>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4133759-1</lido:conceptID>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://vocab.getty.edu/aat/300011029</lido:conceptID>
+                        <lido:term xml:lang="de">Silber</lido:term>
+                        <lido:term xml:lang="de" lido:addedSearchTerm="yes">Metall</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech xml:lang="de">geprägt (Metalltechnik)</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/technique">
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://uri.gbv.de/terminology/kuniweb_technik/08159786-9645-4da7-9622-8a41d876f90c</lido:conceptID>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4374657-3</lido:conceptID>
+                        <lido:term xml:lang="de">geprägt (Metalltechnik)</lido:term>
+                        <lido:term xml:lang="de" lido:addedSearchTerm="yes">Metalltechnik</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Wilke, Jürgen: der Münzfund von Scharzfeld von 1679, Göttingen 2001</lido:displayObject>
+                  <lido:object>
+                     <lido:objectNote lido:type="description">Wilke, Jürgen: der Münzfund von Scharzfeld von 1679, Göttingen 2001</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Beschrieben in</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+         <lido:recordID lido:source="kuniweb"
+                         lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">30922</lido:recordID>
+         <lido:recordType>
+            <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/recordType/item-level_record</lido:conceptID>
+            <lido:term>Einzelobjekt</lido:term>
+            <lido:term xml:lang="en">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>kuniweb</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://kuniweb.gbv.de</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:term>Verwertungsrecht</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-MUS-283918</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Museum Schloss Herzberg</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.herzberg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+         </lido:recordRights>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term>kein Copyright / Public domain (CC0 1.0)</lido:term>
+               <lido:term xml:lang="en">CC0 1.0 Universal (CC0 1.0)</lido:term>
+            </lido:rightsType>
+         </lido:recordRights>
+         <lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00471">
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/created">2013-01-01T09:24:12+01</lido:recordMetadataDate>
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2014-10-24T08:38:54+02</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+         <lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00470">
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/created">2024-06-10T09:29:44664</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+         <lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00916">
+            <lido:recordInfoLink>https://ku-ni.de/record_kuniweb_30922</lido:recordInfoLink>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                              lido:source="kuniweb">record_kuniweb_30922_media/record_kuniweb_30922_81563.jpg</lido:resourceID>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://kulturerbe.niedersachsen.de/api/v1/records/record_kuniweb_30922/files/images/00000001.jpg/full/full/0/default.jpg</lido:linkResource>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">width</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>1956</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">height</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>1866</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceDateTaken>
+               <lido:displayDate>8. März 2013</lido:displayDate>
+               <lido:date>
+                  <lido:earliestDate>2013-03-08</lido:earliestDate>
+                  <lido:latestDate>2013-03-08</lido:latestDate>
+               </lido:date>
+            </lido:resourceDateTaken>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:term>Verwertungsrecht</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-MUS-283918</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Museum Schloss Herzberg</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.herzberg.de/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>Namensnennung 4.0 International (CC BY 4.0)</lido:term>
+                  <lido:term xml:lang="en">Attribution 4.0 International (CC BY 4.0)</lido:term>
+               </lido:rightsType>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>

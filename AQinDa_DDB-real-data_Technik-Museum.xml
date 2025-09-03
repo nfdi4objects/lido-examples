@@ -1,0 +1,339 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xalan="http://xml.apache.org/xalan">
+	<lido:lido>
+		<lido:lidoRecID lido:type="local" lido:source="https://www.museum-digital.de/berlin">DE-MUS-020415/8563</lido:lidoRecID>
+		<lido:category/>
+		<lido:descriptiveMetadata xml:lang="de">
+			<lido:objectClassificationWrap>
+				<lido:objectWorkTypeWrap>
+					<lido:objectWorkType>
+						<lido:conceptID lido:type="local" lido:source="gnd">4067453-8</lido:conceptID>
+						<lido:conceptID lido:type="local" lido:source="grobsystematik">14445</lido:conceptID>
+						<lido:conceptID lido:type="local" lido:source="lcsh">sh85039408</lido:conceptID>
+						<lido:conceptID lido:type="local" lido:source="md:term">945</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+					</lido:objectWorkType>
+				</lido:objectWorkTypeWrap>
+				<lido:classificationWrap>
+					<lido:classification lido:type="Sammlung">
+						<lido:conceptID lido:type="collection_id" lido:source="local">50</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no" xml:lang="de">A. Wetzig, Eisengiesserei und Maschinenfabrik für Mühlenbau</lido:term>
+					</lido:classification>
+				</lido:classificationWrap>
+			</lido:objectClassificationWrap>
+			<lido:objectIdentificationWrap>
+				<lido:titleWrap>
+					<lido:titleSet>
+						<lido:appellationValue lido:pref="preferred">Technische Zeichnung : Oberschlächtiges Wasserrad für Herrn Paul Starke in Lucka (Sachsen-Altenburg)</lido:appellationValue>
+					</lido:titleSet>
+				</lido:titleWrap>
+				<lido:repositoryWrap>
+					<lido:repositorySet lido:type="current">
+						<lido:repositoryName>
+							<lido:legalBodyID lido:type="isil">DE-MUS-020415</lido:legalBodyID>
+							<lido:legalBodyName>
+								<lido:appellationValue>Deutsches Technikmuseum</lido:appellationValue>
+							</lido:legalBodyName>
+							<lido:legalBodyWeblink>http://www.sdtb.de/</lido:legalBodyWeblink>
+						</lido:repositoryName>
+						<lido:workID lido:type="inventory number">IV.2.01-B 00036</lido:workID>
+						<lido:repositoryLocation>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin</lido:appellationValue>
+							</lido:namePlaceSet>
+							<lido:gml/>
+						</lido:repositoryLocation>
+					</lido:repositorySet>
+				</lido:repositoryWrap>
+				<lido:objectDescriptionWrap>
+					<lido:objectDescriptionSet>
+						<lido:descriptiveNoteValue>Wasserraddurchmesser = 2600 mm, Kranzbreite/Schaufeltiefe a = 300 mm, Wasserradbreite b = 2200 mm, Gerinnebreite b0 = 1830 mm, Anzahl der Schaufeln z = 24, Schaufelteilung e = 340,333 mm. - Seitenansicht (teilweise geschnitten). - Draufsicht (teilweise geschnitten).; Maßstab: 1:10</lido:descriptiveNoteValue>
+						<lido:sourceDescriptiveNote>Deutsches Technikmuseum</lido:sourceDescriptiveNote>
+					</lido:objectDescriptionSet>
+				</lido:objectDescriptionWrap>
+				<lido:objectMeasurementsWrap>
+					<lido:objectMeasurementsSet>
+						<lido:displayObjectMeasurements>1 Bl., 62,5 x 69,5 cm</lido:displayObjectMeasurements>
+						<lido:objectMeasurements/>
+					</lido:objectMeasurementsSet>
+				</lido:objectMeasurementsWrap>
+			</lido:objectIdentificationWrap>
+			<lido:eventWrap>
+				<lido:eventSet>
+					<lido:event>
+						<lido:eventID lido:type="local">15089</lido:eventID>
+						<lido:eventType>
+							<lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+						</lido:eventType>
+						<lido:eventName>
+							<lido:appellationValue>Gezeichnet --- Objekt 8563</lido:appellationValue>
+						</lido:eventName>
+						<lido:eventActor>
+							<lido:displayActorInRole>H. Rauer (Technischer Zeichner/Ingenieur)</lido:displayActorInRole>
+							<lido:actorInRole>
+								<lido:actor>
+									<lido:actorID lido:type="local" lido:source="md:term">12091</lido:actorID>
+									<lido:actorID lido:type="local" lido:source="md:term">24268</lido:actorID>
+									<lido:nameActorSet>
+										<lido:appellationValue>H. Rauer (Technischer Zeichner/Ingenieur)</lido:appellationValue>
+									</lido:nameActorSet>
+									<lido:vitalDatesActor>
+										<lido:earliestDate/>
+										<lido:latestDate/>
+									</lido:vitalDatesActor>
+								</lido:actor>
+							</lido:actorInRole>
+						</lido:eventActor>
+						<lido:eventDate>
+							<lido:displayDate>27.05.1902</lido:displayDate>
+							<lido:date>
+								<lido:earliestDate>1902</lido:earliestDate>
+								<lido:latestDate>1902</lido:latestDate>
+							</lido:date>
+						</lido:eventDate>
+						<lido:eventPlace>
+							<lido:displayPlace>Lutherstadt Wittenberg</lido:displayPlace>
+							<lido:place>
+								<lido:placeID lido:type="local" lido:source="geonames">6548975</lido:placeID>
+								<lido:placeID lido:type="local" lido:source="TGN">7012349</lido:placeID>
+								<lido:placeID lido:type="local" lido:source="gnd">4066640-2</lido:placeID>
+								<lido:placeID lido:type="local" lido:source="md:term">23</lido:placeID>
+								<lido:namePlaceSet>
+									<lido:appellationValue>Lutherstadt Wittenberg</lido:appellationValue>
+								</lido:namePlaceSet>
+								<lido:gml/>
+							</lido:place>
+						</lido:eventPlace>
+					</lido:event>
+				</lido:eventSet>
+				<lido:eventSet>
+					<lido:event>
+						<lido:eventID lido:type="local">15090</lido:eventID>
+						<lido:eventType>
+							<lido:term lido:addedSearchTerm="no">Beauftragt</lido:term>
+						</lido:eventType>
+						<lido:eventName>
+							<lido:appellationValue>Beauftragt --- Objekt 8563</lido:appellationValue>
+						</lido:eventName>
+						<lido:eventActor>
+							<lido:displayActorInRole>Paul Starke (Mühlenbesitzer)</lido:displayActorInRole>
+							<lido:actorInRole>
+								<lido:actor>
+									<lido:actorID lido:type="local" lido:source="md:term">24061</lido:actorID>
+									<lido:nameActorSet>
+										<lido:appellationValue>Starke, Paul (Mühlenbesitzer)</lido:appellationValue>
+									</lido:nameActorSet>
+									<lido:vitalDatesActor>
+										<lido:earliestDate/>
+										<lido:latestDate/>
+									</lido:vitalDatesActor>
+								</lido:actor>
+							</lido:actorInRole>
+						</lido:eventActor>
+						<lido:eventPlace>
+							<lido:displayPlace>Lucka</lido:displayPlace>
+							<lido:place>
+								<lido:placeID lido:type="local" lido:source="geonames">2875512</lido:placeID>
+								<lido:placeID lido:type="local" lido:source="TGN">7143163</lido:placeID>
+								<lido:placeID lido:type="local" lido:source="gnd">4263805-7</lido:placeID>
+								<lido:placeID lido:type="local" lido:source="md:term">9896</lido:placeID>
+								<lido:namePlaceSet>
+									<lido:appellationValue>Lucka</lido:appellationValue>
+								</lido:namePlaceSet>
+								<lido:gml/>
+							</lido:place>
+						</lido:eventPlace>
+					</lido:event>
+				</lido:eventSet>
+				<lido:eventSet>
+					<lido:event>
+						<lido:eventType>
+							<lido:term>Event (non-specified)</lido:term>
+						</lido:eventType>
+						<lido:eventMaterialsTech>
+							<lido:displayMaterialsTech>Papier; Bleistift</lido:displayMaterialsTech>
+						</lido:eventMaterialsTech>
+					</lido:event>
+				</lido:eventSet>
+			</lido:eventWrap>
+			<lido:objectRelationWrap>
+				<lido:subjectWrap>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="local" lido:source="gnd">4040457-2</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="lcsh">sh85085422</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="grobsystematik">8027</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="oberbegriffsdatei">7125</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="aat">300264626</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="wikidata">Q44494</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="md:term">626</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Mühle</lido:term>
+							</lido:subjectConcept>
+						</lido:subject>
+					</lido:subjectSet>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="local" lido:source="gnd">4064760-2</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="lcsh">sh85145585</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="md:term">7656</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Wassermühle</lido:term>
+							</lido:subjectConcept>
+						</lido:subject>
+					</lido:subjectSet>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="local" lido:source="md:term">19036</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Zellenrad (Wasserrad)</lido:term>
+							</lido:subjectConcept>
+						</lido:subject>
+					</lido:subjectSet>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="local" lido:source="gnd">4064765-1</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="lcsh">sh85145671</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="oberbegriffsdatei">3901</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="md:term">19575</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Wasserrad</lido:term>
+							</lido:subjectConcept>
+						</lido:subject>
+					</lido:subjectSet>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="local" lido:source="md:term">22297</lido:conceptID>
+								<lido:term lido:addedSearchTerm="no" xml:lang="de">Oberschlächtiges Wasserrad</lido:term>
+							</lido:subjectConcept>
+						</lido:subject>
+					</lido:subjectSet>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="local" lido:source="gnd">4040457-2</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="lcsh">sh85085422</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="grobsystematik">8027</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="oberbegriffsdatei">7125</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="aat">300264626</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="wikidata">Q44494</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="md:term">626</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="en">Mill (grinding)</lido:term>
+							</lido:subjectConcept>
+						</lido:subject>
+					</lido:subjectSet>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="local" lido:source="gnd">4064760-2</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="lcsh">sh85145585</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="md:term">7656</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="en">Water mill</lido:term>
+							</lido:subjectConcept>
+						</lido:subject>
+					</lido:subjectSet>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="local" lido:source="gnd">4064765-1</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="lcsh">sh85145671</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="oberbegriffsdatei">3901</lido:conceptID>
+								<lido:conceptID lido:type="local" lido:source="md:term">19575</lido:conceptID>
+								<lido:term lido:addedSearchTerm="yes" xml:lang="en">Water wheel</lido:term>
+							</lido:subjectConcept>
+						</lido:subject>
+					</lido:subjectSet>
+				</lido:subjectWrap>
+				<lido:relatedWorksWrap/>
+			</lido:objectRelationWrap>
+		</lido:descriptiveMetadata>
+		<lido:administrativeMetadata xml:lang="de">
+			<lido:rightsWorkWrap>
+				<lido:rightsWorkSet>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Deutsches Technikmuseum</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsWorkSet>
+			</lido:rightsWorkWrap>
+			<lido:recordWrap>
+				<lido:recordID lido:type="museum-digital">8563</lido:recordID>
+				<lido:recordType>
+					<lido:term lido:addedSearchTerm="no">item</lido:term>
+				</lido:recordType>
+				<lido:recordSource lido:type="dataProvider">
+					<lido:legalBodyName>
+						<lido:appellationValue>museum-digital</lido:appellationValue>
+					</lido:legalBodyName>
+					<lido:legalBodyWeblink>http://www.museum-digital.de</lido:legalBodyWeblink>
+				</lido:recordSource>
+				<lido:recordSource>
+					<lido:legalBodyID lido:type="isil">DE-MUS-020415</lido:legalBodyID>
+					<lido:legalBodyName>
+						<lido:appellationValue>Deutsches Technikmuseum</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:recordSource>
+				<lido:recordRights>
+					<lido:rightsType>
+						<lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue>Stiftung Deutsches Technikmuseum Berlin</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:recordRights>
+				<lido:recordInfoSet>
+					<lido:recordInfoLink>https://www.museum-digital.de/berlin/index.php?t=objekt&amp;oges=8563</lido:recordInfoLink>
+					<lido:recordMetadataDate>2019-10-01 14:08:23</lido:recordMetadataDate>
+				</lido:recordInfoSet>
+			</lido:recordWrap>
+			<lido:resourceWrap>
+				<lido:resourceSet lido:sortorder="1">
+					<lido:resourceID lido:type="local" lido:source="image">9466</lido:resourceID>
+					<lido:resourceRepresentation lido:type="image_thumb">
+						<lido:linkResource lido:formatResource="image/jpeg">https://www.museum-digital.de/data/berlin/images/import_17/201601/100h_29173524067.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceRepresentation lido:type="image_preview">
+						<lido:linkResource lido:formatResource="image/jpeg">https://www.museum-digital.de/data/berlin/images/import_17/201601/200w_29173524067.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceRepresentation lido:type="image_master">
+						<lido:linkResource lido:formatResource="image/jpeg">https://www.museum-digital.de/data/berlin/images/import_17/201601/29173524067.jpg</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no">image</lido:term>
+					</lido:resourceType>
+					<lido:resourceRelType>
+						<lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+					</lido:resourceRelType>
+					<lido:resourceDescription/>
+					<lido:resourceSource lido:type="owner">
+						<lido:legalBodyName>
+							<lido:appellationValue>Stiftung Deutsches Technikmuseum Berlin</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:resourceSource>
+					<lido:resourceSource lido:type="creator">
+						<lido:legalBodyName>
+							<lido:appellationValue/>
+						</lido:legalBodyName>
+					</lido:resourceSource>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="uri">http://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">CC BY-SA</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyName>
+								<lido:appellationValue>Stiftung Deutsches Technikmuseum Berlin</lido:appellationValue>
+							</lido:legalBodyName>
+						</lido:rightsHolder>
+						<lido:creditLine/>
+					</lido:rightsResource>
+				</lido:resourceSet>
+			</lido:resourceWrap>
+		</lido:administrativeMetadata>
+	</lido:lido>
+</lido:lidoWrap>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+<lido:lido>
+	<lido:lidoRecID lido:type="local" lido:source="Digitales Kunst- und Kulturarchiv Düsseldorf">DE-4302:DE-MUS-038411:210566</lido:lidoRecID>
+	<lido:objectPublishedID lido:type="local">http://www.duesseldorf.de/dkult/DE-MUS-038411/210566</lido:objectPublishedID>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType lido:type="Objektbezeichnung" lido:sortorder="1">
+					<lido:term lido:label="Objektbezeichnung">Kaffeekanne</lido:term>
+				</lido:objectWorkType>
+				<lido:objectWorkType lido:type="Andere Objektbezeichnung" lido:sortorder="2">
+					<lido:term lido:label="Andere Objektbezeichnung">Kanne</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Sachgruppe">
+					<lido:conceptID lido:type="url" lido:source="GND">http://d-nb.info/gnd/4030270-2</lido:conceptID>
+					<lido:term  lido:addedSearchTerm="no" lido:pref="preferred">Keramik </lido:term>
+					<lido:term  lido:addedSearchTerm="yes" lido:pref="alternate">Angewandte Kunst / Kunstgewerbe</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue lido:pref="preferred" lido:label="Titel" xml:lang="de">Kaffeekanne mit Pärchen vor Gartenlandschaft</lido:appellationValue>
+				</lido:titleSet>
+				<lido:titleSet lido:type="Serientitel">
+					<lido:appellationValue lido:pref="alternate" lido:label="Serientitel" xml:lang="de">Aus: Dejeuner mit Watteauszenen</lido:appellationValue>
+				</lido:titleSet>
+				<lido:titleSet lido:type="Kurztitel">
+					<lido:appellationValue lido:pref="alternate" lido:label="Kurztitel" xml:lang="de">Kaffeekanne mit Pärchen vor Gartenlandschaft</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:inscriptionsWrap>
+				<lido:inscriptions lido:type="Stempel/Zeichen">
+					<lido:inscriptionDescription>
+						<lido:descriptiveNoteValue><![CDATA[Blaumarke: CT (Ligiert) mit Kurhut , B 
+<br/>Ritzmarke: I, darunter o (evtl. "!"?)
+<br/>Position: Unter dem Boden der Kanne]]></lido:descriptiveNoteValue>
+					</lido:inscriptionDescription>
+				</lido:inscriptions>
+			</lido:inscriptionsWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:type="uri" lido:source="ISIL (ISO 15511)">info:isil/DE-MUS-038411</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Stiftung Schloss und Park Benrath</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:repositoryName>
+					<lido:workID lido:type="Inventarnummer">BEN.B 167</lido:workID>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap>
+				<lido:objectDescriptionSet lido:type="Beschreibung">
+					<lido:descriptiveNoteValue><![CDATA[Kaffeekanne mit bauchiger Form, mit kleinem Ausguss und geschwungenem Henkel, auf einem schnlanken Fuß. Der Knauf des Deckels als Knospe geformt. Fuß, Ausguss, Deckel und Henkel mit Gold staffiert. Auf dem Körper zeigt die purpurne Bemalung eine idyllische Szene mit einem Pärchen vor einer Gartenlandschaft à la Watteau, Blumenbouquets und Streublumen. Auf dem Deckel ebenfalls zwei höfische Szenen vor Gartenkulisse, sowie Streublumen.]]></lido:descriptiveNoteValue>
+				</lido:objectDescriptionSet>
+			</lido:objectDescriptionWrap>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet lido:sortorder="1">
+					<lido:displayObjectMeasurements><![CDATA[(H x D): 27 × 9,6 cm
+<br/>(H x D) (ohne Deckel, Henkel): 21,2 × 8 cm
+<br/>(H x D) (Deckel): 6,3 × 9,1 cm]]></lido:displayObjectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:type="uri" lido:source="LIDO Terminology">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+						<lido:term xml:lang="de">Herstellung</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:displayActorInRole><![CDATA[Hersteller*in: Porzellanmanufaktur Frankenthal (1755-1799) , Direktion Adam Bergdoll]]></lido:displayActorInRole>
+						<lido:actorInRole>
+							<lido:actor lido:type="corporation">
+								<lido:actorID lido:type="local" lido:source="Digitales Kunst- und Kulturarchiv Düsseldorf">52571</lido:actorID>
+								<lido:actorID lido:type="url" lido:source="GND">http://d-nb.info/gnd/2112349-4</lido:actorID>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred" lido:label="Primärer Name"><![CDATA[Porzellanmanufaktur Frankenthal]]></lido:appellationValue>
+								</lido:nameActorSet>
+								<lido:vitalDatesActor>
+									<lido:earliestDate>1755</lido:earliestDate>
+									<lido:latestDate>1799</lido:latestDate>
+								</lido:vitalDatesActor>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term>Hersteller*in</lido:term>
+							</lido:roleActor>
+						</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:displayDate>1762/1775</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>1762</lido:earliestDate>
+							<lido:latestDate>1775</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace lido:type="Herstellungsort">
+						<lido:displayPlace lido:label="Herstellungsort">Frankenthal</lido:displayPlace>
+						<lido:place>
+								<lido:placeID lido:type="local" lido:source="TGN">1454309</lido:placeID>
+	<lido:namePlaceSet>
+		<lido:appellationValue xml:lang="en"><![CDATA[Frankenthal]]></lido:appellationValue>
+	</lido:namePlaceSet>
+	<lido:partOfPlace>
+			<lido:placeID lido:type="local" lido:source="TGN">1454221</lido:placeID>
+	<lido:namePlaceSet>
+		<lido:appellationValue xml:lang="en"><![CDATA[Rheinhessen-Pfalz]]></lido:appellationValue>
+	</lido:namePlaceSet>
+	<lido:partOfPlace>
+			<lido:placeID lido:type="local" lido:source="TGN">1453951</lido:placeID>
+	<lido:namePlaceSet>
+		<lido:appellationValue xml:lang="en"><![CDATA[Rheinland-Pfalz]]></lido:appellationValue>
+	</lido:namePlaceSet>
+	<lido:partOfPlace>
+			<lido:placeID lido:type="local" lido:source="TGN">1448485</lido:placeID>
+	<lido:namePlaceSet>
+		<lido:appellationValue xml:lang="en"><![CDATA[Deutschland]]></lido:appellationValue>
+	</lido:namePlaceSet>
+	<lido:partOfPlace>
+			<lido:placeID lido:type="local" lido:source="TGN">1419487</lido:placeID>
+	<lido:namePlaceSet>
+		<lido:appellationValue xml:lang="en"><![CDATA[Europe]]></lido:appellationValue>
+	</lido:namePlaceSet>
+	</lido:partOfPlace>
+	</lido:partOfPlace>
+	</lido:partOfPlace>
+	</lido:partOfPlace>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMaterialsTech>
+						<lido:displayMaterialsTech><![CDATA[Porzellan, Purpur bemalt, Vergoldung]]></lido:displayMaterialsTech>
+					</lido:eventMaterialsTech>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+		<lido:objectRelationWrap>
+			<lido:subjectWrap>
+			</lido:subjectWrap>
+			<lido:relatedWorksWrap>
+				<lido:relatedWorkSet>
+					<lido:relatedWork>
+						<lido:displayObject xml:lang="de">Dejeuner mit Watteauszenen</lido:displayObject>
+						<lido:object>
+							<lido:objectWebResource>http://www.duesseldorf.de/dkult/DE-MUS-038411/1008550</lido:objectWebResource>
+							<lido:objectID lido:type="local" lido:source="Digitales Kunst- und Kulturarchiv Düsseldorf">DE-4302:DE-MUS-038411:1008550</lido:objectID>
+						</lido:object>
+					</lido:relatedWork>
+					<lido:relatedWorkRelType>
+						<lido:conceptID lido:type="local" lido:source="Digitales Kunst- und Kulturarchiv Düsseldorf">36</lido:conceptID>
+						<lido:term xml:lang="de">Service</lido:term>
+					</lido:relatedWorkRelType>
+				</lido:relatedWorkSet>
+			</lido:relatedWorksWrap>
+		</lido:objectRelationWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:type="local" lido:source="Digitales Kunst- und Kulturarchiv Düsseldorf">210566</lido:recordID>
+			<lido:recordType>
+				<lido:term>Teil eines Service</lido:term>
+			</lido:recordType>
+			<lido:recordSource>
+				<lido:legalBodyName>
+					<lido:appellationValue>Digitales Kunst- und Kulturarchiv Düsseldorf</lido:appellationValue>
+				</lido:legalBodyName>
+				<lido:legalBodyWeblink>http://www.duesseldorf.de/dkult</lido:legalBodyWeblink>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:type="url" lido:source="DDB">https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/</lido:conceptID>
+					<lido:term xml:lang="de">Rechte vorbehalten – Freier Zugang</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyID lido:type="uri" lido:source="ISIL (ISO 15511)">info:isil/DE-MUS-038411</lido:legalBodyID>
+					<lido:legalBodyName>
+						<lido:appellationValue>Stiftung Schloss und Park Benrath</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink lido:formatResource="text/html">http://www.duesseldorf.de/dkult/DE-MUS-038411/210566</lido:recordInfoLink>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="1">
+				<lido:resourceID lido:type="local" lido:source="Digitales Kunst- und Kulturarchiv Düsseldorf">176380</lido:resourceID>
+				<lido:resourceRepresentation lido:type="image_thumb">
+					<lido:linkResource lido:formatResource="image/jpeg">https://emuseum.duesseldorf.de/internal/media/dispatcher/176380/preview</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_preview">
+					<lido:linkResource lido:formatResource="image/jpeg">https://emuseum.duesseldorf.de/internal/media/dispatcher/176380/full</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceRepresentation lido:type="image_master">
+					<lido:linkResource lido:formatResource="image/jpeg">https://emuseum.duesseldorf.de/internal/media/dispatcher/176380/full</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term>image</lido:term>
+				</lido:resourceType>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:type="uri" lido:source="Europeana">http://www.europeana.eu/rights/rr-r/</lido:conceptID>
+						<lido:term>Rights Reserved – Restricted Access</lido:term>
+					</lido:rightsType>
+					<lido:rightsType>
+						<lido:conceptID lido:type="url" lido:source="DDB">https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/</lido:conceptID>
+						<lido:term xml:lang="de">Rechte vorbehalten – Freier Zugang</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:type="uri" lido:source="ISIL (ISO 15511)">info:isil/DE-MUS-038411</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue><![CDATA[Stiftung Schloss und Park Benrath]]></lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+					<lido:rightsHolder>
+						<lido:legalBodyName>
+							<lido:appellationValue><![CDATA[Foto: Stefan Ahrendt (LVR - ZMB)]]></lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
+</lido:lidoWrap>

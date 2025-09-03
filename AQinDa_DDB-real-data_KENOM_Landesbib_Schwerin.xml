@@ -1,0 +1,433 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<lido:lidoWrap xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org" xmlns:xalan="http://xml.apache.org/xalan">
+	<lido:lido>
+		<lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">DE-33__213833</lido:lidoRecID>
+		<lido:objectPublishedID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.kenom.de/id/record_DE-33_kenom_213833</lido:objectPublishedID>
+		<lido:objectPublishedID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://hdl.handle.net/428894.vzg/26b0b89a-4bff-4b4a-8e29-f71a7af7ceb1</lido:objectPublishedID>
+		<lido:category>
+			<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+			<lido:term lido:addedSearchTerm="no" xml:lang="en">Man-Made Object</lido:term>
+		</lido:category>
+		<lido:descriptiveMetadata xml:lang="de">
+			<lido:objectClassificationWrap>
+				<lido:objectWorkTypeWrap>
+					<lido:objectWorkType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4004469-5</lido:conceptID>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://nomisma.org/id/paper_money</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no" xml:lang="de">Geldschein / Notgeld</lido:term>
+					</lido:objectWorkType>
+				</lido:objectWorkTypeWrap>
+				<lido:classificationWrap>
+					<lido:classification lido:type="Sammlung">
+						<lido:term lido:addedSearchTerm="no" xml:lang="de">Schwerin, Landesbibliothek Günther
+                            Uecker(Raritätensammlung)</lido:term>
+					</lido:classification>
+					<lido:classification lido:type="Spezialklassifikation: Nominalangabe">
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://uri.gbv.de/terminology/kenom_nominal/c1ab98bd-5af5-4e18-8e88-b0e26b75ec6f</lido:conceptID>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://ikmk.smb.museum/ndp/nominal/201</lido:conceptID>
+						<lido:term lido:pref="http://terminology.lido-schema.org/lido00526" lido:addedSearchTerm="no">10 Pfennig</lido:term>
+						<lido:term lido:pref="preferred" lido:addedSearchTerm="no">10
+                            Pfennig</lido:term>
+					</lido:classification>
+					<lido:classification lido:type="Spezialklassifikation: Authentizität">
+						<lido:term lido:addedSearchTerm="no" xml:lang="de">Original</lido:term>
+					</lido:classification>
+				</lido:classificationWrap>
+			</lido:objectClassificationWrap>
+			<lido:objectIdentificationWrap>
+				<lido:titleWrap>
+					<lido:titleSet lido:type="Titel">
+						<lido:appellationValue>gleicher_Titel</lido:appellationValue>
+					</lido:titleSet>
+					<lido:titleSet lido:type="Alternativer Titel">
+						<lido:appellationValue lido:pref="alternative">10 Pfennig, 1922 Boltenhagen.
+                            Badeverwaltung</lido:appellationValue>
+					</lido:titleSet>
+				</lido:titleWrap>
+				<lido:repositoryWrap>
+					<lido:repositorySet lido:type="current">
+						<lido:repositoryName>
+							<lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-33</lido:legalBodyID>
+							<lido:legalBodyName>
+								<lido:appellationValue>Landesbibliothek Mecklenburg-Vorpommern
+                                    Günther Uecker</lido:appellationValue>
+							</lido:legalBodyName>
+							<lido:legalBodyWeblink>https://www.lbmv.de</lido:legalBodyWeblink>
+						</lido:repositoryName>
+					</lido:repositorySet>
+				</lido:repositoryWrap>
+				<lido:objectDescriptionWrap>
+					<lido:objectDescriptionSet>
+						<lido:descriptiveNoteValue>10 Pfennig Reutergeld
+                            Boltenhagen</lido:descriptiveNoteValue>
+						<lido:descriptiveNoteValue>Zwei Roben auf einer
+                                Sandbank</lido:descriptiveNoteValue>
+					</lido:objectDescriptionSet>
+					<lido:objectDescriptionSet>
+						<lido:descriptiveNoteValue>Text: "T´giwwt wenig Minschen, de sick in´n
+                            Ganzen noch freuen up de Ird´, un doch girn starwen." (Es gibt wening
+                            Menschen, die sich im Ganzen noch freuen auf der Erde, und doch gern
+                            sterben.) 10 Pfennig</lido:descriptiveNoteValue>
+						<lido:descriptiveNoteValue>Laufende Menschen in
+                                Badebekleidung</lido:descriptiveNoteValue>
+					</lido:objectDescriptionSet>
+					<lido:objectDescriptionSet>
+						<lido:descriptiveNoteValue>Authentizität: Original</lido:descriptiveNoteValue>
+					</lido:objectDescriptionSet>
+				</lido:objectDescriptionWrap>
+			</lido:objectIdentificationWrap>
+			<lido:eventWrap>
+				<lido:eventSet>
+					<lido:event>
+						<lido:eventType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="en">Production</lido:term>
+							<lido:term lido:addedSearchTerm="no" xml:lang="de">Herstellung</lido:term>
+						</lido:eventType>
+						<lido:eventActor>
+							<lido:displayActorInRole>Schütz, Georg
+                                (Grafiker)</lido:displayActorInRole>
+							<lido:actorInRole>
+								<lido:actor lido:type="http://terminology.lido-schema.org/actor_type/person">
+									<lido:actorID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://uri.gbv.de/terminology/kenom_actor/a2371367-cbdb-4df9-9059-f17b275e3f87</lido:actorID>
+									<lido:nameActorSet>
+										<lido:appellationValue lido:pref="preferred">Schütz,
+                                            Georg</lido:appellationValue>
+										<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Schütz, Georg</lido:appellationValue>
+									</lido:nameActorSet>
+								</lido:actor>
+								<lido:roleActor>
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://id.loc.gov/vocabulary/relators/ill</lido:conceptID>
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4125173-8</lido:conceptID>
+									<lido:term lido:addedSearchTerm="no" xml:lang="de">Grafiker</lido:term>
+								</lido:roleActor>
+							</lido:actorInRole>
+						</lido:eventActor>
+						<lido:eventDate>
+							<lido:displayDate>1922</lido:displayDate>
+							<lido:date>
+								<lido:earliestDate>1922-01-01</lido:earliestDate>
+								<lido:latestDate>1922-12-31</lido:latestDate>
+							</lido:date>
+						</lido:eventDate>
+						<lido:eventPlace>
+							<lido:displayPlace>Boltenhagen (Land)</lido:displayPlace>
+							<lido:place lido:geographicalEntity="country_place">
+								<lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://uri.gbv.de/terminology/kenom_place/368e0f52-faae-40ed-a83a-42f6dd0edcbc</lido:placeID>
+								<lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://d-nb.info/gnd/4007621-0</lido:placeID>
+								<lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://viaf.org/viaf/234113604</lido:placeID>
+								<lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.wikidata.org/entity/Q631074</lido:placeID>
+								<lido:namePlaceSet>
+									<lido:appellationValue lido:pref="preferred">Boltenhagen</lido:appellationValue>
+									<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Boltenhagen</lido:appellationValue>
+									<lido:appellationValue lido:pref="alternative">Ostseebad
+                                        Boltenhagen</lido:appellationValue>
+									<lido:appellationValue lido:pref="alternative">Gemeinde
+                                        Boltenhagen</lido:appellationValue>
+									<lido:appellationValue lido:pref="alternative">Kurverwaltung
+                                        Boltenhagen</lido:appellationValue>
+								</lido:namePlaceSet>
+							</lido:place>
+						</lido:eventPlace>
+						<lido:eventMaterialsTech>
+							<lido:displayMaterialsTech>Papier</lido:displayMaterialsTech>
+							<lido:materialsTech>
+								<lido:termMaterialsTech lido:type="Material">
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://uri.gbv.de/terminology/kenom_material/6ac5ef46-0eff-4a57-99c3-daadb26ca5bf</lido:conceptID>
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://nomisma.org/id/paper</lido:conceptID>
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://ikmk.smb.museum/ndp/material/34</lido:conceptID>
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4044522-7</lido:conceptID>
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://vocab.getty.edu/aat/300014109</lido:conceptID>
+									<lido:term lido:pref="http://terminology.lido-schema.org/lido00526" lido:addedSearchTerm="no">Papier</lido:term>
+									<lido:term lido:pref="preferred" lido:addedSearchTerm="no">Papier</lido:term>
+									<lido:term lido:pref="preferred" lido:addedSearchTerm="no" xml:lang="en">Paper</lido:term>
+									<lido:term lido:addedSearchTerm="no" xml:lang="de">Nichtmetalle</lido:term>
+									<lido:term lido:addedSearchTerm="no" xml:lang="en">Nonmetals</lido:term>
+								</lido:termMaterialsTech>
+							</lido:materialsTech>
+						</lido:eventMaterialsTech>
+						<lido:eventMaterialsTech>
+							<lido:displayMaterialsTech>bedruckt</lido:displayMaterialsTech>
+							<lido:materialsTech>
+								<lido:termMaterialsTech lido:type="Technik">
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://uri.gbv.de/terminology/kenom_technique/1d75cd1f-bbda-41e0-adc5-df7eeb456b5b</lido:conceptID>
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4124801-6</lido:conceptID>
+									<lido:term lido:pref="http://terminology.lido-schema.org/lido00526" lido:addedSearchTerm="no">bedruckt</lido:term>
+									<lido:term lido:pref="preferred" lido:addedSearchTerm="no">Drucktechnik</lido:term>
+									<lido:term lido:pref="alternative" lido:addedSearchTerm="no">bedruckt</lido:term>
+								</lido:termMaterialsTech>
+							</lido:materialsTech>
+						</lido:eventMaterialsTech>
+					</lido:event>
+				</lido:eventSet>
+				<lido:eventSet>
+					<lido:event>
+						<lido:eventType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/publication</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="en">Publication</lido:term>
+							<lido:term lido:addedSearchTerm="no" xml:lang="de">Veröffentlichung</lido:term>
+						</lido:eventType>
+						<lido:eventActor>
+							<lido:displayActorInRole>Boltenhagen. Badeverwaltung
+                                (Herausgeber)</lido:displayActorInRole>
+							<lido:actorInRole>
+								<lido:actor lido:type="http://terminology.lido-schema.org/actor_type/organization">
+									<lido:actorID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://uri.gbv.de/terminology/kenom_actor/199db011-09a8-45c1-885f-d59200b49c29</lido:actorID>
+									<lido:actorID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://d-nb.info/gnd/1075503922</lido:actorID>
+									<lido:actorID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://viaf.org/viaf/317066608</lido:actorID>
+									<lido:nameActorSet>
+										<lido:appellationValue lido:pref="preferred">Boltenhagen.
+                                            Badeverwaltung</lido:appellationValue>
+										<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Boltenhagen. Badeverwaltung</lido:appellationValue>
+										<lido:appellationValue lido:pref="alternative">Badeverwaltung (Boltenhagen)</lido:appellationValue>
+									</lido:nameActorSet>
+								</lido:actor>
+								<lido:roleActor>
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://id.loc.gov/vocabulary/relators/edt</lido:conceptID>
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4159575-0</lido:conceptID>
+									<lido:term lido:addedSearchTerm="no" xml:lang="de">Herausgeber</lido:term>
+								</lido:roleActor>
+							</lido:actorInRole>
+						</lido:eventActor>
+					</lido:event>
+				</lido:eventSet>
+			</lido:eventWrap>
+			<lido:objectRelationWrap>
+				<lido:subjectWrap>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectActor>
+								<lido:displayActor>Fritz Reuter (Geehrte Person)</lido:displayActor>
+								<lido:actor lido:type="http://terminology.lido-schema.org/actor_type/person">
+									<lido:actorID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://uri.gbv.de/terminology/kenom_actor/a1221879-14fe-40f4-900c-381bae059ba4</lido:actorID>
+									<lido:nameActorSet>
+										<lido:appellationValue lido:pref="preferred">Fritz Reuter</lido:appellationValue>
+										<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Fritz Reuter</lido:appellationValue>
+									</lido:nameActorSet>
+								</lido:actor>
+							</lido:subjectActor>
+						</lido:subject>
+					</lido:subjectSet>
+				</lido:subjectWrap>
+				<lido:relatedWorksWrap>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource>http://gso.gbv.de/DB=2.1/PPNSET?PPN=156780011</lido:objectWebResource>
+								<lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/uri">uri.gbv.de/document/gvk:ppn:156780011</lido:objectID>
+								<lido:objectNote>„Das mecklenburgische Reutergeld von 1921 : ein
+                                    kulturgeschichtliches Kuriosum“. Stock und Stein, Schwerin,
+                                    1993.</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:term lido:addedSearchTerm="no" xml:lang="de">Literatur zum Stück</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+				</lido:relatedWorksWrap>
+			</lido:objectRelationWrap>
+		</lido:descriptiveMetadata>
+		<lido:administrativeMetadata xml:lang="de">
+			<lido:recordWrap>
+				<lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier" lido:source="KENOM">213833</lido:recordID>
+				<lido:recordType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/recordType/item-level_record</lido:conceptID>
+					<lido:term lido:addedSearchTerm="no" xml:lang="en">Item-level record</lido:term>
+				</lido:recordType>
+				<lido:recordSource>
+					<lido:legalBodyName>
+						<lido:appellationValue>kenom</lido:appellationValue>
+					</lido:legalBodyName>
+					<lido:legalBodyWeblink>http://kenom.gbv.de</lido:legalBodyWeblink>
+				</lido:recordSource>
+				<lido:recordRights>
+					<lido:rightsType>
+						<lido:term lido:addedSearchTerm="no" xml:lang="de">Verwertungsrecht</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-33</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Landesbibliothek Mecklenburg-Vorpommern Günther
+                                Uecker</lido:appellationValue>
+						</lido:legalBodyName>
+						<lido:legalBodyWeblink>https://www.lbmv.de</lido:legalBodyWeblink>
+					</lido:rightsHolder>
+				</lido:recordRights>
+				<lido:recordRights>
+					<lido:rightsType>
+						<lido:term lido:addedSearchTerm="no" xml:lang="de">Urheberrecht</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-33</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Landesbibliothek Mecklenburg-Vorpommern Günther
+                                Uecker</lido:appellationValue>
+						</lido:legalBodyName>
+						<lido:legalBodyWeblink>https://www.lbmv.de</lido:legalBodyWeblink>
+					</lido:rightsHolder>
+				</lido:recordRights>
+				<lido:recordRights>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/licenses/by-nc-nd/4.0/</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no" xml:lang="de">Namensnennung - Nicht-kommerziell -
+                            Keine Bearbeitung 4.0 (CC BY-NC-ND 4.0)</lido:term>
+						<lido:term lido:addedSearchTerm="no" xml:lang="de">Attribution - Non
+                            Commercial - No Derivs 4.0 (CC BY-NC-ND 4.0)</lido:term>
+					</lido:rightsType>
+				</lido:recordRights>
+				<lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00471">
+					<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/created">2018-03-07T17:02:55+00</lido:recordMetadataDate>
+					<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2018-05-04T11:12:22+00</lido:recordMetadataDate>
+				</lido:recordInfoSet>
+				<lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00470">
+					<lido:recordInfoLink lido:formatResource="text/xml">http://www.kenom.de/id/record_DE-33_kenom_213833</lido:recordInfoLink>
+					<lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/created">2022-04-13T09:36:53.363+02:00</lido:recordMetadataDate>
+				</lido:recordInfoSet>
+			</lido:recordWrap>
+			<lido:resourceWrap>
+				<lido:resourceSet lido:sortorder="1">
+					<lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">DE-33_kenom_213833_media/record_DE-33_kenom_213833_vs.jpg</lido:resourceID>
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/jpeg">https://www.kenom.de/iiif/image/record_DE-33_kenom_213833/record_DE-33_kenom_213833_vs.jpg/full/full/0/default.jpg</lido:linkResource>
+						<lido:resourceMeasurementsSet>
+							<lido:measurementType xml:lang="en">width</lido:measurementType>
+							<lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+							<lido:measurementValue>910</lido:measurementValue>
+						</lido:resourceMeasurementsSet>
+						<lido:resourceMeasurementsSet>
+							<lido:measurementType xml:lang="en">height</lido:measurementType>
+							<lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+							<lido:measurementValue>671</lido:measurementValue>
+						</lido:resourceMeasurementsSet>
+					</lido:resourceRepresentation>
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/resourceRepresentation_type/preview_representation">
+						<lido:linkResource lido:formatResource="image/jpeg">https://www.kenom.de/iiif/image/record_DE-33_kenom_213833/record_DE-33_kenom_213833_vs.jpg/full/300,/0/default.jpg</lido:linkResource>
+						<lido:resourceMeasurementsSet>
+							<lido:measurementType xml:lang="en">width</lido:measurementType>
+							<lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+							<lido:measurementValue>300</lido:measurementValue>
+						</lido:resourceMeasurementsSet>
+						<lido:resourceMeasurementsSet>
+							<lido:measurementType xml:lang="en">height</lido:measurementType>
+							<lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+							<lido:measurementValue>221</lido:measurementValue>
+						</lido:resourceMeasurementsSet>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no" xml:lang="en">digital image</lido:term>
+					</lido:resourceType>
+					<lido:resourcePerspective>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/7707654-0</lido:conceptID>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.nomisma.org/id/obverse</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no" xml:lang="en">front</lido:term>
+					</lido:resourcePerspective>
+					<lido:resourceDateTaken>
+						<lido:displayDate>3. November 2017</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>2017-11-03</lido:earliestDate>
+							<lido:latestDate>2017-11-03</lido:latestDate>
+						</lido:date>
+					</lido:resourceDateTaken>
+					<lido:resourceSource lido:type="Fotograf">
+						<lido:legalBodyName>
+							<lido:appellationValue>Günther Uecker</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:resourceSource>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:term lido:addedSearchTerm="no" xml:lang="de">Verwertungsrecht</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-33</lido:legalBodyID>
+							<lido:legalBodyName>
+								<lido:appellationValue>Landesbibliothek Mecklenburg-Vorpommern
+                                    Günther Uecker</lido:appellationValue>
+							</lido:legalBodyName>
+							<lido:legalBodyWeblink>https://www.lbmv.de</lido:legalBodyWeblink>
+						</lido:rightsHolder>
+					</lido:rightsResource>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/licenses/by-nc-nd/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="de">Namensnennung - Nicht-kommerziell -
+                                Keine Bearbeitung 4.0 (CC BY-NC-ND 4.0)</lido:term>
+							<lido:term lido:addedSearchTerm="no" xml:lang="en">Attribution - Non
+                                Commercial - No Derivs 4.0 (CC BY-NC-ND 4.0)</lido:term>
+						</lido:rightsType>
+					</lido:rightsResource>
+				</lido:resourceSet>
+				<lido:resourceSet lido:sortorder="2">
+					<lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">DE-33_kenom_213833_media/record_DE-33_kenom_213833_rs.jpg</lido:resourceID>
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource lido:formatResource="image/jpeg">https://www.kenom.de/iiif/image/record_DE-33_kenom_213833/record_DE-33_kenom_213833_rs.jpg/full/full/0/default.jpg</lido:linkResource>
+						<lido:resourceMeasurementsSet>
+							<lido:measurementType xml:lang="en">width</lido:measurementType>
+							<lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+							<lido:measurementValue>916</lido:measurementValue>
+						</lido:resourceMeasurementsSet>
+						<lido:resourceMeasurementsSet>
+							<lido:measurementType xml:lang="en">height</lido:measurementType>
+							<lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+							<lido:measurementValue>668</lido:measurementValue>
+						</lido:resourceMeasurementsSet>
+					</lido:resourceRepresentation>
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/resourceRepresentation_type/preview_representation">
+						<lido:linkResource lido:formatResource="image/jpeg">https://www.kenom.de/iiif/image/record_DE-33_kenom_213833/record_DE-33_kenom_213833_rs.jpg/full/300,/0/default.jpg</lido:linkResource>
+						<lido:resourceMeasurementsSet>
+							<lido:measurementType xml:lang="en">width</lido:measurementType>
+							<lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+							<lido:measurementValue>300</lido:measurementValue>
+						</lido:resourceMeasurementsSet>
+						<lido:resourceMeasurementsSet>
+							<lido:measurementType xml:lang="en">height</lido:measurementType>
+							<lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+							<lido:measurementValue>219</lido:measurementValue>
+						</lido:resourceMeasurementsSet>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term lido:addedSearchTerm="no" xml:lang="en">digital image</lido:term>
+					</lido:resourceType>
+					<lido:resourcePerspective>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4468345-5</lido:conceptID>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.nomisma.org/id/reverse</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no" xml:lang="en">back</lido:term>
+					</lido:resourcePerspective>
+					<lido:resourceDateTaken>
+						<lido:displayDate>3. November 2017</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>2017-11-03</lido:earliestDate>
+							<lido:latestDate>2017-11-03</lido:latestDate>
+						</lido:date>
+					</lido:resourceDateTaken>
+					<lido:resourceSource lido:type="Fotograf">
+						<lido:legalBodyName>
+							<lido:appellationValue>Günther Uecker</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:resourceSource>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:term lido:addedSearchTerm="no" xml:lang="de">Verwertungsrecht</lido:term>
+						</lido:rightsType>
+						<lido:rightsHolder>
+							<lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-33</lido:legalBodyID>
+							<lido:legalBodyName>
+								<lido:appellationValue>Landesbibliothek Mecklenburg-Vorpommern
+                                    Günther Uecker</lido:appellationValue>
+							</lido:legalBodyName>
+							<lido:legalBodyWeblink>https://www.lbmv.de</lido:legalBodyWeblink>
+						</lido:rightsHolder>
+					</lido:rightsResource>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/licenses/by-nc-nd/4.0/</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no" xml:lang="de">Namensnennung - Nicht-kommerziell -
+                                Keine Bearbeitung 4.0 (CC BY-NC-ND 4.0)</lido:term>
+							<lido:term lido:addedSearchTerm="no" xml:lang="en">Attribution - Non
+                                Commercial - No Derivs 4.0 (CC BY-NC-ND 4.0)</lido:term>
+						</lido:rightsType>
+					</lido:rightsResource>
+				</lido:resourceSet>
+			</lido:resourceWrap>
+		</lido:administrativeMetadata>
+	</lido:lido>
+</lido:lidoWrap>

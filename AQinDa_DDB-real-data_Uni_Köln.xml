@@ -1,0 +1,172 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<lido:lidoWrap xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org"
+    xmlns:xalan="http://xml.apache.org/xalan">
+    <lido:lido>
+        <lido:lidoRecID lido:type="local">DE-MUS-14932/VAR_0008</lido:lidoRecID>
+        <lido:descriptiveMetadata xml:lang="deu">
+            <lido:objectClassificationWrap>
+                <lido:objectWorkTypeWrap>
+                    <lido:objectWorkType>
+                        <lido:conceptID lido:type="uri"
+                            >http://d-nb.info/gnd/4126078-8</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no">Münze</lido:term>
+                    </lido:objectWorkType>
+                </lido:objectWorkTypeWrap>
+                <lido:classificationWrap>
+                    <lido:classification lido:type="Spezialklassifikation: Nominal"/>
+                </lido:classificationWrap>
+            </lido:objectClassificationWrap>
+            <lido:objectIdentificationWrap>
+                <lido:titleWrap>
+                    <lido:titleSet>
+                        <lido:appellationValue>Sardeis / Lydien, 211-244 n.
+                            Chr.</lido:appellationValue>
+                    </lido:titleSet>
+                </lido:titleWrap>
+                <lido:repositoryWrap>
+                    <lido:repositorySet lido:type="current">
+                        <lido:repositoryName>
+                            <lido:legalBodyID lido:type="uri"
+                                >http://ld.zdb-services.de/resource/organisations/DE-MUS-14932</lido:legalBodyID>
+                               <lido:legalBodyName>
+                                <lido:appellationValue>Institut für Altertumskunde, Universität zu
+                                    Köln</lido:appellationValue>
+                            </lido:legalBodyName>
+                        </lido:repositoryName>
+                        <lido:workID lido:type="Inventarnummer">VAR_0008</lido:workID>
+                    </lido:repositorySet>
+                </lido:repositoryWrap>
+                <lido:objectDescriptionWrap>
+                    <lido:objectDescriptionSet>
+                        <lido:descriptiveNoteValue>Vorderseite: Büste des Men mit langem Haar und
+                            phrygischer Mütze, Mondsichel über den Schultern, nach rechts;
+                            Perlkreis, darin Legende. ΜΗΝ - ΑΣΚΗ(ΟΣ)</lido:descriptiveNoteValue>
+                    </lido:objectDescriptionSet>
+                    <lido:objectDescriptionSet>
+                        <lido:descriptiveNoteValue>Rückseite: Ruder über Füllhorn; Perlkreis, darin
+                            Legende. ΣΑΡΔΙΑΝΩΝ Β ΝΕΩΚΟΡΩΝ</lido:descriptiveNoteValue>
+                    </lido:objectDescriptionSet>
+                </lido:objectDescriptionWrap>
+                <lido:objectMeasurementsWrap>
+                    <lido:objectMeasurementsSet>
+                        <lido:objectMeasurements>
+                            <lido:measurementsSet>
+                                <lido:measurementType>Durchmesser</lido:measurementType>
+                                <lido:measurementUnit>mm</lido:measurementUnit>
+                                <lido:measurementValue>22.00</lido:measurementValue>
+                            </lido:measurementsSet>
+                            <lido:measurementsSet>
+                                <lido:measurementType>Gewicht</lido:measurementType>
+                                <lido:measurementUnit>gr.</lido:measurementUnit>
+                                <lido:measurementValue>6.33</lido:measurementValue>
+                            </lido:measurementsSet>
+                            <lido:measurementsSet>
+                                <lido:measurementType>Stempelstellung</lido:measurementType>
+                                <lido:measurementUnit>h</lido:measurementUnit>
+                                <lido:measurementValue>1</lido:measurementValue>
+                            </lido:measurementsSet>
+                        </lido:objectMeasurements>
+                    </lido:objectMeasurementsSet>
+                </lido:objectMeasurementsWrap>
+            </lido:objectIdentificationWrap>
+            <lido:eventWrap>
+                <lido:eventSet>
+                    <lido:event>
+                        <lido:eventType>
+                            <lido:conceptID lido:type="uri"
+                                >http://terminology.lido-schema.org/eventType/production</lido:conceptID>
+                            <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+                        </lido:eventType>
+                        
+                        <lido:eventDate>
+                            <lido:displayDate>211-244 n. Chr.</lido:displayDate>
+                        </lido:eventDate>
+                        <lido:eventPlace>
+                            <lido:displayPlace xml:lang="deu">Sardeis
+                                (Münzstätte)</lido:displayPlace>
+                            <lido:displayPlace xml:lang="eng">Sardeis (mint)</lido:displayPlace>
+                            <lido:place>
+                                <lido:namePlaceSet>
+                                    <!--lido:appellationValue xml:lang="deu" lido:label="_fulltext"
+                                        >http://www.geonames.org/9986360</lido:appellationValue>
+                                    <lido:appellationValue lido:label="_standard"
+                                        >http://www.geonames.org/9986360</lido:appellationValue-->
+                                    <lido:appellationValue xml:lang="deu" lido:label="_fulltext"
+                                        >Sardeis</lido:appellationValue>
+                                    <lido:appellationValue lido:label="_standard"
+                                        >Sardeis</lido:appellationValue>
+                                </lido:namePlaceSet>
+                            </lido:place>
+                        </lido:eventPlace>
+                        <lido:eventPlace>
+                            <lido:displayPlace xml:lang="deu">Lydien</lido:displayPlace>
+                        </lido:eventPlace>
+                        <lido:eventMaterialsTech>
+                            <lido:displayMaterialsTech xml:lang="deu"
+                                >geprägt</lido:displayMaterialsTech>
+                            <lido:displayMaterialsTech xml:lang="eng"
+                                >struck</lido:displayMaterialsTech>
+                        </lido:eventMaterialsTech>
+                        <lido:eventMaterialsTech>
+                            <lido:displayMaterialsTech xml:lang="deu"
+                                >Bronze</lido:displayMaterialsTech>
+                            <lido:displayMaterialsTech xml:lang="eng"
+                                >Bronze</lido:displayMaterialsTech>
+                        </lido:eventMaterialsTech>
+                    </lido:event>
+                </lido:eventSet>
+            </lido:eventWrap>
+            
+        </lido:descriptiveMetadata>
+        <lido:administrativeMetadata xml:lang="deu">
+            <lido:recordWrap>
+                <lido:recordID lido:type="local">VAR_0008</lido:recordID>
+                <lido:recordType>
+                    <lido:term lido:addedSearchTerm="no">item</lido:term>
+                </lido:recordType>
+                                <lido:recordSource>
+                    <lido:legalBodyID lido:type="uri"
+                        >http://ld.zdb-services.de/resource/organisations/DE-MUS-14932</lido:legalBodyID>
+                    <lido:legalBodyName>
+                        <lido:appellationValue>Institut für Altertumskunde, Universität zu
+                            Köln</lido:appellationValue>
+                    </lido:legalBodyName>
+                </lido:recordSource>
+                <lido:recordInfoSet>
+                    <lido:recordInfoLink>https://muenzen.uni-koeln.de/portal/databases/id/muenzen/titles/id/VAR_0008</lido:recordInfoLink>
+                    <lido:recordMetadataDate>2025-04-24T15:09:56+02:002025-04-24T15:09:56+02:00</lido:recordMetadataDate>
+                </lido:recordInfoSet>
+            </lido:recordWrap>
+            <lido:resourceWrap>
+                <lido:resourceSet>
+                    <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                        <lido:linkResource lido:formatResource="image/jpeg">https://muenzportal.uni-koeln.de/JPG/VAR_0008_O.jpg</lido:linkResource>
+                    </lido:resourceRepresentation>
+                    <lido:resourceType>
+                        <lido:term lido:addedSearchTerm="no">image</lido:term>
+                    </lido:resourceType>
+                    <lido:rightsResource>
+                        <lido:rightsType>
+                            <lido:conceptID lido:type="uri"
+                                >https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                        </lido:rightsType>
+                    </lido:rightsResource>
+                </lido:resourceSet>
+                <lido:resourceSet>
+                    <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                        <lido:linkResource lido:formatResource="image/jpeg">https://muenzportal.uni-koeln.de/JPG/VAR_0008_R.jpg</lido:linkResource>
+                    </lido:resourceRepresentation>
+                    <lido:resourceType>
+                        <lido:term lido:addedSearchTerm="no">image</lido:term>
+                    </lido:resourceType>
+                    <lido:rightsResource>
+                        <lido:rightsType>
+                            <lido:conceptID lido:type="uri"
+                                >https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                        </lido:rightsType>
+                    </lido:rightsResource>
+                </lido:resourceSet>
+            </lido:resourceWrap>
+        </lido:administrativeMetadata>
+    </lido:lido>
+</lido:lidoWrap>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lidoWrap xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org" xmlns:xalan="http://xml.apache.org/xalan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org 
+      http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lido xmlns:xalan="http://xml.apache.org/xalan" xmlns:lido="http://www.lido-schema.org" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:gml="http://www.opengis.net/gml" xmlns:exsl="http://exslt.org/common" xmlns:str="http://exslt.org/strings">
+		<lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/lido/3</lido:lidoRecID>
+		<lido:objectPublishedID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="https://www.kunsthalle-bremen.de/">DE-MUS-027614/object/3</lido:objectPublishedID>
+		<lido:descriptiveMetadata xml:lang="de">
+			<lido:objectClassificationWrap>
+				<lido:objectWorkTypeWrap>
+					<lido:objectWorkType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300033618</lido:conceptID>
+						<lido:term>Gemälde</lido:term>
+					</lido:objectWorkType>
+				</lido:objectWorkTypeWrap>
+				<lido:classificationWrap>
+					<lido:classification lido:type="Objektklassifikation" lido:sortorder="1">
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300033618</lido:conceptID>
+						<lido:term>Gemälde</lido:term>
+					</lido:classification>
+				</lido:classificationWrap>
+			</lido:objectClassificationWrap>
+			<lido:objectIdentificationWrap>
+				<lido:titleWrap>
+					<lido:titleSet lido:type="Titel" lido:sortorder="1">
+						<lido:appellationValue lido:pref="preferred">Harzlandschaft</lido:appellationValue>
+					</lido:titleSet>
+				</lido:titleWrap>
+				<lido:inscriptionsWrap>
+					<lido:inscriptions lido:type="Inschrift">
+						<lido:inscriptionTranscription>C F L 1870. K</lido:inscriptionTranscription>
+						<lido:inscriptionDescription>
+							<lido:descriptiveNoteValue><![CDATA[unten rechts datiert und monogrammiert]]></lido:descriptiveNoteValue>
+						</lido:inscriptionDescription>
+					</lido:inscriptions>
+				</lido:inscriptionsWrap>
+				<lido:repositoryWrap>
+					<lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+						<lido:repositoryName>
+							<lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+							<lido:legalBodyName>
+								<lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+							</lido:legalBodyName>
+							<lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+						</lido:repositoryName>
+						<lido:workID lido:sortorder="1" lido:type="Inventarnummer">73-1891</lido:workID>
+						<lido:repositoryLocation>
+							<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/4008135-7</lido:placeID>
+							<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://www.geonames.org/2944387 </lido:placeID>
+							<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/page/tgn/7005286</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Bremen</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:repositoryLocation>
+					</lido:repositorySet>
+				</lido:repositoryWrap>
+				<lido:objectDescriptionWrap/>
+				<lido:objectMeasurementsWrap>
+					<lido:objectMeasurementsSet lido:sortorder="1">
+						<lido:displayObjectMeasurements>Objekt: 53,5 x 79,5 cm</lido:displayObjectMeasurements>
+						<lido:objectMeasurements>
+							<lido:measurementsSet lido:sortorder="1">
+								<lido:measurementType>Höhe</lido:measurementType>
+								<lido:measurementUnit>cm</lido:measurementUnit>
+								<lido:measurementValue>53,50</lido:measurementValue>
+							</lido:measurementsSet>
+							<lido:measurementsSet lido:sortorder="2">
+								<lido:measurementType>Breite</lido:measurementType>
+								<lido:measurementUnit>cm</lido:measurementUnit>
+								<lido:measurementValue>79,50</lido:measurementValue>
+							</lido:measurementsSet>
+							<lido:extentMeasurements>Objekt</lido:extentMeasurements>
+						</lido:objectMeasurements>
+					</lido:objectMeasurementsSet>
+				</lido:objectMeasurementsWrap>
+			</lido:objectIdentificationWrap>
+			<lido:eventWrap>
+				<lido:eventSet lido:sortorder="1">
+					<lido:event>
+						<lido:eventType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+						</lido:eventType>
+						<lido:eventActor lido:sortorder="1">
+							<lido:displayActorInRole>Carl Friedrich Lessing (*Breslau 1808 - † Karlsruhe 1880), Maler</lido:displayActorInRole>
+							<lido:actorInRole>
+								<lido:actor>
+									<lido:actorID lido:type="http://terminology.lido-schema.org/lido00099">https://d-nb.info/gnd/118640496</lido:actorID>
+									<lido:nameActorSet>
+										<lido:appellationValue lido:pref="preferred">Lessing, Carl Friedrich</lido:appellationValue>
+									</lido:nameActorSet>
+									<lido:vitalDatesActor>
+										<lido:earliestDate>1808</lido:earliestDate>
+										<lido:latestDate>1880</lido:latestDate>
+									</lido:vitalDatesActor>
+								</lido:actor>
+								<lido:roleActor>
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="AAT">http://vocab.getty.edu/aat/300025136</lido:conceptID>
+									<lido:term>Maler</lido:term>
+								</lido:roleActor>
+							</lido:actorInRole>
+						</lido:eventActor>
+						<lido:eventDate>
+							<lido:displayDate>1870</lido:displayDate>
+							<lido:date>
+								<lido:earliestDate>1870</lido:earliestDate>
+								<lido:latestDate>1870</lido:latestDate>
+							</lido:date>
+						</lido:eventDate>
+						<lido:eventMaterialsTech lido:sortorder="1">
+							<lido:displayMaterialsTech><![CDATA[Öl auf Leinwand]]></lido:displayMaterialsTech>
+							<lido:materialsTech/>
+						</lido:eventMaterialsTech>
+					</lido:event>
+				</lido:eventSet>
+				<lido:eventSet lido:sortorder="301">
+					<lido:event>
+						<lido:eventType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+							<lido:term lido:addedSearchTerm="no">Erwerb</lido:term>
+						</lido:eventType>
+						<lido:eventDate>
+							<lido:displayDate>1891</lido:displayDate>
+							<lido:date>
+								<lido:earliestDate>1891</lido:earliestDate>
+								<lido:latestDate>1891</lido:latestDate>
+							</lido:date>
+						</lido:eventDate>
+						<lido:eventDescriptionSet>
+							<lido:descriptiveNoteValue><![CDATA[Vermächtnis Johann Heinrich Gräving 1891]]></lido:descriptiveNoteValue>
+						</lido:eventDescriptionSet>
+					</lido:event>
+				</lido:eventSet>
+			</lido:eventWrap>
+			<lido:objectRelationWrap>
+				<lido:subjectWrap>
+					<lido:subjectSet>
+						<lido:subject/>
+					</lido:subjectSet>
+				</lido:subjectWrap>
+				<lido:relatedWorksWrap/>
+			</lido:objectRelationWrap>
+		</lido:descriptiveMetadata>
+		<lido:administrativeMetadata xml:lang="de">
+			<lido:rightsWorkWrap>
+				<lido:rightsWorkSet lido:sortorder="1">
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+						<lido:term>Public Domain Mark 1.0</lido:term>
+					</lido:rightsType>
+				</lido:rightsWorkSet>
+			</lido:rightsWorkWrap>
+			<lido:recordWrap>
+				<lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">3</lido:recordID>
+				<lido:recordType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+					<lido:term>Einzelobjekt</lido:term>
+				</lido:recordType>
+				<lido:recordSource>
+					<lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+					<lido:legalBodyName>
+						<lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+					</lido:legalBodyName>
+					<lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+				</lido:recordSource>
+				<lido:recordRights>
+					<lido:rightsType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+						<lido:term>CC0 1.0 Universell</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="ISIL (ISO 15511)">http://ld.zdb-services.de/resource/organisations/DE-MUS-027614</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Kunsthalle Bremen</lido:appellationValue>
+						</lido:legalBodyName>
+						<lido:legalBodyWeblink lido:formatResource="text/html">https://www.kunsthalle-bremen.de/</lido:legalBodyWeblink>
+					</lido:rightsHolder>
+				</lido:recordRights>
+				<lido:recordInfoSet>
+					<lido:recordInfoLink lido:formatResource="text/html">https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/3</lido:recordInfoLink>
+					<lido:recordMetadataDate>2024-10-01T20:32:34.209</lido:recordMetadataDate>
+				</lido:recordInfoSet>
+			</lido:recordWrap>
+			<lido:resourceWrap>
+				<lido:resourceSet lido:sortorder="1">
+					<lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-027614/object/3/166674</lido:resourceID>
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource>https://onlinekatalog.kunsthalle-bremen.de/DE-MUS-027614/object/3/166674</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceType>
+						<lido:term>image</lido:term>
+					</lido:resourceType>
+					<lido:resourceDescription lido:type="download"/>
+					<lido:rightsResource/>
+					<lido:rightsResource>
+						<lido:rightsType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+							<lido:term>Public Domain Mark 1.0</lido:term>
+						</lido:rightsType>
+						<lido:creditLine>Kunsthalle Bremen - Der Kunstverein in Bremen</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+			</lido:resourceWrap>
+		</lido:administrativeMetadata>
+	</lido:lido>
+</lido:lidoWrap>

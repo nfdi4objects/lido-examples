@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+<lido:lidoRecID lido:source="" lido:type="local">DE-MUS-100818/lido/obj/33419853</lido:lidoRecID>
+<lido:category>
+<lido:conceptID lido:type="URI">
+www.cidoc-crm.org/rdfs/cidoc-crm-english-label#E22.Man-Made_Object
+</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">Man-Made Object</lido:term>
+</lido:category>
+<lido:descriptiveMetadata xml:lang="de">
+<lido:objectClassificationWrap>
+<lido:objectWorkTypeWrap>
+<lido:objectWorkType lido:type="Sachbegriff">
+<lido:conceptID lido:source="http://partage.vocnet.org" lido:type="URI">http://partage.vocnet.org/part00042</lido:conceptID>
+<lido:conceptID lido:source="http://vocab.getty.edu/aat" lido:type="URI">http://vocab.getty.edu/aat/300041273</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Druckgrafik</lido:term>
+</lido:objectWorkType>
+</lido:objectWorkTypeWrap>
+<lido:classificationWrap>
+<lido:classification lido:type="Gattung">
+<lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+</lido:classification>
+</lido:classificationWrap>
+</lido:objectClassificationWrap>
+<lido:objectIdentificationWrap>
+<lido:titleWrap>
+<lido:titleSet>
+<lido:appellationValue lido:pref="preferred">Bildnis des Camille Falconet</lido:appellationValue>
+</lido:titleSet>
+</lido:titleWrap>
+<lido:repositoryWrap>
+<lido:repositorySet lido:type="current">
+<lido:repositoryName>
+<lido:legalBodyName>
+<lido:appellationValue>
+LWL-Museum für Kunst und Kultur (Westfälisches Landesmuseum) — Porträtarchiv Diepenbroick (Münster)
+</lido:appellationValue>
+</lido:legalBodyName>
+</lido:repositoryName>
+<lido:workID lido:type="Inventarnummer">C-567588 PAD</lido:workID>
+<lido:repositoryLocation>
+<lido:namePlaceSet>
+<lido:appellationValue>Münster</lido:appellationValue>
+</lido:namePlaceSet>
+</lido:repositoryLocation>
+</lido:repositorySet>
+</lido:repositoryWrap>
+<lido:objectMeasurementsWrap>
+<lido:objectMeasurementsSet>
+<lido:displayObjectMeasurements>Höhe x Breite: 205 x 149 mm (Platte)</lido:displayObjectMeasurements>
+<lido:objectMeasurements>
+<lido:measurementsSet>
+<lido:measurementType>Höhe x Breite</lido:measurementType>
+<lido:measurementUnit>mm</lido:measurementUnit>
+<lido:measurementValue>205 x 149</lido:measurementValue>
+</lido:measurementsSet>
+<lido:extentMeasurements>Platte</lido:extentMeasurements>
+</lido:objectMeasurements>
+</lido:objectMeasurementsSet>
+<lido:objectMeasurementsSet>
+<lido:displayObjectMeasurements>Höhe x Breite: 216 x 164 mm (Blatt)</lido:displayObjectMeasurements>
+<lido:objectMeasurements>
+<lido:measurementsSet>
+<lido:measurementType>Höhe x Breite</lido:measurementType>
+<lido:measurementUnit>mm</lido:measurementUnit>
+<lido:measurementValue>216 x 164</lido:measurementValue>
+</lido:measurementsSet>
+<lido:extentMeasurements>Blatt</lido:extentMeasurements>
+</lido:objectMeasurements>
+</lido:objectMeasurementsSet>
+</lido:objectMeasurementsWrap>
+</lido:objectIdentificationWrap>
+<lido:eventWrap>
+<lido:eventSet>
+<lido:event>
+<lido:eventType>
+<lido:conceptID lido:source="http://terminology.lido-schema.org/eventType" lido:type="URI">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">Production</lido:term>
+</lido:eventType>
+<lido:eventActor>
+<lido:actorInRole>
+<lido:actor lido:type="person">
+<lido:actorID lido:source="http://d-nb.info/gnd" lido:type="URI">http://d-nb.info/gnd/124363075</lido:actorID>
+<lido:nameActorSet>
+<lido:appellationValue lido:pref="preferred">Moitte, Pierre Etienne</lido:appellationValue>
+</lido:nameActorSet>
+<lido:nationalityActor>
+<lido:term lido:addedSearchTerm="no">Frankreich</lido:term>
+</lido:nationalityActor>
+<lido:vitalDatesActor>
+<lido:earliestDate lido:type="birthDate">1737</lido:earliestDate>
+<lido:latestDate lido:type="deathDate">1780</lido:latestDate>
+</lido:vitalDatesActor>
+</lido:actor>
+<lido:roleActor>
+<lido:term lido:addedSearchTerm="no">Radierer</lido:term>
+</lido:roleActor>
+</lido:actorInRole>
+</lido:eventActor>
+<lido:eventDate>
+<lido:displayDate>1762/1780</lido:displayDate>
+<lido:date>
+<lido:earliestDate>1762</lido:earliestDate>
+<lido:latestDate>1780</lido:latestDate>
+</lido:date>
+</lido:eventDate>
+<lido:eventMaterialsTech>
+<lido:materialsTech>
+<lido:termMaterialsTech lido:type="Technik">
+<lido:conceptID lido:source="http://partage.vocnet.org" lido:type="URI">http://partage.vocnet.org/part01236</lido:conceptID>
+<lido:conceptID lido:source="http://vocab.getty.edu/aat" lido:type="URI">http://vocab.getty.edu/aat/300053241</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Radierung</lido:term>
+</lido:termMaterialsTech>
+</lido:materialsTech>
+</lido:eventMaterialsTech>
+</lido:event>
+</lido:eventSet>
+<lido:eventSet>
+<lido:event>
+<lido:eventType>
+<lido:conceptID lido:source="http://terminology.lido-schema.org/eventType" lido:type="URI">http://terminology.lido-schema.org/lido00224</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">Designing</lido:term>
+</lido:eventType>
+<lido:eventActor>
+<lido:actorInRole>
+<lido:actor lido:type="person">
+<lido:actorID lido:source="http://d-nb.info/gnd" lido:type="URI">http://d-nb.info/gnd/118676512</lido:actorID>
+<lido:nameActorSet>
+<lido:appellationValue lido:pref="preferred">Cochin, Charles-Nicolas (1715)</lido:appellationValue>
+</lido:nameActorSet>
+<lido:nameActorSet>
+<lido:appellationValue lido:pref="alternative">
+Cochin, Charles Nicolas (der Jüngere) Cochin (fils) Cochin (le jeune) Cochin, le (Chevalier) Cochin, Charles-Nicolas (le fils) Cochin, Charles-Nicolas (2)
+</lido:appellationValue>
+</lido:nameActorSet>
+<lido:nationalityActor>
+<lido:term lido:addedSearchTerm="no">Frankreich</lido:term>
+</lido:nationalityActor>
+<lido:vitalDatesActor>
+<lido:earliestDate lido:type="birthDate">1727</lido:earliestDate>
+<lido:latestDate lido:type="deathDate">1790</lido:latestDate>
+</lido:vitalDatesActor>
+</lido:actor>
+<lido:roleActor>
+<lido:term lido:addedSearchTerm="no">Zeichner</lido:term>
+</lido:roleActor>
+</lido:actorInRole>
+</lido:eventActor>
+</lido:event>
+</lido:eventSet>
+</lido:eventWrap>
+<lido:objectRelationWrap>
+<lido:subjectWrap>
+<lido:subjectSet>
+<lido:subject lido:type="Beschreibung">
+<lido:subjectConcept>
+<lido:conceptID lido:source="http://iconclass.org" lido:type="URI">http://iconclass.org/61B(Falconet, Camille)11</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" lido:pref="alternative">61 B (Falconet, Camille) 11</lido:term>
+<lido:term lido:addedSearchTerm="no" lido:pref="preferred">
+Porträt einer historischen Person (Falconet, Camille) (allein)
+</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:subject lido:type="Identifikation">
+<lido:subjectActor>
+<lido:actor lido:type="person">
+<lido:actorID lido:source="http://d-nb.info/gnd" lido:type="URI">http://d-nb.info/gnd/128756438</lido:actorID>
+<lido:nameActorSet>
+<lido:appellationValue lido:pref="preferred">Falconet, Camille</lido:appellationValue>
+</lido:nameActorSet>
+<lido:nameActorSet>
+<lido:appellationValue lido:pref="alternative">Falconet, Camillus</lido:appellationValue>
+</lido:nameActorSet>
+</lido:actor>
+</lido:subjectActor>
+</lido:subject>
+</lido:subjectSet>
+</lido:subjectWrap>
+</lido:objectRelationWrap>
+</lido:descriptiveMetadata>
+<lido:administrativeMetadata xml:lang="de">
+<lido:recordWrap>
+<lido:recordID lido:type="local">obj/33419853</lido:recordID>
+<lido:recordType>
+<lido:term lido:addedSearchTerm="no">Einzelobjekt</lido:term>
+</lido:recordType>
+<lido:recordSource lido:type="europeana:dataProvider">
+<lido:legalBodyName>
+<lido:appellationValue>
+LWL-Museum für Kunst und Kultur (Westfälisches Landesmuseum) / Digitaler Porträtindex
+</lido:appellationValue>
+</lido:legalBodyName>
+</lido:recordSource>
+<lido:recordRights>
+<lido:rightsType>
+<lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">CC0 1.0 Public Domain Dedication</lido:term>
+</lido:rightsType>
+<lido:rightsHolder>
+<lido:legalBodyName>
+<lido:appellationValue>
+LWL-Museum für Kunst und Kultur (Westfälisches Landesmuseum) / Digitaler Porträtindex
+</lido:appellationValue>
+</lido:legalBodyName>
+</lido:rightsHolder>
+</lido:recordRights>
+<lido:recordInfoSet>
+<lido:recordInfoLink lido:formatResource="html">http://www.portraitindex.de/documents/obj/33419853</lido:recordInfoLink>
+</lido:recordInfoSet>
+</lido:recordWrap>
+<lido:resourceWrap>
+<lido:resourceSet>
+<lido:resourceID lido:type="local">lwl-c567588pad</lido:resourceID>
+<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+<lido:linkResource lido:formatResource="jpg">http://www.bildindex.de/bilder/d/lwl-c567588pad</lido:linkResource>
+</lido:resourceRepresentation>
+<lido:resourceType>
+<lido:term lido:addedSearchTerm="no">Digitales Bild</lido:term>
+</lido:resourceType>
+<lido:resourceDateTaken>
+<lido:displayDate>2012</lido:displayDate>
+</lido:resourceDateTaken>
+<lido:resourceSource lido:type="Fotoverwalter">
+<lido:legalBodyName>
+<lido:appellationValue>
+LWL-Landesmuseum für Kunst und Kulturgeschichte Münster
+</lido:appellationValue>
+</lido:legalBodyName>
+</lido:resourceSource>
+<lido:rightsResource>
+<lido:rightsType>
+<lido:conceptID lido:type="URI">http://www.europeana.eu/rights/rr-f/</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" lido:pref="preferred">http://www.europeana.eu/rights/rr-f/</lido:term>
+</lido:rightsType>
+<lido:rightsHolder>
+<lido:legalBodyName>
+<lido:appellationValue>
+LWL-Landesmuseum für Kunst und Kulturgeschichte Münster
+</lido:appellationValue>
+</lido:legalBodyName>
+</lido:rightsHolder>
+</lido:rightsResource>
+</lido:resourceSet>
+</lido:resourceWrap>
+</lido:administrativeMetadata>
+</lido:lido>

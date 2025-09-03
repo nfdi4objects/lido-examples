@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml"
+            xmlns:lido="http://www.lido-schema.org"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+   <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">DE-MUS-136416/1355592</lido:lidoRecID>
+   <lido:category>
+      <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.cidoc-crm.org/crm-concepts/#E22</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+   </lido:category>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://obg.vocnet.org/x000935x</lido:conceptID>
+               <lido:term>Flasche</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Themenkategorie">
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4078937-8</lido:conceptID>
+               <lido:term>Alltagskultur</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Spezialklassifikation: Hessische Systematik">
+               <lido:term>Genussmittel</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet lido:sortorder="1">
+               <lido:appellationValue xml:lang="de">Bierflasche</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:inscriptionsWrap>
+            <lido:inscriptions lido:type="Aufschrift">
+               <lido:inscriptionTranscription>DIN 0,5 l   W/2</lido:inscriptionTranscription>
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>Im Boden mit der Flasche gepresst</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+            <lido:inscriptions lido:type="Aufkleber">
+               <lido:inscriptionTranscription>100 Jahre
+Bergbräu
+Spezial-Pils
+Sollinger Bergbrauerei H. Haffner KG, Uslar</lido:inscriptionTranscription>
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>Etikettbeschriftung</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+            <lido:inscriptions lido:type="Aufkleber">
+               <lido:inscriptionTranscription>Im Kreis ein schreitender Löwe mit spiegelverkehrten HHB</lido:inscriptionTranscription>
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>Auf dem Etikett</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+         </lido:inscriptionsWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-MUS-136416</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Museum Uslar</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.uslar.de/staticsite/staticsite.php?menuid=23&amp;topmenu=363</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="Inventarnummer">2019/055</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://sws.geonames.org/2818094/</lido:placeID>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Uslar</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point>
+                        <gml:pos>51.6569 9.63501</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet lido:type="description">
+               <lido:descriptiveNoteValue>Braunglasflasche mit Schnappverschluss der 1868 von Heinrich Haffner gegründeten Brauerei, die 2013 nach fünf Generationen 2013 verkauft wurde.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Heidrun Teuber</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="Urheber / Quelle">
+               <lido:descriptiveNoteValue>Heidrun Teuber</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe: 26,5 cm (Ohne Verschluss)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType xml:lang="en">height</lido:measurementType>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">cm</lido:measurementUnit>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>26.5</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:extentMeasurements>Ohne Verschluss</lido:extentMeasurements>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Durchmesser: 7,2 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType xml:lang="en">diameter</lido:measurementType>
+                     <lido:measurementType>Durchmesser</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">cm</lido:measurementUnit>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>7.2</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                   <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/eventType/production</lido:conceptID>                <lido:term xml:lang="en">Production</lido:term>
+                  <lido:term xml:lang="de">Herstellung</lido:term>
+               </lido:eventType>
+                <lido:eventActor>
+                  <lido:displayActorInRole>Brauerei Haffner (HerstellerIn, Solling)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Brauerei Haffner</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4175820-1</lido:conceptID>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://id.loc.gov/vocabulary/relators/cre</lido:conceptID>
+                        <lido:term>HerstellerIn</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+			   <lido:eventDate>
+                  <lido:displayDate>2. Halfte 20. Jahrhundert</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate lido:type="approximate">1950</lido:earliestDate>
+                     <lido:latestDate lido:type="approximate">1990</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            
+              
+               <lido:eventPlace>
+                  <lido:displayPlace>Uslar (Northeim, Niedersachsen)</lido:displayPlace>
+                  <lido:place>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue lido:pref="preferred">Uslar</lido:appellationValue>
+                        <lido:sourceAppellation>Bundesamt für Kartographie und Goedäsie: Geographische Namen 1:250.000 - GN250</lido:sourceAppellation>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point>
+                           <gml:pos>51.3960 9.3933</gml:pos>
+                        </gml:Point>
+                        <gml:Polygon>
+                           <gml:exterior>
+                              <gml:LinearRing>
+                                 <gml:pos>51.5528435566377 9.49410706455344</gml:pos>
+                                 <gml:pos>51.7271151392114 9.49600472032994</gml:pos>
+                                 <gml:pos>51.7256518257283 9.76807865101288</gml:pos>
+                                 <gml:pos>51.5513893027242 9.7651402764116</gml:pos>
+                                 <gml:pos>51.5528435566377 9.49410706455344</gml:pos>
+                              </gml:LinearRing>
+                           </gml:exterior>
+                        </gml:Polygon>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech xml:lang="de">Glas</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/material">
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://uri.gbv.de/terminology/kuniweb_material/2e559e3e-faca-40eb-97a5-7f2253935cb4</lido:conceptID>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4021142-3</lido:conceptID>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://vocab.getty.edu/aat/300010797</lido:conceptID>
+                        <lido:term xml:lang="de">Glas</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech xml:lang="de">Grün</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00479">
+                        <lido:term xml:lang="de">Grün</lido:term>
+                        <lido:term xml:lang="en">Green</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech xml:lang="de">Rot</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00479">
+                        <lido:term xml:lang="de">Rot</lido:term>
+                        <lido:term xml:lang="en">Red</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech xml:lang="de">Weiß</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00479">
+                        <lido:term xml:lang="de">Weiß</lido:term>
+                        <lido:term xml:lang="en">White</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech xml:lang="de">Siena</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00479">
+                        <lido:term xml:lang="de">Siena</lido:term>
+                        <lido:term xml:lang="en">Sienna</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:displaySubject>Bierflasche</lido:displaySubject>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4208864-1</lido:conceptID>
+                     <lido:term>Bierflasche</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierglas [2019/059]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355596</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierglas</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/059</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierglas [2019/058]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355595</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierglas</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/058</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierglas [2019/057]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355594</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierglas</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/057</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierflasche [2019/054]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355591</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierflasche</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/054</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierflasche [2019/055]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355592</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierflasche</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/055</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierdeckel [2019/051]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355457</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierdeckel</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/051</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierdeckel [2019/052]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355458</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierdeckel</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/052</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierdeckel [2019/052]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355458</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierdeckel</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/052</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierdeckel [2019/051]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355457</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierdeckel</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/051</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierglas [2019/058]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355595</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierglas</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/058</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierglas [2019/057]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355594</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierglas</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/057</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierflasche [2019/054]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355591</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierflasche</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/054</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierflasche [2019/055]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355592</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierflasche</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/055</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Bierglas [2019/059]</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                                     lido:source="kuniweb">1355596</lido:objectID>
+                     <lido:objectNote lido:type="title">Bierglas</lido:objectNote>
+                     <lido:objectNote lido:type="workid">2019/059</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>in Zusammenhang mit</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+         <lido:recordID lido:source="kuniweb"
+                         lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">1355592</lido:recordID>
+         <lido:recordType>
+            <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/recordType/item-level_record</lido:conceptID>
+            <lido:term>Einzelobjekt</lido:term>
+            <lido:term xml:lang="en">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>kuniweb</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://kuniweb.gbv.de</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:term>Verwertungsrecht</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-MUS-136416</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Museum Uslar</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink/>
+            </lido:rightsHolder>
+         </lido:recordRights>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-nc-nd/4.0/</lido:conceptID>
+               <lido:term>Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International (CC BY-NC-ND 4.0)</lido:term>
+               <lido:term xml:lang="en">Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)</lido:term>
+            </lido:rightsType>
+         </lido:recordRights>
+         <lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00471">
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/created">2019-08-25T12:51:27+02</lido:recordMetadataDate>
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/modified">2020-05-08T08:20:53+02</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+         <lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00470">
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/recordMetadataDate_type/created">2024-06-10T09:52:21658</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+         <lido:recordInfoSet lido:type="http://terminology.lido-schema.org/lido00916">
+            <lido:recordInfoLink>https://ku-ni.de/record_kuniweb_1355592</lido:recordInfoLink>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                              lido:source="kuniweb">record_kuniweb_1355592_media/record_kuniweb_1355592_659193.jpg</lido:resourceID>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://kulturerbe.niedersachsen.de/api/v1/records/record_kuniweb_1355592/files/images/00000001.jpg/full/full/0/default.jpg</lido:linkResource>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">width</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>846</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">height</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>3252</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceDateTaken>
+               <lido:displayDate>12. August 2019</lido:displayDate>
+               <lido:date>
+                  <lido:earliestDate>2019-08-12</lido:earliestDate>
+                  <lido:latestDate>2019-08-12</lido:latestDate>
+               </lido:date>
+            </lido:resourceDateTaken>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Heidrun teuber</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:term>Verwertungsrecht</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-MUS-136416</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Museum Uslar</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink/>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-nc-nd/4.0/</lido:conceptID>
+                  <lido:term>Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International (CC BY-NC-ND 4.0)</lido:term>
+                  <lido:term xml:lang="en">Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)</lido:term>
+               </lido:rightsType>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet>
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier"
+                              lido:source="kuniweb">record_kuniweb_1355592_media/record_kuniweb_1355592_659194.jpg</lido:resourceID>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://kulturerbe.niedersachsen.de/api/v1/records/record_kuniweb_1355592/files/images/00000002.jpg/full/full/0/default.jpg</lido:linkResource>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">width</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>1335</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+               <lido:resourceMeasurementsSet>
+                  <lido:measurementType xml:lang="en">height</lido:measurementType>
+                  <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                  <lido:measurementValue>1257</lido:measurementValue>
+               </lido:resourceMeasurementsSet>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceDateTaken>
+               <lido:displayDate>12. August 2019</lido:displayDate>
+               <lido:date>
+                  <lido:earliestDate>2019-08-12</lido:earliestDate>
+                  <lido:latestDate>2019-08-12</lido:latestDate>
+               </lido:date>
+            </lido:resourceDateTaken>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Heidrun Teuber</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:term>Verwertungsrecht</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://ld.zdb-services.de/resource/organisations/DE-MUS-136416</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Museum Uslar</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink/>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by-nc-nd/4.0/</lido:conceptID>
+                  <lido:term>Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International (CC BY-NC-ND 4.0)</lido:term>
+                  <lido:term xml:lang="en">Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)</lido:term>
+               </lido:rightsType>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>

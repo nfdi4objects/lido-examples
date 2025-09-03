@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:type="local">DE-MUS-814819/18314033</lido:lidoRecID>
+<lido:descriptiveMetadata xml:lang="de">
+<lido:objectClassificationWrap>
+<lido:objectWorkTypeWrap>
+<lido:objectWorkType>
+<lido:conceptID lido:source="nomisma" lido:type="URI">http://nomisma.org/id/token</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">Tokens and Labels</lido:term>
+<lido:term lido:addedSearchTerm="no" xml:lang="de">Marke/Zeichen (Token)</lido:term>
+</lido:objectWorkType>
+</lido:objectWorkTypeWrap>
+<lido:classificationWrap>
+<lido:classification lido:type="Sammlung">
+<lido:term lido:addedSearchTerm="no" lido:label="division" xml:lang="de">Neuzeit</lido:term>
+<lido:term lido:addedSearchTerm="no" lido:label="division" xml:lang="en">Modern Period</lido:term>
+</lido:classification>
+<lido:classification lido:type="Sammlung">
+<lido:term lido:addedSearchTerm="no" lido:label="subdivision" xml:lang="de">Unterabteilung: Moderne seit 1900</lido:term>
+<lido:term lido:addedSearchTerm="no" lido:label="subdivision" xml:lang="en">Modern period post 1900</lido:term>
+</lido:classification>
+</lido:classificationWrap>
+</lido:objectClassificationWrap>
+<lido:objectIdentificationWrap>
+<lido:titleWrap>
+<lido:titleSet>
+<lido:appellationValue xml:lang="de">Marke: Bode-Museum</lido:appellationValue>
+</lido:titleSet>
+</lido:titleWrap>
+<lido:repositoryWrap>
+<lido:repositorySet lido:type="current">
+<lido:repositoryName>
+<lido:legalBodyID lido:source="ISIL" lido:type="URI">
+http://ld.zdb-services.de/resource/organisations/DE-MUS-814819
+</lido:legalBodyID>
+<lido:legalBodyName>
+<lido:appellationValue>
+Münzkabinett, Staatliche Museen zu Berlin - Stiftung Preußischer Kulturbesitz
+</lido:appellationValue>
+</lido:legalBodyName>
+<lido:legalBodyWeblink>
+https://www.smb.museum/museen-und-einrichtungen/muenzkabinett/home.html
+</lido:legalBodyWeblink>
+</lido:repositoryName>
+<lido:workID lido:type="Interaktiver Münzkatalog">https://ikmk.smb.museum/object?id=18314033</lido:workID>
+<lido:workID lido:type="Inventarnummer">18314033</lido:workID>
+<lido:repositoryLocation>
+<lido:namePlaceSet>
+<lido:appellationValue>Berlin</lido:appellationValue>
+</lido:namePlaceSet>
+</lido:repositoryLocation>
+</lido:repositorySet>
+</lido:repositoryWrap>
+<lido:objectDescriptionWrap>
+<lido:objectDescriptionSet lido:type="Vorderseite">
+<lido:descriptiveNoteValue>
+BODE/MUSEUM - Stilisierte Darstellung des Bode-Museums auf der Monbijou-Brücke. Hinten links der Berliner Fernsehturm.
+</lido:descriptiveNoteValue>
+</lido:objectDescriptionSet>
+<lido:objectDescriptionSet lido:type="Rückseite">
+<lido:descriptiveNoteValue>
+DIE DUNKLE SEITE - DER NUMISMATIK -/ LANGE / FINGER / FALSCHE / MÜNZEN - Aufschrift in vier Zeilen. Links und rechts in der Umschrift die Jahreszahl 20-24.
+</lido:descriptiveNoteValue>
+</lido:objectDescriptionSet>
+<lido:objectDescriptionSet lido:type="Münzstand">
+<lido:descriptiveNoteID lido:source="nomisma" lido:type="URI">http://nomisma.org/id/ruler</lido:descriptiveNoteID>
+<lido:descriptiveNoteValue lido:label="minting_authority" xml:lang="de">Privatausgabe</lido:descriptiveNoteValue>
+<lido:descriptiveNoteValue lido:label="minting_authority" xml:lang="en">Private issue</lido:descriptiveNoteValue>
+</lido:objectDescriptionSet>
+<lido:objectDescriptionSet lido:type="Erläuterung">
+<lido:descriptiveNoteValue>
+Hergestellt durch die Guangzhou Baoli Animation Technology Co., Ltd. - Produziert für die Sonderausstellung des Münzkabinetts der Staatlichen Museen zu Berlin mit dem Titel: Lange Finger - Falsche Münzen. Die dunkle Seite der Numismatik. Auflage von 32.000 Stück.
+</lido:descriptiveNoteValue>
+</lido:objectDescriptionSet>
+<lido:objectDescriptionSet lido:type="Provenienz">
+<lido:descriptiveNoteValue>Akzession/Erwerbungsnummer: 2024/130</lido:descriptiveNoteValue>
+</lido:objectDescriptionSet>
+</lido:objectDescriptionWrap>
+<lido:objectMeasurementsWrap>
+<lido:objectMeasurementsSet>
+<lido:displayObjectMeasurements>
+Durchmesser: 23 mm, Gewicht: 5.57 g, Stempelstellung: 12 h
+</lido:displayObjectMeasurements>
+<lido:objectMeasurements>
+<lido:measurementsSet>
+<lido:measurementType xml:lang="en">diameter</lido:measurementType>
+<lido:measurementType xml:lang="de">Durchmesser</lido:measurementType>
+<lido:measurementUnit>mm</lido:measurementUnit>
+<lido:measurementValue>23</lido:measurementValue>
+</lido:measurementsSet>
+<lido:measurementsSet>
+<lido:measurementType xml:lang="en">weight</lido:measurementType>
+<lido:measurementType xml:lang="de">Gewicht</lido:measurementType>
+<lido:measurementUnit>g</lido:measurementUnit>
+<lido:measurementValue>5.57</lido:measurementValue>
+</lido:measurementsSet>
+<lido:measurementsSet>
+<lido:measurementType xml:lang="en">orientation</lido:measurementType>
+<lido:measurementType xml:lang="de">Stempelstellung</lido:measurementType>
+<lido:measurementUnit>clock</lido:measurementUnit>
+<lido:measurementValue>12</lido:measurementValue>
+</lido:measurementsSet>
+</lido:objectMeasurements>
+</lido:objectMeasurementsSet>
+</lido:objectMeasurementsWrap>
+</lido:objectIdentificationWrap>
+<lido:eventWrap>
+<lido:eventSet>
+<lido:event>
+<lido:eventType>
+<lido:conceptID lido:type="URI">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">Production</lido:term>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">Herstellung</lido:term>
+</lido:eventType>
+<lido:eventActor>
+<lido:actorInRole>
+<lido:actor lido:type="http://terminology.lido-schema.org/actor_type/person">
+<lido:nameActorSet>
+<lido:appellationValue>Resch Max (1994-)</lido:appellationValue>
+</lido:nameActorSet>
+</lido:actor>
+<lido:roleActor>
+<lido:conceptID lido:type="URI">http://d-nb.info/gnd/4121208-3</lido:conceptID>
+<lido:conceptID lido:type="URI">http://nomisma.org/id/artist</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Design</lido:term>
+<lido:term xml:lang="de">Entwurf</lido:term>
+</lido:roleActor>
+</lido:actorInRole>
+</lido:eventActor>
+<lido:eventActor>
+<lido:actorInRole>
+<lido:actor lido:type="http://terminology.lido-schema.org/actor_type/person">
+<lido:nameActorSet>
+<lido:appellationValue>Fischbach Melanie</lido:appellationValue>
+</lido:nameActorSet>
+</lido:actor>
+<lido:roleActor>
+<lido:conceptID lido:type="URI">http://d-nb.info/gnd/4121208-3</lido:conceptID>
+<lido:conceptID lido:type="URI">http://nomisma.org/id/artist</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Design</lido:term>
+<lido:term xml:lang="de">Entwurf</lido:term>
+</lido:roleActor>
+</lido:actorInRole>
+</lido:eventActor>
+<lido:eventActor>
+<lido:actorInRole>
+<lido:actor lido:type="http://terminology.lido-schema.org/actor_type/organization">
+<lido:nameActorSet>
+<lido:appellationValue>Guangzhou Baoli Animation Technology Co., Ltd.</lido:appellationValue>
+</lido:nameActorSet>
+</lido:actor>
+<lido:roleActor>
+<lido:conceptID lido:type="URI">http://d-nb.info/gnd/4175820-1</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Producer</lido:term>
+<lido:term xml:lang="de">Hersteller</lido:term>
+</lido:roleActor>
+</lido:actorInRole>
+</lido:eventActor>
+<lido:eventDate>
+<lido:displayDate>2024</lido:displayDate>
+<lido:date>
+<lido:earliestDate>2024</lido:earliestDate>
+<lido:latestDate>2024</lido:latestDate>
+</lido:date>
+</lido:eventDate>
+<lido:periodName>
+<lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300404514</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Moderne seit 1900</lido:term>
+</lido:periodName>
+<lido:eventPlace lido:type="Münzstätte">
+<lido:place lido:politicalEntity="Land">
+<lido:placeID lido:source="Geonames" lido:type="URI">http://www.geonames.org/1814991</lido:placeID>
+<lido:namePlaceSet>
+<lido:appellationValue>China</lido:appellationValue>
+<lido:appellationValue>China</lido:appellationValue>
+</lido:namePlaceSet>
+</lido:place>
+</lido:eventPlace>
+<lido:eventPlace lido:type="Münzstätte">
+<lido:place lido:politicalEntity="Region">
+<lido:placeID lido:source="Geonames" lido:type="URI">http://www.geonames.org/1809935</lido:placeID>
+<lido:namePlaceSet>
+<lido:appellationValue>Guangdong</lido:appellationValue>
+</lido:namePlaceSet>
+</lido:place>
+</lido:eventPlace>
+<lido:eventPlace lido:type="Münzstätte">
+<lido:place lido:politicalEntity="Münzstätte/Ausgabeort">
+<lido:placeID lido:source="Geonames" lido:type="URI">http://www.geonames.org/1809858</lido:placeID>
+<lido:namePlaceSet>
+<lido:appellationValue>Guangzhou (Kanton)</lido:appellationValue>
+</lido:namePlaceSet>
+</lido:place>
+</lido:eventPlace>
+<lido:eventMaterialsTech>
+<lido:materialsTech>
+<lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/material">
+<lido:conceptID lido:type="URI">http://nomisma.org/id/steel</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Steel</lido:term>
+<lido:term xml:lang="de">Stahl</lido:term>
+</lido:termMaterialsTech>
+</lido:materialsTech>
+</lido:eventMaterialsTech>
+<lido:eventMaterialsTech>
+<lido:materialsTech>
+<lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/technique">
+<lido:term lido:addedSearchTerm="no">struck</lido:term>
+<lido:term xml:lang="de">geprägt</lido:term>
+</lido:termMaterialsTech>
+</lido:materialsTech>
+</lido:eventMaterialsTech>
+</lido:event>
+</lido:eventSet>
+<lido:eventSet>
+<lido:event>
+<lido:eventType>
+<lido:conceptID lido:type="URI">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">Acquisition</lido:term>
+<lido:term lido:addedSearchTerm="no" xml:lang="de">Erwerbung</lido:term>
+</lido:eventType>
+<lido:eventDate>
+<lido:displayDate>2024</lido:displayDate>
+</lido:eventDate>
+</lido:event>
+</lido:eventSet>
+</lido:eventWrap>
+<lido:objectRelationWrap>
+<lido:subjectWrap>
+<lido:subjectSet>
+<lido:displaySubject>21. Jh.</lido:displaySubject>
+<lido:subject>
+<lido:subjectConcept>
+<lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300404515</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">21. Jh.</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:displaySubject>Andere Metalle und Legierungen</lido:displaySubject>
+<lido:subject>
+<lido:subjectConcept>
+<lido:term lido:addedSearchTerm="no">Andere Metalle und Legierungen</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:displaySubject>Architektur</lido:displaySubject>
+<lido:subject>
+<lido:subjectConcept>
+<lido:conceptID lido:type="URI">http://d-nb.info/gnd/4002851-3</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Architektur</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:displaySubject>Asien (ohne Kleinasien und Vorderer Orient)</lido:displaySubject>
+<lido:subject>
+<lido:subjectConcept>
+<lido:conceptID lido:type="URI">http://d-nb.info/gnd/4003217-6</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Asien (ohne Kleinasien und Vorderer Orient)</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:displaySubject>Ereignisse</lido:displaySubject>
+<lido:subject>
+<lido:subjectConcept>
+<lido:conceptID lido:type="URI">http://d-nb.info/gnd/4160028-9</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Ereignisse</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:displaySubject>Neuzeit</lido:displaySubject>
+<lido:subject>
+<lido:subjectConcept>
+<lido:conceptID lido:type="URI">http://d-nb.info/gnd/4171678-4</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Neuzeit</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:displaySubject>Nichtmünzliches</lido:displaySubject>
+<lido:subject>
+<lido:subjectConcept>
+<lido:term lido:addedSearchTerm="no">Nichtmünzliches</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:displaySubject>Private als Münzstand</lido:displaySubject>
+<lido:subject>
+<lido:subjectConcept>
+<lido:conceptID lido:type="URI">http://d-nb.info/gnd/4134791-2</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Private als Münzstand</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:displaySubject>Stadtansicht</lido:displaySubject>
+<lido:subject>
+<lido:subjectConcept>
+<lido:conceptID lido:type="URI">http://d-nb.info/gnd/4126697-3</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Stadtansicht</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+</lido:subjectWrap>
+</lido:objectRelationWrap>
+</lido:descriptiveMetadata>
+<lido:administrativeMetadata xml:lang="de">
+<lido:rightsWorkWrap>
+<lido:rightsWorkSet>
+<lido:rightsType>
+<lido:conceptID lido:type="URI">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">CC BY-SA 4.0</lido:term>
+</lido:rightsType>
+</lido:rightsWorkSet>
+</lido:rightsWorkWrap>
+<lido:recordWrap>
+<lido:recordID lido:type="local">DE-MUS-814819/IKMK-18314033</lido:recordID>
+<lido:recordType>
+<lido:conceptID lido:type="URI">https://d-nb.info/gnd/4019715-3</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">item</lido:term>
+</lido:recordType>
+<lido:recordSource>
+<lido:legalBodyID lido:source="ISIL" lido:type="URI">
+http://ld.zdb-services.de/resource/organisations/DE-MUS-814819
+</lido:legalBodyID>
+<lido:legalBodyName>
+<lido:appellationValue>
+Münzkabinett, Staatliche Museen zu Berlin - Stiftung Preußischer Kulturbesitz
+</lido:appellationValue>
+</lido:legalBodyName>
+<lido:legalBodyWeblink>
+https://www.smb.museum/museen-und-einrichtungen/muenzkabinett/home.html
+</lido:legalBodyWeblink>
+</lido:recordSource>
+<lido:recordRights>
+<lido:rightsType>
+<lido:term lido:addedSearchTerm="no" xml:lang="de">Verwertungsrecht</lido:term>
+</lido:rightsType>
+<lido:rightsHolder>
+<lido:legalBodyID lido:type="URI">
+http://ld.zdb-services.de/resource/organisations/DE-MUS-814819/18314033
+</lido:legalBodyID>
+<lido:legalBodyName>
+<lido:appellationValue>
+Münzkabinett, Staatliche Museen zu Berlin - Stiftung Preußischer Kulturbesitz
+</lido:appellationValue>
+</lido:legalBodyName>
+<lido:legalBodyWeblink>
+https://www.smb.museum/museen-und-einrichtungen/muenzkabinett/home.html
+</lido:legalBodyWeblink>
+</lido:rightsHolder>
+</lido:recordRights>
+<lido:recordRights>
+<lido:rightsType>
+<lido:conceptID lido:type="URI">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">CC BY-SA 4.0</lido:term>
+</lido:rightsType>
+</lido:recordRights>
+<lido:recordInfoSet>
+<lido:recordInfoLink>https://ikmk.smb.museum/object?id=18314033</lido:recordInfoLink>
+<lido:recordMetadataDate lido:type="last_modified">2024-08-27T07:32:33</lido:recordMetadataDate>
+</lido:recordInfoSet>
+</lido:recordWrap>
+<lido:resourceWrap>
+<lido:resourceSet lido:sortorder="1">
+<lido:resourceID lido:type="local">https://ikmk.smb.museum/image/18314033/vs_org.jpg</lido:resourceID>
+<lido:resourceRepresentation lido:type="image_thumb">
+<lido:linkResource lido:formatResource="image/jpeg">https://ikmk.smb.museum/image/18314033/vs_opt.jpg</lido:linkResource>
+</lido:resourceRepresentation>
+<lido:resourceRepresentation lido:type="image_preview">
+<lido:linkResource lido:formatResource="image/jpeg">https://ikmk.smb.museum/image/18314033/vs_opt.jpg</lido:linkResource>
+</lido:resourceRepresentation>
+<lido:resourceRepresentation lido:type="image_master">
+<lido:linkResource lido:formatResource="image/jpeg">https://ikmk.smb.museum/image/18314033/vs_org.jpg</lido:linkResource>
+</lido:resourceRepresentation>
+<lido:resourceType>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">digital image</lido:term>
+</lido:resourceType>
+<lido:resourcePerspective>
+<lido:conceptID lido:type="URI">https://d-nb.info/gnd/7707654-0</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">front</lido:term>
+</lido:resourcePerspective>
+<lido:resourceSource lido:type="Fotograf">
+<lido:legalBodyName>
+<lido:appellationValue>Karsten Dahmen</lido:appellationValue>
+</lido:legalBodyName>
+</lido:resourceSource>
+<lido:rightsResource>
+<lido:rightsType>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">copyright</lido:term>
+</lido:rightsType>
+</lido:rightsResource>
+<lido:rightsResource>
+<lido:rightsType>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">publication right</lido:term>
+</lido:rightsType>
+</lido:rightsResource>
+<lido:rightsResource>
+<lido:rightsType>
+<lido:conceptID lido:type="URI">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">PDM 1.0</lido:term>
+</lido:rightsType>
+</lido:rightsResource>
+</lido:resourceSet>
+<lido:resourceSet lido:sortorder="2">
+<lido:resourceID lido:type="local">https://ikmk.smb.museum/image/18314033/rs_org.jpg</lido:resourceID>
+<lido:resourceRepresentation lido:type="image_thumb">
+<lido:linkResource lido:formatResource="image/jpeg">https://ikmk.smb.museum/image/18314033/rs_opt.jpg</lido:linkResource>
+</lido:resourceRepresentation>
+<lido:resourceRepresentation lido:type="image_preview">
+<lido:linkResource lido:formatResource="image/jpeg">https://ikmk.smb.museum/image/18314033/rs_opt.jpg</lido:linkResource>
+</lido:resourceRepresentation>
+<lido:resourceRepresentation lido:type="image_master">
+<lido:linkResource lido:formatResource="image/jpeg">https://ikmk.smb.museum/image/18314033/rs_org.jpg</lido:linkResource>
+</lido:resourceRepresentation>
+<lido:resourceType>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">digital image</lido:term>
+</lido:resourceType>
+<lido:resourcePerspective>
+<lido:conceptID lido:type="URI">https://d-nb.info/gnd/4468345-5</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">back</lido:term>
+</lido:resourcePerspective>
+<lido:resourceSource lido:type="Fotograf">
+<lido:legalBodyName>
+<lido:appellationValue>Karsten Dahmen</lido:appellationValue>
+</lido:legalBodyName>
+</lido:resourceSource>
+<lido:rightsResource>
+<lido:rightsType>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">copyright</lido:term>
+</lido:rightsType>
+</lido:rightsResource>
+<lido:rightsResource>
+<lido:rightsType>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">publication right</lido:term>
+</lido:rightsType>
+</lido:rightsResource>
+<lido:rightsResource>
+<lido:rightsType>
+<lido:conceptID lido:type="URI">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">PDM 1.0</lido:term>
+</lido:rightsType>
+</lido:rightsResource>
+</lido:resourceSet>
+</lido:resourceWrap>
+</lido:administrativeMetadata>
+</lido:lido>

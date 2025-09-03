@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+<lido:lidoRecID lido:source="Deutsche Fotothek" lido:type="http://terminology.lido-schema.org/lido00100">DE-2396_33124388_df_hauptkatalog_0355520</lido:lidoRecID>
+<lido:objectPublishedID lido:source="Deutsche Fotothek" lido:type="http://terminology.lido-schema.org/lido00099">
+http://www.deutschefotothek.de/documents/obj/33124388
+</lido:objectPublishedID>
+<lido:category>
+<lido:conceptID lido:source="CIDOC-CRM" lido:type="http://terminology.lido-schema.org/lido00099">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+<lido:conceptID lido:source="http://terminology.lido-schema.org/" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00096</lido:conceptID>
+<lido:term>Human-Made Object</lido:term>
+</lido:category>
+<lido:descriptiveMetadata xml:lang="de">
+<lido:objectClassificationWrap>
+<lido:objectWorkTypeWrap>
+<lido:objectWorkType lido:type="Sachbegriff">
+<lido:term>Museum</lido:term>
+</lido:objectWorkType>
+</lido:objectWorkTypeWrap>
+<lido:classificationWrap>
+<lido:classification lido:type="Gattung">
+<lido:conceptID lido:source="http://d-nb.info/gnd/" lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4002851-3</lido:conceptID>
+<lido:term>Architektur</lido:term>
+</lido:classification>
+</lido:classificationWrap>
+</lido:objectClassificationWrap>
+<lido:objectIdentificationWrap>
+<lido:titleWrap>
+<lido:titleSet lido:type="Titel">
+<lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">
+Verden, Museum : Verden (Aller). Museum, Raumaufnahme
+</lido:appellationValue>
+</lido:titleSet>
+</lido:titleWrap>
+<lido:repositoryWrap>
+<lido:repositorySet>
+<lido:workID lido:type="Aufnahmenummer">df_hauptkatalog_0355520</lido:workID>
+<lido:workID lido:type="Dokumentennummer">33124388</lido:workID>
+</lido:repositorySet>
+</lido:repositoryWrap>
+<lido:objectDescriptionWrap>
+<lido:objectDescriptionSet>
+<lido:descriptiveNoteValue xml:lang="de">Verden (Aller). Museum, Raumaufnahme</lido:descriptiveNoteValue>
+</lido:objectDescriptionSet>
+<lido:objectDescriptionSet>
+<lido:descriptiveNoteValue xml:lang="de">Negativ in schwarzweiß, quer</lido:descriptiveNoteValue>
+</lido:objectDescriptionSet>
+</lido:objectDescriptionWrap>
+</lido:objectIdentificationWrap>
+<lido:eventWrap>
+<lido:eventSet>
+<lido:event>
+<lido:eventType>
+<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01127</lido:conceptID>
+<lido:term xml:lang="de">Fotografische Aufnahme</lido:term>
+</lido:eventType>
+<lido:eventActor>
+<lido:actorInRole>
+<lido:actor lido:type="Person">
+<lido:nameActorSet>
+<lido:appellationValue>Cölln, Fritz</lido:appellationValue>
+</lido:nameActorSet>
+</lido:actor>
+<lido:roleActor>
+<lido:term xml:lang="de">Fotograf</lido:term>
+</lido:roleActor>
+</lido:actorInRole>
+</lido:eventActor>
+<lido:eventDate>
+<lido:displayDate lido:label="Aufnahmedatum">1923</lido:displayDate>
+<lido:date>
+<lido:earliestDate>1922</lido:earliestDate>
+<lido:latestDate>1923</lido:latestDate>
+</lido:date>
+</lido:eventDate>
+</lido:event>
+</lido:eventSet>
+</lido:eventWrap>
+<lido:objectRelationWrap>
+<lido:subjectWrap>
+<lido:subjectSet>
+<lido:subject>
+<lido:subjectConcept>
+<lido:term>Architektur</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:subject>
+<lido:subjectConcept>
+<lido:term>Museum</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:subject>
+<lido:subjectConcept>
+<lido:term>Raumaufnahme</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:subject>
+<lido:subjectConcept>
+<lido:term>Innenraum</lido:term>
+</lido:subjectConcept>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:subject>
+<lido:subjectActor>
+<lido:actor>
+<lido:nameActorSet>
+<lido:appellationValue lido:label="Zusammenhang | Postkartenverlag">Trinks und Co. GmbH Leipzig</lido:appellationValue>
+</lido:nameActorSet>
+</lido:actor>
+</lido:subjectActor>
+</lido:subject>
+</lido:subjectSet>
+<lido:subjectSet>
+<lido:subject>
+<lido:subjectPlace>
+<lido:displayPlace xml:lang="deu">Verden (Standort)</lido:displayPlace>
+<lido:place>
+<lido:namePlaceSet>
+<lido:appellationValue lido:label="Standort">Verden</lido:appellationValue>
+</lido:namePlaceSet>
+</lido:place>
+</lido:subjectPlace>
+</lido:subject>
+</lido:subjectSet>
+</lido:subjectWrap>
+</lido:objectRelationWrap>
+</lido:descriptiveMetadata>
+<lido:administrativeMetadata xml:lang="de">
+<lido:rightsWorkWrap>
+<lido:rightsWorkSet>
+<lido:creditLine lido:label="Bemerkung">
+Bitte beachten Sie die Nutzungsbedingungen der Deutschen Fotothek.
+</lido:creditLine>
+</lido:rightsWorkSet>
+</lido:rightsWorkWrap>
+<lido:recordWrap>
+<lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">33124388</lido:recordID>
+<lido:recordType>
+<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+<lido:term xml:lang="de">Einzelobjekt</lido:term>
+</lido:recordType>
+<lido:recordSource lido:type="Datenverwalter">
+<lido:legalBodyName>
+<lido:appellationValue>SLUB / Deutsche Fotothek</lido:appellationValue>
+</lido:legalBodyName>
+</lido:recordSource>
+<lido:recordRights>
+<lido:rightsType>
+<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+<lido:term>CC0 1.0 Public Domain Dedication</lido:term>
+</lido:rightsType>
+<lido:creditLine>
+Digitalisierungsprojekt: Landesdigitalisierungsprogramm Sachsen: Altbestand Deutsche Fotothek
+</lido:creditLine>
+</lido:recordRights>
+<lido:recordInfoSet>
+<lido:recordInfoLink>
+http://www.deutschefotothek.de/documents/obj/33124388
+</lido:recordInfoLink>
+</lido:recordInfoSet>
+</lido:recordWrap>
+<lido:resourceWrap>
+<lido:resourceSet>
+<lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">df_hauptkatalog_0355520</lido:resourceID>
+<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+<lido:linkResource lido:formatResource="image/jpeg">
+http://fotothek.slub-dresden.de/fotos/df_hauptkatalog_0355520.jpg
+</lido:linkResource>
+</lido:resourceRepresentation>
+<lido:resourceType>
+<lido:term>image</lido:term>
+</lido:resourceType>
+<lido:resourceSource>
+<lido:legalBodyName>
+<lido:appellationValue>Deutsche Fotothek</lido:appellationValue>
+</lido:legalBodyName>
+</lido:resourceSource>
+<lido:rightsResource>
+<lido:rightsType>
+<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://rightsstatements.org/vocab/InC/1.0/</lido:conceptID>
+<lido:term>Urheberrechtsschutz (In Copright)</lido:term>
+</lido:rightsType>
+</lido:rightsResource>
+</lido:resourceSet>
+<lido:resourceSet>
+<lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">df_hauptkatalog_0355520_karte</lido:resourceID>
+<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+<lido:linkResource lido:formatResource="image/jpeg">
+http://fotothek.slub-dresden.de/fotos/df_hauptkatalog_0355520_karte.jpg
+</lido:linkResource>
+</lido:resourceRepresentation>
+<lido:resourceType>
+<lido:term>image</lido:term>
+</lido:resourceType>
+<lido:rightsResource>
+<lido:rightsType>
+<lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://rightsstatements.org/vocab/InC/1.0/</lido:conceptID>
+<lido:term>Urheberrechtsschutz (In Copyright)</lido:term>
+</lido:rightsType>
+</lido:rightsResource>
+</lido:resourceSet>
+</lido:resourceWrap>
+</lido:administrativeMetadata>
+</lido:lido>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+
+<lido:lidoRecID lido:source="ISIL (ISO 15511)/Obj.ID" lido:type="local">DE-MUS-019212/2560377</lido:lidoRecID>
+<lido:objectPublishedID lido:source="SMB identifier" lido:type="uri">https://id.smb.museum/object/2560377</lido:objectPublishedID>
+<lido:category>
+<lido:conceptID lido:source="RIA:Objekttyp" lido:type="URI">http://www.cidoc-crm.org/cidoc-crm/E22</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="de">Künstlicher Gegenstand</lido:term>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">Human-Made Object</lido:term>
+</lido:category>
+<lido:descriptiveMetadata xml:lang="de">
+<lido:objectClassificationWrap>
+<lido:objectWorkTypeWrap>
+<lido:objectWorkType>
+<lido:conceptID lido:source="AAT" lido:type="URI">http://vocab.getty.edu/aat/300026685</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="de">Akte</lido:term>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">records (documents)</lido:term>
+</lido:objectWorkType>
+</lido:objectWorkTypeWrap>
+<lido:classificationWrap>
+<lido:classification>
+<lido:term lido:addedSearchTerm="no" xml:lang="de">
+Archäologisches Bestandsverzeichnis aus der Reihe "Haupt-Katalog der Vorgeschichtlichen Abteilung des Königlichen Museums für Völkerkunde zu Berlin" (Band B V 1, 2)
+</lido:term>
+</lido:classification>
+<lido:classification>
+<lido:conceptID lido:type="local">1632913</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="de">
+ArvB Archivische Sammlungen
+</lido:term>
+</lido:classification>
+<lido:classification>
+<lido:term lido:addedSearchTerm="no" xml:lang="de">
+Bestandsverzeichnisse 1880 - 1945 des MVF Berlin
+</lido:term>
+</lido:classification>
+</lido:classificationWrap>
+</lido:objectClassificationWrap>
+<lido:objectIdentificationWrap>
+<lido:titleWrap>
+<lido:titleSet lido:type="Titel">
+<lido:appellationValue xml:lang="de">
+Archäologisches Bestandsverzeichnis aus der Reihe "Haupt-Katalog der Vorgeschichtlichen Abteilung des Königlichen Museums für Völkerkunde zu Berlin" (Band B V 1, 2)
+</lido:appellationValue>
+</lido:titleSet>
+</lido:titleWrap>
+<lido:repositoryWrap>
+<lido:repositorySet lido:type="current">
+<lido:repositoryName>
+<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="URI">DE-MUS-019212</lido:legalBodyID>
+<lido:legalBodyName>
+<lido:appellationValue>
+Museum für Vor- und Frühgeschichte, Staatliche Museen zu Berlin
+</lido:appellationValue>
+</lido:legalBodyName>
+<lido:legalBodyWeblink>https://www.smb.museum/mvf</lido:legalBodyWeblink>
+</lido:repositoryName>
+<lido:workID lido:type="Inventory number">IXc 00030</lido:workID>
+<lido:repositoryLocation>
+<lido:placeID lido:source="http://vocab.getty.edu/tgn/" lido:type="URI">http://vocab.getty.edu/tgn/7003712</lido:placeID>
+<lido:placeID lido:source="http://sws.geonames.org/" lido:type="URI">http://sws.geonames.org/2950159</lido:placeID>
+<lido:namePlaceSet>
+<lido:appellationValue>Berlin</lido:appellationValue>
+</lido:namePlaceSet>
+<lido:partOfPlace lido:politicalEntity="nation">
+<lido:placeID lido:source="http://vocab.getty.edu/tgn/" lido:type="URI">http://vocab.getty.edu/tgn/7000084</lido:placeID>
+<lido:placeID lido:source="http://sws.geonames.org/" lido:type="URI">http://sws.geonames.org/2921044</lido:placeID>
+<lido:namePlaceSet>
+<lido:appellationValue>Deutschland</lido:appellationValue>
+</lido:namePlaceSet>
+</lido:partOfPlace>
+</lido:repositoryLocation>
+</lido:repositorySet>
+</lido:repositoryWrap>
+<lido:objectDescriptionWrap>
+<lido:objectDescriptionSet lido:type="Objektbeschreibung">
+<lido:descriptiveNoteValue lido:encodinganalog="Online Beschreibung" xml:lang="de">
+Seit seiner Gründung 1829 wurden im Berliner Museum für Vor- und Frühgeschichte Bestandsverzeichnisse angelegt und geführt. Sie dienten dem wissenschaftlichen Dokumentieren der archäologischen Funde seiner Sammlungen sowie als Nachweis in rechtlichen und Provenienzbelangen. Bei dem hier vorliegenden Bestandsverzeichnis handelt sich um einen archäologischen Sammlungskatalog aus der Reihe "Hauptkatalog der Vorgeschichtlichen Abteilung des Königlichen Museum für Völkerkunde zu Berlin". Der Band wurde ab ca. 1895 geführt und verzeichnet Archaeologica aus Staaten und Gebiete Südwest, West- und Nordwesteuropas, und zwar aus Frankreich (Bestandsgruppe "Va" der Katalogsystematik). Der Band ist durchgängig foliiert (Folio 105 - 603, recte: 105 - 503). Eine im Band vorn eingefügte Übersicht zur Systematik des sog. Hauptkataloges und ein Abkürzungsverzeichnis dienen dem besseren Verständnis der handschriftlichen Informationen. Der "Hauptkatalog der Vorgeschichtlichen Abteilung des Königlichen Museum für Völkerkunde zu Berlin" wurde 1880 durch den Arzt und Prähistoriker Dr. Albert Voß (1837 - 1906) als zentrales Bestandsverzeichnis für die "prähistorischen Altertümer" eingerichtet. Er war Teil eines vierstufigen Dokumentationssystems. Zwischen 1886 und 1900 initiierte Voß ergänzende Bestandsverzeichnisreihen wie die sog. Alte Bestandskartei der Vorgeschichtlichen Abteilung und den sog. Geographischen Zettelkatalog der Vorgeschichtlichen Abteilung. Eine deutlich ältere Bestandsverzeichnisreihe ist das von Dr. Leopold von Ledebur entworfene (und über fast vier Jahrzehnte eigenhändig geführte) "Inventarium vaterländischer Altertümer". Es wurde 1835 eingerichtet und bis 1879 geführt. Der vorliegende Band wurde 1941 zunächst in den Tieftresor der Preußischen Staatsbank und kurze Zeit später in den Flakturm am Zoologischen Garten ausgelagert. 1945 gelangte er kriegsbedingt in die Sowjetunion und wurde von dort 1958 an die DDR übergeben. Seit 1963 wurde er vom Museum für Ur- und Frühgeschichte, Staatliche Museen zu Berlin (DDR) verwaltet und gelangte mit Herstellung der deutschen Einheit und Zusammenführung der Berliner Museumsbestände unter dem Dach der Stiftung Preußischer Kulturbesitz in den Besitz des Berliner Museums für Vor- und Frühgeschichte zurück.
+</lido:descriptiveNoteValue>
+</lido:objectDescriptionSet>
+</lido:objectDescriptionWrap>
+<lido:objectMeasurementsWrap>
+<lido:objectMeasurementsSet>
+<lido:displayObjectMeasurements xml:lang="de">
+Höhe x Breite x Stärke: 36 x 24 x 4,5 cm
+</lido:displayObjectMeasurements>
+<lido:displayObjectMeasurements xml:lang="en">36 x 24 x 4.5 cm</lido:displayObjectMeasurements>
+<lido:objectMeasurements>
+<lido:measurementsSet>
+<lido:measurementType xml:lang="de">
+Höhe x Breite x Stärke
+</lido:measurementType>
+<lido:measurementUnit xml:lang="de">cm</lido:measurementUnit>
+<lido:measurementValue xml:lang="de">36 x 24 x 4.5</lido:measurementValue>
+</lido:measurementsSet>
+</lido:objectMeasurements>
+</lido:objectMeasurementsSet>
+<lido:objectMeasurementsSet>
+<lido:displayObjectMeasurements xml:lang="de">
+Höhe x Breite (aufgeschlagen): 36 x 44 cm
+</lido:displayObjectMeasurements>
+<lido:displayObjectMeasurements xml:lang="en">36 x 44 cm</lido:displayObjectMeasurements>
+<lido:objectMeasurements>
+<lido:measurementsSet>
+<lido:measurementType xml:lang="de">
+Höhe x Breite (aufgeschlagen)
+</lido:measurementType>
+<lido:measurementUnit xml:lang="de">cm</lido:measurementUnit>
+<lido:measurementValue xml:lang="de">36 x 44</lido:measurementValue>
+</lido:measurementsSet>
+</lido:objectMeasurements>
+</lido:objectMeasurementsSet>
+</lido:objectMeasurementsWrap>
+</lido:objectIdentificationWrap>
+<lido:eventWrap>
+<lido:eventSet>
+<lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
+<lido:event>
+<lido:eventType>
+<lido:conceptID lido:source="LIDO-Terminologie" lido:type="URI">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="de">Herstellung</lido:term>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">Production</lido:term>
+</lido:eventType>
+<lido:eventDate>
+<lido:displayDate xml:lang="de">
+Ende 19. Jahrhundert/Anfang 20. Jahrhundert
+</lido:displayDate>
+<lido:date>
+<lido:earliestDate>1895</lido:earliestDate>
+<lido:latestDate>1935</lido:latestDate>
+</lido:date>
+</lido:eventDate>
+<lido:eventMaterialsTech>
+<lido:displayMaterialsTech xml:lang="de">
+Papier, Tinte, Pappe, Baumwollgewebe, Leder
+</lido:displayMaterialsTech>
+<lido:materialsTech>
+<lido:termMaterialsTech lido:type="material">
+<lido:conceptID lido:type="local">MaterialVoc-4349257</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="de">
+Papier, gebunden, bedruckt, beschrieben (Blätter); Pappe, mit Baumwollgewebe und Leder kaschiert (Deckel, Rücken)
+</lido:term>
+</lido:termMaterialsTech>
+</lido:materialsTech>
+</lido:eventMaterialsTech>
+</lido:event>
+</lido:eventSet>
+</lido:eventWrap>
+</lido:descriptiveMetadata>
+<lido:administrativeMetadata xml:lang="de">
+<lido:rightsWorkWrap>
+<lido:rightsWorkSet>
+<lido:rightsHolder>
+<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="concept-ID">DE-MUS-019212</lido:legalBodyID>
+<lido:legalBodyName>
+<lido:appellationValue>
+Museum für Vor- und Frühgeschichte, Staatliche Museen zu Berlin
+</lido:appellationValue>
+</lido:legalBodyName>
+<lido:legalBodyWeblink>https://www.smb.museum/mvf</lido:legalBodyWeblink>
+</lido:rightsHolder>
+</lido:rightsWorkSet>
+</lido:rightsWorkWrap>
+<lido:recordWrap>
+<lido:recordID lido:source="ISIL/Obj.ID" lido:type="local">DE-MUS-019212/2560377</lido:recordID>
+<lido:recordType>
+<lido:conceptID lido:source="LIDO-Terminologie" lido:type="URI">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="de">Einzelobjekt</lido:term>
+</lido:recordType>
+<lido:recordSource lido:type="Institution">
+<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="URI">DE-MUS-019212</lido:legalBodyID>
+<lido:legalBodyName>
+<lido:appellationValue>
+Museum für Vor- und Frühgeschichte, Staatliche Museen zu Berlin
+</lido:appellationValue>
+</lido:legalBodyName>
+<lido:legalBodyWeblink>https://www.smb.museum/mvf</lido:legalBodyWeblink>
+</lido:recordSource>
+<lido:recordRights>
+<lido:rightsType>
+<lido:conceptID lido:source="CC" lido:type="URI">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+<lido:term lido:addedSearchTerm="no" xml:lang="en">CC BY-SA 4.0</lido:term>
+</lido:rightsType>
+<lido:rightsHolder>
+<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="URI">DE-MUS-019212</lido:legalBodyID>
+<lido:legalBodyName>
+<lido:appellationValue>
+Museum für Vor- und Frühgeschichte, Staatliche Museen zu Berlin
+</lido:appellationValue>
+</lido:legalBodyName>
+<lido:legalBodyWeblink>https://www.smb.museum/mvf</lido:legalBodyWeblink>
+</lido:rightsHolder>
+</lido:recordRights>
+<lido:recordInfoSet>
+<lido:recordInfoLink lido:formatResource="html">https://id.smb.museum/object/2560377</lido:recordInfoLink>
+</lido:recordInfoSet>
+</lido:recordWrap>
+<lido:resourceWrap>
+<lido:resourceSet lido:sortorder="0">
+<lido:resourceID lido:label="Bild" lido:source="SMB/ObjID/AssetID" lido:type="local">DE-MUS-019212/2560377/5822610</lido:resourceID>
+<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+<lido:linkResource lido:formatResource="image/jpeg">https://id.smb.museum/digital-asset/5822610</lido:linkResource>
+</lido:resourceRepresentation>
+<lido:resourceType>
+<lido:term lido:addedSearchTerm="no" xml:lang="EN">image</lido:term>
+</lido:resourceType>
+<lido:resourceRelType>
+<lido:term lido:addedSearchTerm="no" xml:lang="de">Hauptansicht</lido:term>
+</lido:resourceRelType>
+<lido:resourceDescription>
+Ansicht einer Doppelseite des Sammlungsverzeichnis IXc 30
+</lido:resourceDescription>
+<lido:resourceSource lido:type="Fotograf">
+<lido:legalBodyName>
+<lido:appellationValue>
+Museum für Vor- und Frühgeschichte, Staatliche Museen zu Berlin
+</lido:appellationValue>
+</lido:legalBodyName>
+</lido:resourceSource>
+<lido:rightsResource>
+<lido:rightsType>
+<lido:conceptID lido:source="RIA" lido:type="URI">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+<lido:term lido:addedSearchTerm="no">Attribution-ShareAlike 4.0 International</lido:term>
+</lido:rightsType>
+<lido:rightsHolder>
+<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="concept-ID">DE-MUS-019212</lido:legalBodyID>
+<lido:legalBodyName>
+<lido:appellationValue>
+Museum für Vor- und Frühgeschichte, Staatliche Museen zu Berlin
+</lido:appellationValue>
+</lido:legalBodyName>
+<lido:legalBodyWeblink>https://www.smb.museum/mvf</lido:legalBodyWeblink>
+</lido:rightsHolder>
+<lido:creditLine>
+Staatliche Museen zu Berlin, Museum für Vor- und Frühgeschichte / Museum für Vor- und Frühgeschichte, Staatliche Museen zu Berlin
+</lido:creditLine>
+</lido:rightsResource>
+</lido:resourceSet>
+</lido:resourceWrap>
+</lido:administrativeMetadata>
+</lido:lido>

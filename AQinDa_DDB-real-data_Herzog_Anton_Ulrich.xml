@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<lido:lidoRecID lido:source="ISIL (ISO 15511)/Obj.ID" lido:type="local">DE-MUS-019118/794675</lido:lidoRecID>
+	<lido:objectPublishedID lido:source="SMB identifier" lido:type="uri">https://id.smb.museum/object/794675</lido:objectPublishedID>
+	<lido:category>
+		<lido:conceptID lido:source="RIA:Objekttyp" lido:type="URI">http://terminology.lido-schema.org/lido00096</lido:conceptID>
+		<lido:term lido:addedSearchTerm="no" xml:lang="de">Künstlicher Gegenstand</lido:term>
+		<lido:term lido:addedSearchTerm="no" xml:lang="en">Human-Made Object</lido:term>
+	</lido:category>
+	<lido:descriptiveMetadata xml:lang="de">
+		<lido:objectClassificationWrap>
+			<lido:objectWorkTypeWrap>
+				<lido:objectWorkType lido:type="Objekttyp">
+					<lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300138191</lido:conceptID>
+					<lido:conceptID lido:source="RIA:Sachbegriff" lido:type="local">4289137</lido:conceptID>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Positiv, SW</lido:term>
+				</lido:objectWorkType>
+			</lido:objectWorkTypeWrap>
+			<lido:classificationWrap>
+				<lido:classification lido:type="Objekttyp">
+					<lido:conceptID lido:encodinganalog="RIA:Objekttyp" lido:source="ObjCategoryVoc" lido:type="local"/>
+					<lido:term xml:lang="de">Fotografie</lido:term>
+				</lido:classification>
+				<lido:classification>
+					
+					<lido:term lido:addedSearchTerm="yes" xml:lang="en">photography</lido:term>
+				</lido:classification>
+				<lido:classification lido:type="europeana:type">
+					<lido:term lido:addedSearchTerm="no">IMAGE</lido:term>
+				</lido:classification>
+			</lido:classificationWrap>
+		</lido:objectClassificationWrap>
+		<lido:objectIdentificationWrap>
+			<lido:titleWrap>
+				<lido:titleSet lido:type="Titel">
+					<lido:appellationValue xml:lang="de">Königliches Museum für Völkerkunde, Vestibül</lido:appellationValue>
+				</lido:titleSet>
+			</lido:titleWrap>
+			<lido:repositoryWrap>
+				<lido:repositorySet lido:type="current">
+					<lido:repositoryName>
+						<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="concept-ID">DE-MUS-019118</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Ethnologisches Museum, Staatliche Museen zu Berlin</lido:appellationValue>
+						</lido:legalBodyName>
+						<lido:legalBodyWeblink>https://www.smb.museum/em</lido:legalBodyWeblink>
+					</lido:repositoryName>
+					<lido:repositoryLocation lido:politicalEntity="inhabited place">
+						<lido:placeID lido:source="http://vocab.getty.edu/tgn/" lido:type="URI">http://vocab.getty.edu/tgn/7003712</lido:placeID>
+						<lido:placeID lido:source="http://sws.geonames.org/" lido:type="URI">http://sws.geonames.org/2950159</lido:placeID>
+						<lido:namePlaceSet>
+							<lido:appellationValue>Berlin</lido:appellationValue>
+						</lido:namePlaceSet>
+						<lido:partOfPlace lido:politicalEntity="Statenation">
+							<lido:placeID lido:source="http://vocab.getty.edu/tgn/http://vocab.getty.edu/tgn/" lido:type="URI">http://vocab.getty.edu/tgn/7003670</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin Deutschland</lido:appellationValue>
+							</lido:namePlaceSet>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin Deutschland</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:partOfPlace>
+						<lido:partOfPlace lido:politicalEntity="Statenation">
+							<lido:placeID lido:source="http://vocab.getty.edu/tgn/http://vocab.getty.edu/tgn/" lido:type="URI">http://vocab.getty.edu/tgn/7003670</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin Deutschland</lido:appellationValue>
+							</lido:namePlaceSet>
+							<lido:namePlaceSet>
+								<lido:appellationValue>Berlin Deutschland</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:partOfPlace>
+					</lido:repositoryLocation>
+				</lido:repositorySet>
+			</lido:repositoryWrap>
+			<lido:objectDescriptionWrap/>
+			<lido:objectMeasurementsWrap>
+				<lido:objectMeasurementsSet>
+					<lido:displayObjectMeasurements xml:lang="de">Bildformat (Foto): cm Großformat</lido:displayObjectMeasurements>
+					<lido:objectMeasurements>
+						<lido:measurementsSet>
+							<lido:measurementType xml:lang="de">Höhe</lido:measurementType>
+							<lido:measurementUnit xml:lang="de">cm</lido:measurementUnit>
+							<lido:measurementValue xml:lang="de"/>
+						</lido:measurementsSet>
+						<lido:measurementsSet>
+							<lido:measurementType xml:lang="de">Breite</lido:measurementType>
+							<lido:measurementUnit xml:lang="de">cm</lido:measurementUnit>
+							<lido:measurementValue xml:lang="de"/>
+						</lido:measurementsSet>
+						<lido:extentMeasurements xml:lang="de">Bildformat (Foto)</lido:extentMeasurements>
+					</lido:objectMeasurements>
+				</lido:objectMeasurementsSet>
+			</lido:objectMeasurementsWrap>
+		</lido:objectIdentificationWrap>
+		<lido:eventWrap>
+			<lido:eventSet lido:sortorder="5">
+				<lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:source="LIDO-Terminologie" lido:type="URI">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no" xml:lang="de">Herstellung</lido:term>
+						<lido:term lido:addedSearchTerm="no" xml:lang="en">Production</lido:term>
+					</lido:eventType>
+					<lido:eventActor>
+						<lido:displayActorInRole>Fotograf unbekannt, Fotograf*in</lido:displayActorInRole>
+						<lido:actorInRole>
+							<lido:actor lido:type="Person">
+								<lido:actorID lido:source="ObjPerAssociationRef" lido:type="local">84787</lido:actorID>
+								<lido:nameActorSet>
+									<lido:appellationValue lido:pref="preferred">Fotograf unbekannt</lido:appellationValue>
+								</lido:nameActorSet>
+							</lido:actor>
+							<lido:roleActor>
+								<lido:term lido:encodinganalog="RIA:Rolle" xml:lang="de">Fotograf*in</lido:term>
+							</lido:roleActor>
+						</lido:actorInRole>
+					</lido:eventActor>
+					<lido:eventDate>
+						<lido:displayDate xml:lang="de">1906</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>1906</lido:earliestDate>
+							<lido:latestDate>1906</lido:latestDate>
+						</lido:date>
+					</lido:eventDate>
+					<lido:eventPlace>
+						<lido:displayPlace lido:encodinganalog="PlaceVoc" xml:lang="de">Berlin</lido:displayPlace>
+						<lido:place>
+							<lido:placeID lido:type="PlaceVoc">2282422</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue xml:lang="de">Berlin</lido:appellationValue>
+							</lido:namePlaceSet>
+						</lido:place>
+					</lido:eventPlace>
+					<lido:eventMethod/>
+				</lido:event>
+			</lido:eventSet>
+			<lido:eventSet lido:sortorder="30">
+				<lido:event>
+					<lido:eventType>
+						<lido:conceptID lido:source="LIDO-Terminologie" lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no">Zuordnung zu einem kuratierten Bestand</lido:term>
+					</lido:eventType>
+					<lido:eventMethod/>
+					<lido:thingPresent>
+						<lido:displayObject/>
+					</lido:thingPresent>
+				</lido:event>
+			</lido:eventSet>
+		</lido:eventWrap>
+	</lido:descriptiveMetadata>
+	<lido:administrativeMetadata xml:lang="de">
+		<lido:rightsWorkWrap>
+			<lido:rightsWorkSet>
+				<lido:rightsHolder>
+					<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="concept-ID">DE-MUS-019118</lido:legalBodyID>
+					<lido:legalBodyName>
+						<lido:appellationValue>Ethnologisches Museum, Staatliche Museen zu Berlin</lido:appellationValue>
+					</lido:legalBodyName>
+					<lido:legalBodyWeblink>https://www.smb.museum/em</lido:legalBodyWeblink>
+				</lido:rightsHolder>
+			</lido:rightsWorkSet>
+		</lido:rightsWorkWrap>
+		<lido:recordWrap>
+			<lido:recordID lido:source="ISIL/Obj.ID" lido:type="local">DE-MUS-019118/794675</lido:recordID>
+			<lido:recordType>
+				<lido:conceptID lido:source="LIDO-Terminologie" lido:type="URI">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+				<lido:term lido:addedSearchTerm="no" xml:lang="de">Einzelobjekt</lido:term>
+			</lido:recordType>
+			<lido:recordSource lido:type="Institution">
+				<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="concept-ID">DE-MUS-019118</lido:legalBodyID>
+				<lido:legalBodyName>
+					<lido:appellationValue>Ethnologisches Museum, Staatliche Museen zu Berlin</lido:appellationValue>
+				</lido:legalBodyName>
+				<lido:legalBodyWeblink>https://www.smb.museum/em</lido:legalBodyWeblink>
+			</lido:recordSource>
+			<lido:recordRights>
+				<lido:rightsType>
+					<lido:conceptID lido:source="CC" lido:type="URI">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+					<lido:term lido:addedSearchTerm="no" xml:lang="en">CC BY-SA 4.0</lido:term>
+				</lido:rightsType>
+				<lido:rightsHolder>
+					<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="concept-ID">DE-MUS-019118</lido:legalBodyID>
+					<lido:legalBodyName>
+						<lido:appellationValue>Ethnologisches Museum, Staatliche Museen zu Berlin</lido:appellationValue>
+					</lido:legalBodyName>
+					<lido:legalBodyWeblink>https://www.smb.museum/em</lido:legalBodyWeblink>
+				</lido:rightsHolder>
+			</lido:recordRights>
+			<lido:recordInfoSet>
+				<lido:recordInfoLink lido:formatResource="html">https://id.smb.museum/object/794675</lido:recordInfoLink>
+			</lido:recordInfoSet>
+		</lido:recordWrap>
+		<lido:resourceWrap>
+			<lido:resourceSet lido:sortorder="0">
+				<lido:resourceID lido:label="Bild" lido:source="SMB/ObjID/AssetID" lido:type="local">DE-MUS-019118/794675/4948631</lido:resourceID>
+				<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+					<lido:linkResource lido:formatResource="image/jpeg">https://id.smb.museum/digital-asset/4948631</lido:linkResource>
+				</lido:resourceRepresentation>
+				<lido:resourceType>
+					<lido:term lido:addedSearchTerm="no" xml:lang="EN">image</lido:term>
+				</lido:resourceType>
+				<lido:resourceRelType>
+					<lido:term lido:addedSearchTerm="no" xml:lang="de">Hauptansicht</lido:term>
+				</lido:resourceRelType>
+				<lido:resourceDateTaken>
+					<lido:displayDate>07/2015</lido:displayDate>
+				</lido:resourceDateTaken>
+				<lido:resourceSource lido:type="Fotograf">
+					<lido:legalBodyName>
+						<lido:appellationValue/>
+					</lido:legalBodyName>
+				</lido:resourceSource>
+				<lido:rightsResource>
+					<lido:rightsType>
+						<lido:conceptID lido:source="RIA" lido:type="URI">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+						<lido:term lido:addedSearchTerm="no">
+Attribution-NonCommercial-ShareAlike 4.0 International
+</lido:term>
+					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="concept-ID">DE-MUS-019118</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Ethnologisches Museum, Staatliche Museen zu Berlin</lido:appellationValue>
+						</lido:legalBodyName>
+						<lido:legalBodyWeblink>https://www.smb.museum/em</lido:legalBodyWeblink>
+					</lido:rightsHolder>
+					<lido:creditLine>Staatliche Museen zu Berlin, Ethnologisches Museum</lido:creditLine>
+				</lido:rightsResource>
+			</lido:resourceSet>
+		</lido:resourceWrap>
+	</lido:administrativeMetadata>
+</lido:lido>
