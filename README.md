@@ -10,6 +10,7 @@ This repositories contains examples of [LIDO](http://www.lido-schema.org/) XML f
 - `minimaldatensatz.xml` example from [Minimaldatensatz-Empfehlung für Museen und Sammlungen (v1.0.1)](https://wiki.deutsche-digitale-bibliothek.de/pages/viewpage.action?pageId=120422678) 
 - `kenom_oai_chunk20.xml` sample records from KENOM
 - `AQinDa_DDB_real_data`: real data from the DDB API used for quality checks in the AQinDa project.
+- `AQinDa_DDB_graphics`: example record from Graphic portal used for quality checks in the AQinDa project.
 - `AQinDa_manipulated_records`: manipulated LIDO records used for quality checks in the AQinDa project.   
 
 ## Installation
