@@ -1,0 +1,490 @@
+<lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+	<!--  Es handelt sich um einen Beispieldatensatz, der in Teilen vom Bildarchiv Foto Marburg ergänzt wurde, um eine möglichst große Anzahl
+        an LIDO Elementen mit exemplarischen Inhalt darstellen zu können.
+        Er bezieht sich auf die Publikation "LIDO-Handbuch für die Erfassung und Publikation von Metadaten zu kulturellen Objekten" (2019). https://doi.org/10.11588/arthistoricum.382.544  -->
+	<!--  History:
+        2024-08-05, Gudrun Knaus: Angaben zum Wasserzeichen angepasst
+        2023-07-17, Gudrun Knaus: neue EventTypes vergeben
+        2022-07-26, Klaus Bulle:  HTTPS in Creative-Commons-Lizenzen durch HTTP ersetzt
+        2022-03-31, Klaus Bulle:  URIs der Creative-Commons-Lizenzen korrigiert (Slash am Ende fehlte); rightsType/term für CC0 korrigiert
+        2022-03-31, Klaus Bulle:  rightsResource/rightsHolder entfernt
+        2022-02-11, Klaus Bulle:  rightsResource erneut angepasst ("Vervielfältigungen gemeinfreier visueller Werke" sind nach § 68 UrhG nicht mehr geschützt)
+        2022-01-17, Klaus Bulle:  recordRights/rightsHolder entfernt
+        2021-12-13, Klaus Bulle:  rightsWorkSet/rightsType ergänzt; rightsResource/rightsType durch CC-Lizenz ersetzt; resourceDescription entfernt;
+                                  rightsResource/creditLine angepasst; recordRights/rightsHolder auskommentiert
+        2021-04-23, Gudrun Knaus: Alle lexikalischen URIs wurden durch numerische URIs ersetzt, weil die lexikalischen URIs aus der LIDO-Terminologie
+                                  auf "deprecated" gesetzt wurden, ihr weiterer Gebrauch wird also ausdrücklich nicht empfohlen.
+        2020-09-30, Gudrun Knaus: Dateninhalt von displayObjectMeasurements um den Inhalt von extentMeasurements ergänzt
+        2020-09-30, Gudrun Knaus: objectWebResource des relatedWork im British Museum (Kopie) aktualisiert
+        2020-04-09, Klaus Bulle:  DOI zum Handbuch ergänzt
+        2020-04-08, Gudrun Knaus: term zu lido:conceptID http://terminology.lido-schema.org/lido00575 geändert in: "has broader conceptual context";
+                                  term zu lido:conceptID http://terminology.lido-schema.org/lido00255 geändert in "is physical part of"
+        2019-07-01, Klaus Bulle:  lido:source-Attribute überprüft, d.h. überflüssige entfernt, fehlende ergänzt und falsche korrigiert;
+                                  legalBodyID in resourceSource und rightsResource ergänzt; titleSet/appellationValue@pref="preferred" in beiden Fällen;
+                                  Permalink für Wasserzeichen (statt Query); Kommentar in lido:resourceDescription präzisiert;
+                                  http://lobid.org/organisation/ ersetzt durch http://ld.zdb-services.de/resource/organisations/
+        2019-05-03, Klaus Bulle:  URI für Schoch-Werkverzeichnis korrigiert
+        2019-04-29, Klaus Bulle:  URI für Typ-Attribut Wasserzeichen im Material/Technik-Elment korrigiert (symbolische URI noch nicht offiziell)
+        2019-03-15, Angela Kailus/Klaus Bulle: grundlegende Überarbeitung
+        2015-12-21, Gudrun Knaus/Regine Stein: für Publikation "Gemeinsamer Feldkatalog Graphischer Sammlungen" angelegt  -->
+	<lido:lido>
+		<lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://ld.zdb-services.de/resource/organisations/DE-MUS-079214">DE-MUS-079214/lido/05091715,T,001</lido:lidoRecID>
+		<!--lido:objectPublishedID fehlt (Graphik 2.1)-->
+		<lido:descriptiveMetadata xml:lang="de">
+			<lido:objectClassificationWrap>
+				<lido:objectWorkTypeWrap>
+					<lido:objectWorkType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/234872903472304570359093572</lido:conceptID> <!--Keine erfundenen URIs (Graphik 4.2)-->
+						<lido:term>Titelblatt</lido:term>
+					</lido:objectWorkType>
+					<lido:objectWorkType>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">AAT 300041405</lido:conceptID> <!--Keine vollständigen URIs (Graphik 4.1)-->
+						<lido:term>Holzschnitt</lido:term>
+					</lido:objectWorkType>
+				</lido:objectWorkTypeWrap>
+				<lido:classificationWrap>
+					<lido:classification lido:type="Objektklassifikation">
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido987654">http://vocab.getty.edu/aat/300041273</lido:conceptID> <!--Keine erfundenen URIs (Graphik 4.3)-->
+						<lido:term>Druckgrafik (Visuelles Werk)</lido:term>
+					</lido:classification>
+					<lido:classification lido:type="Stilepoche">
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300021140</lido:conceptID>
+						<lido:term></lido:term> <!--keine leeren Elemente (Graphik 5.1)-->
+					</lido:classification>
+				</lido:classificationWrap>
+			</lido:objectClassificationWrap>
+			<lido:objectIdentificationWrap>
+				<lido:titleWrap>
+					<lido:titleSet lido:type="http://vocab.getty.edu/aat/300417206">
+						<lido:appellationValue xml:lang="de" lido:pref="preferred">Die Jungfrau erscheint Johannes</lido:appellationValue>
+					</lido:titleSet>
+					<lido:titleSet lido:type="http://vocab.getty.edu/aat/300417214">
+						<lido:appellationValue xml:lang="de" lido:pref="preferred"></lido:appellationValue> <!--keine leeren Elemente (Graphik 5.2)-->
+					</lido:titleSet>
+				</lido:titleWrap>
+				<lido:inscriptionsWrap>
+					<lido:inscriptions lido:type="Inschrift">
+						<lido:inscriptionTranscription xml:lang="la">Apocalipsis/cu[m] figuris</lido:inscriptionTranscription>
+						<lido:inscriptionDescription>
+							<lido:descriptiveNoteValue>oben — lateinisch</lido:descriptiveNoteValue>
+						</lido:inscriptionDescription>
+					</lido:inscriptions>
+					<lido:inscriptions lido:type="Marke">
+						<lido:inscriptionDescription>
+							<lido:descriptiveNoteID lido:type="http://terminology.lido-schema.org/lido00099">http://www.marquesdecollections.fr/detail.cfm/marque/8918</lido:descriptiveNoteID>
+							<lido:descriptiveNoteValue>Sammlerstempel unten rechts Pierre-Jean Mariette</lido:descriptiveNoteValue>
+						</lido:inscriptionDescription>
+					</lido:inscriptions>
+				</lido:inscriptionsWrap>
+				<lido:repositoryWrap>
+					<lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+						<lido:repositoryName>
+							<!--lido:legalBodyID fehlt (Graphik 2.2)-->
+							<!--lido:legalBodyName fehlt (Graphik 2.2)-->
+							<lido:legalBodyWeblink>https://www.wallraf.museum</lido:legalBodyWeblink>
+						</lido:repositoryName>
+						<!--lido:workID fehlt (Graphik 2.3)-->
+						<lido:repositoryLocation>
+							<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/tgn/7004446</lido:placeID>
+							<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://sws.geonames.org/2886242/</lido:placeID>
+							<lido:namePlaceSet>
+								<lido:appellationValue> </lido:appellationValue> <!--keine Pseudowerte (Graphik 5.3)-->
+							</lido:namePlaceSet>
+						</lido:repositoryLocation>
+					</lido:repositorySet>
+				</lido:repositoryWrap>
+				<lido:displayStateEditionWrap>
+					<lido:displayEdition>lateinische Ausgabe von 1511</lido:displayEdition>
+					<lido:sourceStateEdition>Meder 1932.152.163</lido:sourceStateEdition>
+				</lido:displayStateEditionWrap>
+				<lido:objectDescriptionWrap>
+					<lido:objectDescriptionSet lido:type="Objektbeschreibung">
+						<lido:descriptiveNoteValue>Erst in der zweiten Auflage der Apokalypse aus dem Jahr 1511 ergänzte Albrecht Dürer einen Holzschnitt mit dem Motiv der Jungfrau Maria auf der Mondsichel als Vision des Evangelisten Johannes auf dem Titelblatt. Im Falle dieses Exemplars stammt das Bildmotiv von einem anderen Abzug und wurde nachträglich auf dieses Titelblatt geklebt, das wohl ursprünglich aus der ersten Auflage von 1498 stammt und nur die reich verzierte lateinische Titelzeile enthielt.</lido:descriptiveNoteValue>
+						<lido:sourceDescriptiveNote>Donald Dummy</lido:sourceDescriptiveNote>
+					</lido:objectDescriptionSet>
+					<lido:objectDescriptionSet lido:type="Erhaltungszustand">
+						<lido:descriptiveNoteValue>kurzer Einriss unten rechts</lido:descriptiveNoteValue>
+					</lido:objectDescriptionSet>
+				</lido:objectDescriptionWrap>
+				<lido:objectMeasurementsWrap>
+					<lido:objectMeasurementsSet>
+						<lido:displayObjectMeasurements>Blatt: 39,8 x 28,1 cm</lido:displayObjectMeasurements>
+						<lido:objectMeasurements>
+							<lido:measurementsSet>
+								<lido:measurementType>Höhe x Breite</lido:measurementType>
+								<lido:measurementUnit>cm</lido:measurementUnit>
+								<lido:measurementValue>39,8 x 28,1</lido:measurementValue>
+							</lido:measurementsSet>
+							<lido:extentMeasurements>Blatt</lido:extentMeasurements>
+						</lido:objectMeasurements>
+					</lido:objectMeasurementsSet>
+					<lido:objectMeasurementsSet>
+						<lido:displayObjectMeasurements>Darstellung: 35,8 x 26,1 cm</lido:displayObjectMeasurements>
+						<lido:objectMeasurements>
+							<lido:measurementsSet>
+								<lido:measurementType>Höhe x Breite</lido:measurementType>
+								<lido:measurementUnit>cm</lido:measurementUnit>
+								<lido:measurementValue>35,8 x 26,1</lido:measurementValue>
+							</lido:measurementsSet>
+							<lido:extentMeasurements>Darstellung</lido:extentMeasurements>
+						</lido:objectMeasurements>
+					</lido:objectMeasurementsSet>
+				</lido:objectMeasurementsWrap>
+			</lido:objectIdentificationWrap>
+			<lido:eventWrap>
+				<lido:eventSet>
+					<lido:event>
+						<!--  Im Folgenden werden verschiedene Ereignistypen exemplarisch genannt und je nach Rolle der beteiligten Person/Körperschaft unterschieden. -->
+						<lido:eventType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00224</lido:conceptID>
+							<lido:term xml:lang="de">Entwurf (Aktivität)</lido:term>
+						</lido:eventType>
+						<lido:eventActor>
+							<lido:displayActorInRole>Albrecht Dürer (1471-1928), Inventor</lido:displayActorInRole>
+							<lido:actorInRole>
+								<lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+									<!--lido:actorID fehlt (Graphik 2.4)-->
+									<lido:nameActorSet>
+										<lido:appellationValue lido:pref="preferred">Dürer, Albrecht</lido:appellationValue>
+									</lido:nameActorSet>
+									<lido:nameActorSet>
+										<lido:appellationValue lido:pref="alternative">Dürer, Albrecht (der Jüngere)</lido:appellationValue>
+									</lido:nameActorSet>
+									<lido:vitalDatesActor>
+										<lido:earliestDate lido:type="exactDate">1471-05-21</lido:earliestDate>
+										<lido:latestDate lido:type="exactDate">1528-04-06</lido:latestDate>
+									</lido:vitalDatesActor>
+								</lido:actor>
+								<lido:roleActor>
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300025845</lido:conceptID>
+									<lido:term>Inventor</lido:term>
+								</lido:roleActor>
+							</lido:actorInRole>
+						</lido:eventActor>
+						<lido:eventDate>
+							<lido:displayDate>1498</lido:displayDate>
+							<lido:date>
+								<lido:earliestDate>1498</lido:earliestDate>
+								<lido:latestDate>1498</lido:latestDate>
+							</lido:date>
+						</lido:eventDate>
+					</lido:event>
+				</lido:eventSet>
+				<lido:eventSet>
+					<lido:event>
+						<lido:eventType>
+							<!--lido:conceptID mit Wert lido01089 fehlt (Graphik 2.8)-->
+							<lido:term xml:lang="de">Herstellung der Druckform</lido:term>
+						</lido:eventType>
+						<lido:eventActor>
+							<lido:displayActorInRole>Albrecht Dürer (1471-1928), Holzschneider</lido:displayActorInRole>
+							<lido:actorInRole>
+								<lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+									<lido:actorID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/11852786X</lido:actorID>
+									<lido:nameActorSet>
+										<lido:appellationValue lido:pref="preferred">Dürer, Albrecht</lido:appellationValue>
+									</lido:nameActorSet>
+									<lido:nameActorSet>
+										<lido:appellationValue lido:pref="alternative">Dürer, Albrecht (der Jüngere)</lido:appellationValue>
+									</lido:nameActorSet>
+									<lido:vitalDatesActor>
+										<lido:earliestDate lido:type="exactDate">1471-05-21</lido:earliestDate>
+										<lido:latestDate lido:type="exactDate">1528-04-06</lido:latestDate>
+									</lido:vitalDatesActor>
+								</lido:actor>
+								<lido:roleActor>
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300025845</lido:conceptID>
+									<lido:term>Holzschneider</lido:term>
+								</lido:roleActor>
+							</lido:actorInRole>
+						</lido:eventActor>
+						<lido:eventDate>
+							<lido:displayDate>1511</lido:displayDate>
+							<lido:date>
+								<lido:earliestDate>1511</lido:earliestDate>
+								<lido:latestDate>1511</lido:latestDate>
+							</lido:date>
+						</lido:eventDate>
+						<lido:eventPlace>
+							<lido:place>
+								<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/tgn/7004334</lido:placeID>
+								<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://sws.geonames.org/3020251/</lido:placeID>
+								<lido:namePlaceSet>
+									<lido:appellationValue lido:pref="preferred">Nürnberg</lido:appellationValue>
+								</lido:namePlaceSet>
+							</lido:place>
+						</lido:eventPlace>
+						<lido:eventMaterialsTech>
+							<lido:displayMaterialsTech>Holzschnitt auf Papier</lido:displayMaterialsTech>
+							<lido:materialsTech>
+								<lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300053296</lido:conceptID>
+									<lido:term>Holzschnitt</lido:term>
+								</lido:termMaterialsTech>
+							</lido:materialsTech>
+						</lido:eventMaterialsTech>
+					</lido:event>
+				</lido:eventSet>
+				<lido:eventSet>
+					<lido:event>
+						<lido:eventType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01096</lido:conceptID>
+							<lido:term xml:lang="en">Herstellung des Exemplars</lido:term>
+							<!--  Im Graphikportal: Wasserzeichen  -->
+						</lido:eventType>
+						<lido:eventMaterialsTech>
+							<lido:displayMaterialsTech>Turm mit Krone, Piccard Bd. 3, Abt. 2, Nr. 497</lido:displayMaterialsTech>
+							<lido:materialsTech>
+								<lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00427">
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wasserzeichen-online.de/?ref=DE7710-PO-100912</lido:conceptID>
+									<lido:term>Turm mit Krone</lido:term>
+								</lido:termMaterialsTech>
+								<lido:sourceMaterialsTech>Piccard III.2.497</lido:sourceMaterialsTech>
+							</lido:materialsTech>
+						</lido:eventMaterialsTech>
+					</lido:event>
+				</lido:eventSet>
+				<lido:eventSet>
+					<lido:event>
+						<lido:eventType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00228</lido:conceptID>
+							<lido:term xml:lang="de">Veröffentlichung (Ereignis)</lido:term>
+						</lido:eventType>
+						<lido:eventActor>
+							<lido:displayActorInRole>Albrecht Dürer (1471-1928), Verleger</lido:displayActorInRole>
+							<lido:actorInRole>
+								<lido:actor lido:type="http://terminology.lido-schema.org/lido00163">
+									<lido:actorID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/11852786X</lido:actorID>
+									<lido:nameActorSet>
+										<lido:appellationValue lido:pref="preferred">Dürer, Albrecht</lido:appellationValue>
+									</lido:nameActorSet>
+									<lido:nameActorSet>
+										<lido:appellationValue lido:pref="alternative">Dürer, Albrecht (der Jüngere)</lido:appellationValue>
+									</lido:nameActorSet>
+									<lido:vitalDatesActor>
+										<lido:earliestDate lido:type="exactDate">1471-05-21</lido:earliestDate>
+										<lido:latestDate lido:type="exactDate">1528-04-06</lido:latestDate>
+									</lido:vitalDatesActor>
+								</lido:actor>
+								<lido:roleActor>
+									<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300025574</lido:conceptID>
+									<lido:term>Verleger</lido:term>
+								</lido:roleActor>
+							</lido:actorInRole>
+						</lido:eventActor>
+						<lido:eventDate>
+							<lido:displayDate>1511</lido:displayDate>
+							<lido:date>
+								<lido:earliestDate>1511</lido:earliestDate>
+								<lido:latestDate>1511</lido:latestDate>
+							</lido:date>
+						</lido:eventDate>
+						<lido:eventPlace>
+							<lido:place>
+								<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/tgn/7004334</lido:placeID>
+								<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://sws.geonames.org/3020251/</lido:placeID>
+								<lido:namePlaceSet>
+									<lido:appellationValue lido:pref="preferred">Nürnberg</lido:appellationValue>
+								</lido:namePlaceSet>
+							</lido:place>
+						</lido:eventPlace>
+					</lido:event>
+				</lido:eventSet>
+				<lido:eventSet>
+					<lido:displayEvent>Art in Renaissance Nuremberg - The Center of German Publishing, Metropolitan Museum of Art (New York, NY), 12.12.1996 - 30.1.1997</lido:displayEvent>
+					<lido:event>
+						<lido:eventType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00225</lido:conceptID>
+							<lido:term xml:lang="de">Ausstellung (Aktivität)</lido:term>
+						</lido:eventType>
+						<lido:eventName>
+							<lido:appellationValue>Art in Renaissance Nuremberg - The Center of German Publishing</lido:appellationValue>
+						</lido:eventName>
+						<lido:eventActor>
+							<lido:displayActorInRole>Metropolitan Museum of Art (New York, NY)</lido:displayActorInRole>
+							<lido:actorInRole>
+								<lido:actor lido:type="http://terminology.lido-schema.org/lido00413">
+									<lido:actorID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/1008914-7</lido:actorID>
+									<lido:nameActorSet>
+										<lido:appellationValue lido:pref="preferred">Metropolitan Museum of Art</lido:appellationValue>
+									</lido:nameActorSet>
+								</lido:actor>
+							</lido:actorInRole>
+						</lido:eventActor>
+						<lido:eventDate>
+							<lido:displayDate>12.12.1996 - 30.1.1997</lido:displayDate>
+							<lido:date>
+								<lido:earliestDate>1996-12-12</lido:earliestDate>
+								<lido:latestDate>1997-01-30</lido:latestDate>
+							</lido:date>
+						</lido:eventDate>
+						<lido:eventPlace>
+							<lido:place>
+								<lido:placeID lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/tgn/7007567</lido:placeID>
+								<lido:namePlaceSet>
+									<lido:appellationValue lido:pref="preferred">New York</lido:appellationValue>
+								</lido:namePlaceSet>
+							</lido:place>
+						</lido:eventPlace>
+					</lido:event>
+				</lido:eventSet>
+				<lido:eventSet>
+					<lido:event>
+						<lido:eventType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+							<lido:term xml:lang="de">Erwerb (Aktivität)</lido:term>
+						</lido:eventType>
+						<lido:eventDate>
+							<lido:displayDate>1984</lido:displayDate>
+							<lido:date>
+								<lido:earliestDate>1984</lido:earliestDate>
+								<lido:latestDate>1984</lido:latestDate>
+							</lido:date>
+						</lido:eventDate>
+						<lido:eventDescriptionSet>
+							<lido:descriptiveNoteValue>erworben auf der Auktion der Galerie Kornfeld (Bern), Lot Nr. 17</lido:descriptiveNoteValue>
+						</lido:eventDescriptionSet>
+					</lido:event>
+				</lido:eventSet>
+			</lido:eventWrap>
+			<lido:objectRelationWrap>
+				<lido:subjectWrap>
+					<lido:subjectSet>
+						<lido:subject>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/11H(JOHN)122</lido:conceptID>
+								<lido:term lido:pref="preferred">Johannes der Evangelist schreibt das Evangelium mit einem Element der göttlichen Eingebung, z.B. Engel, Hand Gottes, Maria</lido:term>
+								<lido:term lido:pref="alternative">11 H (JOHN) 12 2</lido:term>
+							</lido:subjectConcept>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/73G11</lido:conceptID>
+								<lido:term lido:pref="preferred">Johannes (schreibt) auf der Insel Patmos; zusätzlich kann neben ihm der Adler dargestellt sein</lido:term>
+								<lido:term lido:pref="alternative">73 G 11</lido:term>
+							</lido:subjectConcept>
+							<lido:subjectConcept>
+								<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://iconclass.org/11F4132</lido:conceptID>
+								<lido:term lido:pref="preferred">Madonna (in einer Mandorla) auf der Mondsichel (manchmal als Himmelskönigin bezeichnet)</lido:term>
+								<lido:term lido:pref="alternative">11 F 41 32</lido:term>
+							</lido:subjectConcept>
+						</lido:subject>
+					</lido:subjectSet>
+				</lido:subjectWrap>
+				<lido:relatedWorksWrap>
+					<!--  Bezug zu einem anderen Werk  -->
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectWebResource>https://www.britishmuseum.org/collection/object/P_1234752980</lido:objectWebResource> <!--invalide objectWebResource (Graphik 8.1)-->
+								<lido:objectID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://d-nb.info/gnd/38379-X">1871,1209.6497</lido:objectID>
+								<lido:objectNote>Unbekannt (nach Albrecht Dürer), Madonna in der Mondsichel, Kupferstich, 1514, seitenverkehrte Kopie</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00600</lido:conceptID>
+							<lido:term xml:lang="de">hat Kopie</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<!--  Werkverzeichnis + Nr. / Werknormdatensatz + ID  -->
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/1069790168</lido:objectID>
+								<lido:objectID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://d-nb.info/gnd/4405115-3">Bartsch VII.127.60</lido:objectID>
+								<lido:objectID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://d-nb.info/gnd/1080074066">Meder 1932.152.163</lido:objectID>
+								<lido:objectID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://d-nb.info/gnd/1124028463">Schoch II.69.111</lido:objectID>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00627</lido:conceptID>
+							<lido:term xml:lang="de">ist Exemplar von</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<!--  Zugehörigkeit zu einer Serie: 
+                    Es können mehrere Identifier für die Serie angegeben werden, falls vorhanden - es reicht jedoch auch die Angabe eines der folgenden Identifier. 
+                    Für die Beziehung auf der Werkebene wie hier im Beispiel wird der Beziehungstyp 'has broader conceptual context' mit der ConceptID http://terminology.lido-schema.org/lido00575 verwendet. Dies dient im Graphikportal dazu, alle Blätter aus derselben vom Künstler konzipierten Serie aus verschiedenen Sammlungen in einem Suchergebnis zusammenzuführen. 
+                    Für die Beziehung auf der Exemplarebene, d.h. die Zugehörigkeit dieses spezifischen Abzugs zu einem konkreten Buch-Exemplar, wäre hingegen der Beziehungstyp 'is physical part of' mit der ConceptID http://terminology.lido-schema.org/lido00255 zu verwenden.							
+                -->
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<lido:objectID lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4194713-7</lido:objectID>
+								<lido:objectID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://d-nb.info/gnd/4405115-3">Bartsch VII.127.60-75</lido:objectID>
+								<lido:objectID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://d-nb.info/gnd/1080074066">Meder 1932.151.163-178</lido:objectID>
+								<lido:objectNote>Dürer, Albrecht: Apokalypse, Holzschnittfolge von 15 Blatt, erstmals 1498 veröffentlicht</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<lido:relatedWorkRelType>
+							<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido12345</lido:conceptID> <!--Kein Wert aus LIDO-Terminologie (Graphik 9.2)-->
+							<lido:term xml:lang="de">hat größeren konzeptuellen Kontext</lido:term>
+						</lido:relatedWorkRelType>
+					</lido:relatedWorkSet>
+					<lido:relatedWorkSet>
+						<lido:relatedWork>
+							<lido:object>
+								<!--lido:objectID fehlt (Graphik 9.1a)-->
+								<lido:objectNote>Albrecht Dürer, Apokalypse, Serie, Inventarnummer 25366</lido:objectNote>
+							</lido:object>
+						</lido:relatedWork>
+						<!--lido:relatedWorkRelType fehlt (Graphik 9.1b)-->
+					</lido:relatedWorkSet>
+				</lido:relatedWorksWrap>
+			</lido:objectRelationWrap>
+		</lido:descriptiveMetadata>
+		<lido:administrativeMetadata xml:lang="de">
+			<lido:rightsWorkWrap>
+				<lido:rightsWorkSet>
+					<!--Fehlende Rechte am Werk (Graphik 5.1)-->
+					<lido:creditLine>gemeinfrei</lido:creditLine>
+				</lido:rightsWorkSet>
+			</lido:rightsWorkWrap>
+			<lido:recordWrap>
+				<lido:recordID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://ld.zdb-services.de/resource/organisations/DE-MUS-079214">t2/05091715,T,001</lido:recordID>
+				<lido:recordType>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+					<lido:term>Einzelobjekt</lido:term>
+				</lido:recordType>
+				<lido:recordSource>
+					<lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-MUS-079214</lido:legalBodyID>
+					<lido:legalBodyName>
+						<lido:appellationValue>Wallraf-Richartz-Museum - Fondation Corboud</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:recordSource>
+				<lido:recordRights>
+					<!--Fehlende Rechte an den Metadaten (Graphik 5.2)-->
+				</lido:recordRights>
+				<lido:recordInfoSet>
+					<lido:recordInfoLink>https://www.bildindex.de/document/obj123456789876543</lido:recordInfoLink> <!--invalider recordInfoLink (Graphik 8.2)-->
+				</lido:recordInfoSet>
+			</lido:recordWrap>
+			<lido:resourceWrap>
+				<lido:resourceSet>
+					<lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100" lido:source="http://ld.zdb-services.de/resource/organisations/DE-2102">RBA 214 932</lido:resourceID>
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+						<lido:linkResource>http://www.bildindex.de/bilder/m/mi11813dsfsfsfjösfc13 <!--invalider linkResource(Graphik 8.3)--></lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+						<lido:linkResource>http://www.bildindex.de/bilder/d/mi11813c13</lido:linkResource>
+					</lido:resourceRepresentation>
+					<lido:resourceDateTaken>
+						<lido:displayDate>2010-09-11</lido:displayDate>
+						<lido:date>
+							<lido:earliestDate>2010-09-11</lido:earliestDate>
+							<lido:latestDate>2010-09-11</lido:latestDate>
+						</lido:date>
+					</lido:resourceDateTaken>
+					<lido:resourceSource lido:type="http://terminology.lido-schema.org/lido00413">
+						<lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-2102</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue>Rheinisches Bildarchiv Köln</lido:appellationValue>
+						</lido:legalBodyName>
+						<lido:legalBodyWeblink>http://www.rheinisches-bildarchiv.de/</lido:legalBodyWeblink>
+					</lido:resourceSource>
+					<lido:rightsResource>
+						<!--Fehlende Rechte am Digitalisat (Graphik 5.3)-->
+						<lido:creditLine>gemeinfrei; Reproduktion: Rheinisches Bildarchiv Köln</lido:creditLine>
+					</lido:rightsResource>
+				</lido:resourceSet>
+			</lido:resourceWrap>
+		</lido:administrativeMetadata>
+	</lido:lido>
+</lido:lidoWrap>
